@@ -48,7 +48,7 @@ var state_data = {
 
 //Bende
 
-"Amankalu/akoliufu":"Bende",
+"Amankalu akoliufu":"Bende",
 "Bende":"Bende",
 "Igbere 'a'":"Bende",
 "Igbere 'b'":"Bende",
@@ -78,7 +78,7 @@ var state_data = {
 //Isiala Ngwa South
 
 "Akunekpu Eziama Na Obuba":"Isiala Ngwa South",
-"Amaise / Amaise Anaba":"Isiala Ngwa South",
+"Amaise  Amaise Anaba":"Isiala Ngwa South",
 "Ehina Guru Osokwa":"Isiala Ngwa South",
 "Mbutu Ngwa":"Isiala Ngwa South",
 "Mbutu Ukwu":"Isiala Ngwa South",
@@ -95,7 +95,7 @@ var state_data = {
 "Amasaa Ntigha":"Isiala Ngwa North",
 "Ihie":"Isiala Ngwa North",
 "Isiala Nsulu":"Isiala Ngwa North",
-"Mbawsi / Umuomainta":"Isiala Ngwa North",
+"Mbawsi Umuomainta":"Isiala Ngwa North",
 "Ngwa Ukwu I":"Isiala Ngwa North",
 "Ngwa Ukwu Ii":"Isiala Ngwa North",
 "Umunna Nsulu":"Isiala Ngwa North",
@@ -103,7 +103,7 @@ var state_data = {
 
 //ISUIKWUATO
 
-"Achara / Mgbugwu":"ISUIKWUATO",
+"Achara Mgbugwu":"ISUIKWUATO",
 "Ezere":"ISUIKWUATO",
 "Ikeagha I":"ISUIKWUATO",
 "Ikeagha Ii":"ISUIKWUATO",
@@ -144,13 +144,13 @@ var state_data = {
 
 //OSISIOMA
 
-"Ama - Asaa":"OSISIOMA",
+"Ama-Asaa":"OSISIOMA",
 "Amaitolu Mbutu Umuojima":"OSISIOMA",
 "Amasator":"OSISIOMA",
 "Amator":"OSISIOMA",
 "Amavo":"OSISIOMA",
-"Aro - Ngwa":"OSISIOMA",
-"Okpor - Umuobo":"OSISIOMA",
+"Aro-Ngwa":"OSISIOMA",
+"Okpor-Umuobo":"OSISIOMA",
 "Oso - Okwa":"OSISIOMA",
 "Umunneise":"OSISIOMA",
 "Urtta":"OSISIOMA",
@@ -177,7 +177,7 @@ var state_data = {
 "Ikwuorie":"UKWA EAST",
 "Ikwuriator East":"UKWA EAST",
 "Ikwuriator West":"UKWA EAST",
-"Nkporobe/ohuru":"UKWA EAST",
+"Nkporobe ohuru":"UKWA EAST",
 "Obohia":"UKWA EAST",
 "Umuigube Achara":"UKWA EAST",
 
@@ -212,13 +212,13 @@ var state_data = {
 "Ahiaukwu I":"UMUAHIA SOUTH",
 "Ahiaukwu Ii":"UMUAHIA SOUTH",
 "Amakama":"UMUAHIA SOUTH",
-"Ezeleke/ogbodiukwu":"UMUAHIA SOUTH",
+"Ezeleke ogbodiukwu":"UMUAHIA SOUTH",
 "Nsirimo":"UMUAHIA SOUTH",
 "Ohiaocha":"UMUAHIA SOUTH",
 "Old Umuahia":"UMUAHIA SOUTH",
 "Omaegwu":"UMUAHIA SOUTH",
-"Ubakala 'a'":"UMUAHIA SOUTH",
-"Ubakala 'b'":"UMUAHIA SOUTH",
+"Ubakala a":"UMUAHIA SOUTH",
+"Ubakala b":"UMUAHIA SOUTH",
 
 //NNEOCHI
 
