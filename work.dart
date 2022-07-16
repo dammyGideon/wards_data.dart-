@@ -10846,7 +10846,7 @@ var state_data = {
 
 
 
-//AB
+//Abia State
 
 "ABA SOUTH":"AB",
 "ABA NORTH":"AB",
@@ -10866,7 +10866,7 @@ var state_data = {
 "UMUAHIA SOUTH":"AB",
 "UMU - NNEOCHI":"AB",
 
-//AD
+//Adamawa State
 
 "DEMSA":"AD",
 "FUFORE":"AD",
@@ -10890,7 +10890,7 @@ var state_data = {
 "YOLA NORTH":"AD",
 "YOLA SOUTH":"AD",
 
-//AI
+//Akwa Ibom State
 
 "ABAK":"AI",
 "EASTERN OBOLO":"AI",
@@ -10928,7 +10928,7 @@ var state_data = {
 "URUE OFFONG/ORUKO":"AI",
 "UYO":"AI",
 
-//AN
+//Anambra State
 
 "AGUATA":"AN",
 "AYAMELUM":"AN",
@@ -10950,7 +10950,7 @@ var state_data = {
 "ONITSHA -SOUTH":"AN",
 "ORUMBA SOUTH":"AN",
 
-//BA
+//Bauchi State
 
 "ALKALERI":"BA",
 "BAUCHI":"BA",
@@ -10973,7 +10973,7 @@ var state_data = {
 "WARJI":"BA",
 "ZAKI":"BA",
 
-//BY
+//Bayelsa State
 
 "BRASS":"BY",
 "EKEREMOR":"BY",
@@ -10984,7 +10984,7 @@ var state_data = {
 "SOUTHERN IJAW":"BY",
 "YENAGOA":"BY",
 
-//BE
+//Benue State
 
 "ADO":"BE",
 "AGATU":"BE",
@@ -11010,7 +11010,8 @@ var state_data = {
 "USHONGO":"BE",
 "VANDEIKYA":"BE",
 
-//BO
+//Borno State
+  
 "AKOKO EDO":"BO",
 "ASKIRA / UBA":"BO",
 "BAMA":"BO",
@@ -11039,7 +11040,7 @@ var state_data = {
 "NGANZAI":"BO",
 "SHANI":"BO",
 
-//CR
+//Cross River State
 
 "AKOKO EDO":"CR",
 "AKAMKPA":"CR",
@@ -11060,7 +11061,7 @@ var state_data = {
 "YAKURR":"CR",
 "YALA":"CR",
 
-//DE
+//Delta State
 
 "AKOKO EDO":"DE",
 "ANIOCHA - SOUTH":"DE",
@@ -11088,7 +11089,7 @@ var state_data = {
 "WARRI SOUTH":"DE",
 "WARRI SOUTH WEST":"DE",
 
-//EB
+//Ebonyi State
 
 "AKOKO EDO":"EB",
 "AFIKPO NORTH":"EB",
@@ -11104,7 +11105,7 @@ var state_data = {
 "OHAUKWU":"EB",
 "ONICHA":"EB",
 
-//ED
+//Edo State
 
 "AKOKO EDO":"ED",
 "EGOR":"ED",
@@ -11124,7 +11125,7 @@ var state_data = {
 "OWAN EAST":"ED",
 "UHUNMWODE":"ED",
 
-//EK
+//Ekiti State
 
 "ADO EKITI":"EK",
 "EFON":"EK",
@@ -11143,7 +11144,7 @@ var state_data = {
 "MOBA":"EK",
 "OYE":"EK",
 
-//EN
+//Enugu State
 
 "ANINRI":"EN",
 "AWGU":"EN",
@@ -11161,7 +11162,7 @@ var state_data = {
 "UDI":"EN",
 "UZO-UWANI":"EN",
 
-//FC
+//FCT Abuja
 
 "ABAJI":"FC",
 "BWARI":"FC",
@@ -11170,7 +11171,7 @@ var state_data = {
 "KWALI":"FC",
 "MUNICIPAL":"FC",
 
-//GO
+//Gombe State
 
 "AKKO":"GO",
 "BALANGA":"GO",
@@ -11184,7 +11185,7 @@ var state_data = {
 "SHONGOM":"GO",
 "YALMALTU/ DEBA":"GO",
 
-//IM
+//Imo State
 
 "ABOH MBAISE":"IM",
 "AHIAZU MBAISE":"IM",
@@ -11215,7 +11216,7 @@ var state_data = {
 "OWERRI WEST (UMUGUMA)":"IM",
 
 
-//JI
+//Jigawa State
 
 "AUYO":"JI",
 "BABURA":"JI",
@@ -11245,7 +11246,7 @@ var state_data = {
 "TAURA":"JI",
 "YANKWASHI":"JI",
 
-//KA
+//Kaduna State
 
 "BIRNIN GWARI":"KA",
 "CHIKUN":"KA",
@@ -11271,7 +11272,7 @@ var state_data = {
 "ZANGON KATAF":"KA",
 "ZARIA":"KA",
 
-//KN
+//Kano State
 
 "AJINGI":"KN",
 "ALBASU":"KN",
@@ -11318,7 +11319,7 @@ var state_data = {
 "WARAWA":"KN",
 "WUDIL":"KN",
 
-//KT
+//Katsina State
 
 "BAKORI":"KT",
 "BATAGARAWA":"KT",
@@ -11353,7 +11354,8 @@ var state_data = {
 "SANDAMU":"KT",
 "ZANGO":"KT",
 
-//KE
+//Kebbi State
+  
 "ALIERO":"KE",
 "AREWA":"KE",
 "ARGUNGU":"KE",
@@ -11375,7 +11377,7 @@ var state_data = {
 "YAURI":"KE",
 "ZURU":"KE",
 
-//KO
+//Kogi State
 
 "ADAVI":"KO",
 "AJAOKUTA":"KO",
@@ -11398,7 +11400,7 @@ var state_data = {
 "OMALA":"KO",
 "YAGBA EAST":"KO",
 
-//KW
+//Kwara State
 
 "ASA":"KW",
 "BARUTEN":"KW",
@@ -11417,7 +11419,8 @@ var state_data = {
 "OYUN":"KW",
 "PATIGI":"KW",
 
-//LA
+//Lagos State
+  
 "AGEGE":"LA",
 "AJEROMI/IFELODUN":"LA",
 "ALIMOSHO":"LA",
@@ -11439,7 +11442,8 @@ var state_data = {
 "SOMOLU":"LA",
 "SURULERE":"LA",
 
-//NA
+//Nasarawa State
+  
 "AKWANGA":"NA",
 "AWE":"NA",
 "DOMA":"NA",
@@ -11454,7 +11458,8 @@ var state_data = {
 "NASARAWA":"NA",
 "OBI":"NA",
 
-//NI
+//Niger State
+  
 "AGAIE":"NI",
 "AGWARA":"NI",
 "BIDA":"NI",
@@ -11479,7 +11484,7 @@ var state_data = {
 "SULEJA":"NI",
 "TAFA":"NI",
 
-//OG
+//Ogun State
 
 "ABEOKUTA NORTH":"OG",
 "ABEOKUTA SOUTH":"OG",
@@ -11501,7 +11506,7 @@ var state_data = {
 "REMO NORTH":"OG",
 "SAGAMU":"OG",
 
-//ON
+//Ondo State
 
 "AKOKO NORTH EAST":"ON",
 "AKOKO NORTH WEST":"ON",
@@ -11522,7 +11527,7 @@ var state_data = {
 "OSE":"ON",
 "OWO":"ON",
 
-//OS
+//Osun State
 
 "ATAKUMOSA EAST":"OS",
 "ATAKUMOSA WEST":"OS",
@@ -11555,7 +11560,7 @@ var state_data = {
 "IREPODUN":"OS",
 "IFELODUN":"OS",
 
-//OY
+//Oyo State
 
 "AFIJIO":"OY",
 "AKINYELE":"OY",
@@ -11589,7 +11594,7 @@ var state_data = {
 "SAKI EAST":"OY",
 "SURULERE":"OY",
 
-//PL
+//Plateau State
 
 "BARIKIN LADI":"PL",
 "BOKKOS":"PL",
@@ -11607,7 +11612,8 @@ var state_data = {
 "SHENDAM":"PL",
 "WASE":"PL",
 
-//RI
+//Rivers State
+  
 "ABUA-ODUAL":"RI",
 "AHOADA EAST":"RI",
 "AHOADA WEST":"RI",
@@ -11632,7 +11638,7 @@ var state_data = {
 "PORT HARCOURT":"RI",
 "TAI":"RI",
 
-//SO
+//Sokoto State
 
 "BINJI":"SO",
 "BODINGA":"SO",
@@ -11658,7 +11664,7 @@ var state_data = {
 "WURNO":"SO",
 "YABO":"SO",
 
-//SO
+//Taraba State
 
 "ARDO- KOLA":"TA",
 "BALI":"TA",
@@ -11677,7 +11683,7 @@ var state_data = {
 "YORRO":"TA",
 "ZING":"TA",
 
-//YO
+//Yobe State
 
 "BADE":"YO",
 "BURSARI":"YO",
@@ -11696,7 +11702,9 @@ var state_data = {
 "TARMUWA":"YO",
 "YUNUSARI":"YO",
 "YUSUFARI":"YO",
-//ZA
+  
+//Zamfara State
+  
 "ANKA":"ZA",                                                                                                                                                                                                                                                                                                                                                                                                                                   
 "BAKURA":"ZA",
 "BIRNIN MAGAJI":"ZA",
