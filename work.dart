@@ -11697,7 +11697,7 @@ var state_data = {
 "YUNUSARI":"YO",
 "YUSUFARI":"YO",
 //ZA
-"ANKA":"ZA",
+"ANKA":"ZA",                                                                                                                                                                                                                                                                                                                                                                                                                                   
 "BAKURA":"ZA",
 "BIRNIN MAGAJI":"ZA",
 "BUKKUYUM":"ZA",
@@ -11712,4 +11712,4 @@ var state_data = {
 "TSAFE":"ZA",
 "ZURMI":"ZA",
   
-}
+};
