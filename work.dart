@@ -1,3 +1,6 @@
+var state_data = {
+
+//ABA SOUTH
 
 "Aba River":"ABA SOUTH",
 "Aba Town Hall":"ABA SOUTH",
@@ -11,7 +14,10 @@
 "Ngwa":"ABA SOUTH",
 "Ohazu I":"ABA SOUTH",
 "Ohazu Ii":"ABA SOUTH",
-:
+
+
+//ABA NORTH
+
 "Ariaria Market":"ABA NORTH",
 "Eziama":"ABA NORTH",
 "Industrial Area":"ABA NORTH",
@@ -24,7 +30,9 @@
 "Umuogor":"ABA NORTH",
 "Umuola":"ABA NORTH",
 "Uratta":"ABA NORTH",
-:
+
+//Arochukwu
+
 "Arochukwu I":"Arochukwu",
 "Arochukwu Ii":"Arochukwu",
 "Arochukwu Iii":"Arochukwu",
@@ -36,7 +44,10 @@
 "Ohafor Ii":"Arochukwu",
 "Ovukwu":"Arochukwu",
 "Ututu":"Arochukwu",
-:
+
+
+//Bende
+
 "Amankalu/akoliufu":"Bende",
 "Bende":"Bende",
 "Igbere 'a'":"Bende",
@@ -50,7 +61,9 @@
 "Umu - Imenyi":"Bende",
 "Umuhu / Ezechi":"Bende",
 "Uzuakoli":"Bende",
-:
+
+//Ikwuano
+
 "Ariam":"Ikwuano",
 "Ibere I":"Ikwuano",
 "Ibere Ii":"Ikwuano",
@@ -61,7 +74,9 @@
 "Oloko I":"Ikwuano",
 "Oloko Ii":"Ikwuano",
 "Usaka":"Ikwuano",
-:
+
+//Isiala Ngwa South
+
 "Akunekpu Eziama Na Obuba":"Isiala Ngwa South",
 "Amaise / Amaise Anaba":"Isiala Ngwa South",
 "Ehina Guru Osokwa":"Isiala Ngwa South",
@@ -72,7 +87,9 @@
 "Omoba":"Isiala Ngwa South",
 "Ovungwu":"Isiala Ngwa South",
 "Ovuokwu":"Isiala Ngwa South",
-:
+
+//Isiala Ngwa North
+
 "Amapu Ntigha":"Isiala Ngwa North",
 "Amasaa Nsulu":"Isiala Ngwa North",
 "Amasaa Ntigha":"Isiala Ngwa North",
@@ -83,7 +100,9 @@
 "Ngwa Ukwu Ii":"Isiala Ngwa North",
 "Umunna Nsulu":"Isiala Ngwa North",
 "Umuoha":"Isiala Ngwa North",
-:
+
+//ISUIKWUATO
+
 "Achara / Mgbugwu":"ISUIKWUATO",
 "Ezere":"ISUIKWUATO",
 "Ikeagha I":"ISUIKWUATO",
@@ -94,7 +113,9 @@
 "Ogunduasa":"ISUIKWUATO",
 "Umuanyi / Absu":"ISUIKWUATO",
 "Umunnekwu":"ISUIKWUATO",
-:
+
+//OBINGWA
+
 "Abayi I":"OBINGWA",
 "Abayi Ii":"OBINGWA",
 "Ahiaba":"OBINGWA",
@@ -106,7 +127,9 @@
 "Mgboko Umuanunu":"OBINGWA",
 "Ndiarata / Amairinabua":"OBINGWA",
 "Ntighauzo Amairi":"OBINGWA",
-:
+
+//OHAFIA
+
 "Agboji Abiriba":"OHAFIA",
 "Amaeke Abiriba":"OHAFIA",
 "Amaogudu Abiriba":"OHAFIA",
@@ -118,7 +141,9 @@
 "Ndi Etiti Nkporo":"OHAFIA",
 "Ohafor Ohoafia":"OHAFIA",
 "Okanu Ohoafia":"OHAFIA",
-:
+
+//OSISIOMA
+
 "Ama - Asaa":"OSISIOMA",
 "Amaitolu Mbutu Umuojima":"OSISIOMA",
 "Amasator":"OSISIOMA",
@@ -129,7 +154,9 @@
 "Oso - Okwa":"OSISIOMA",
 "Umunneise":"OSISIOMA",
 "Urtta":"OSISIOMA",
-:
+
+//UGWUNAGBO
+
 "Ward Eight":"UGWUNAGBO",
 "Ward Five":"UGWUNAGBO",
 "Ward Four":"UGWUNAGBO",
@@ -140,7 +167,9 @@
 "Ward Ten":"UGWUNAGBO",
 "Ward Three":"UGWUNAGBO",
 "Ward Two":"UGWUNAGBO",
-:
+
+//UKWA EAST
+
 "Akwete":"UKWA EAST",
 "Azumini":"UKWA EAST",
 "Ikwueke West":"UKWA EAST",
@@ -151,7 +180,9 @@
 "Nkporobe/ohuru":"UKWA EAST",
 "Obohia":"UKWA EAST",
 "Umuigube Achara":"UKWA EAST",
-:
+
+//UKWA WEST
+
 "Asa North":"UKWA WEST",
 "Asa South":"UKWA WEST",
 "Ipu South":"UKWA WEST",
@@ -162,7 +193,9 @@
 "Ogwe":"UKWA WEST",
 "Ozaa West":"UKWA WEST",
 "Ozaa Ukwu":"UKWA WEST",
-:
+
+//UMUAHIA NORTH
+
 "Afugiri":"UMUAHIA NORTH",
 "Ibeku East I":"UMUAHIA NORTH",
 "Ibeku East Ii":"UMUAHIA NORTH",
@@ -173,7 +206,9 @@
 "Nkwoegwu":"UMUAHIA NORTH",
 "Umuahia Urban I":"UMUAHIA NORTH",
 "Umuahia Urban Ii":"UMUAHIA NORTH",
-:
+
+//UMUAHIA SOUTH
+
 "Ahiaukwu I":"UMUAHIA SOUTH",
 "Ahiaukwu Ii":"UMUAHIA SOUTH",
 "Amakama":"UMUAHIA SOUTH",
@@ -184,7 +219,9 @@
 "Omaegwu":"UMUAHIA SOUTH",
 "Ubakala 'a'":"UMUAHIA SOUTH",
 "Ubakala 'b'":"UMUAHIA SOUTH",
-:
+
+//NNEOCHI
+
 "Amuda":"UMU - NNEOCHI",
 "Eziama - Agbo":"UMU - NNEOCHI",
 "Eziama - Ugwu":"UMU - NNEOCHI",
@@ -195,7 +232,9 @@
 "Ubahu/akawa/arokpa":"UMU - NNEOCHI",
 "Umuaku":"UMU - NNEOCHI",
 "Umuchieze I":"UMU - NNEOCHI",
-:
+
+//DEMSA
+
 "Bille":"DEMSA",
 "Borrong":"DEMSA",
 "Demsa":"DEMSA",
@@ -206,7 +245,9 @@
 "Kpasham":"DEMSA",
 "Mbula Kuli":"DEMSA",
 "Nassarawo Demsa":"DEMSA",
-:
+
+//FUFORE
+
 "Beti":"FUFORE",
 "Farang":"FUFORE",
 "Fufore":"FUFORE",
@@ -217,7 +258,9 @@
 "Ribadu":"FUFORE",
 "Uki Tuki":"FUFORE",
 "Wuro Bokki":"FUFORE",
-:
+
+//GANYE
+
 "Bakari Guso":"GANYE",
 "Gamu":"GANYE",
 "Ganye I":"GANYE",
@@ -228,7 +271,9 @@
 "Sugu":"GANYE",
 "Timdore":"GANYE",
 "Yebbi":"GANYE",
-:
+
+//GEREI I
+
 "Dakri":"GEREI I",
 "Damare":"GEREI I",
 "Gerei I":"GEREI I",
@@ -239,7 +284,9 @@
 "Modire/ Vinikilang":"GEREI I",
 "Tambo":"GEREI I",
 "Wuro Dole":"GEREI I",
-:
+
+//GOMBI
+
 "Boga/ Dingai":"GOMBI",
 "Duwa":"GOMBI",
 "Ga'anda":"GOMBI",
@@ -250,7 +297,9 @@
 "Guyaku":"GOMBI",
 "Tawa":"GOMBI",
 "Yang":"GOMBI",
-:
+
+//GOMBI
+
 "Banjiram":"GUYUK",
 "Bobini":"GUYUK",
 "Bodeno":"GUYUK",
@@ -261,7 +310,9 @@
 "Kola":"GUYUK",
 "Lokoro":"GUYUK",
 "Purokayo":"GUYUK",
-:
+
+//HONG
+
 "Bangshika":"HONG",
 "Daksiri":"HONG",
 "Garaha":"HONG",
@@ -272,7 +323,9 @@
 "Kwarhi":"HONG",
 "Mayo Lope":"HONG",
 "Shangui":"HONG",
-:
+
+//JADA
+
 "Danaba":"JADA",
 "Jada I":"JADA",
 "Jada Ii":"JADA",
@@ -283,7 +336,9 @@
 "Mayokalaye":"JADA",
 "Mbulo":"JADA",
 "Nyibango":"JADA",
-:
+
+//LAMURDE
+
 "Dubwangun":"LAMURDE",
 "Gyawana":"LAMURDE",
 "Lafiya":"LAMURDE",
@@ -294,7 +349,9 @@
 "Rigange":"LAMURDE",
 "Suwa":"LAMURDE",
 "Waduku":"LAMURDE",
-:
+
+//MADAGALI
+
 "Babel":"MADAGALI",
 "Duhu/ Shuwa":"MADAGALI",
 "Gulak":"MADAGALI",
@@ -305,7 +362,9 @@
 "Shelmi / Sukur/ Vapura":"MADAGALI",
 "Wagga":"MADAGALI",
 "Wula":"MADAGALI",
-:
+
+//MAIHA
+
 "Belel":"MAIHA",
 "Humbutudi":"MAIHA",
 "Konkol":"MAIHA",
@@ -316,7 +375,9 @@
 "Sorau 'a'":"MAIHA",
 "Sorau 'b'":"MAIHA",
 "Tambajam":"MAIHA",
-:
+
+//BELWA
+
 "Bajama":"MAYO - BELWA",
 "Binyeri":"MAYO - BELWA",
 "Gangfada":"MAYO - BELWA",
@@ -327,7 +388,9 @@
 "Nassarawo Jereng":"MAYO - BELWA",
 "Ndikong":"MAYO - BELWA",
 "Ribadu":"MAYO - BELWA",
-:
+
+//MICHIKA
+
 "Bazza Margi":"MICHIKA",
 "Futudou / Futules":"MICHIKA",
 "Garta / Ghunchi":"MICHIKA",
@@ -338,7 +401,9 @@
 "Minkisi/ Wuro Ngiki":"MICHIKA",
 "Moda / Dlaka / Ghenjuwa":"MICHIKA",
 "Munkavicita":"MICHIKA",
-:
+
+//MUBI NORTH
+
 "Bahuli":"MUBI NORTH",
 "Betso":"MUBI NORTH",
 "Digil":"MUBI NORTH",
@@ -350,7 +415,9 @@
 "Sabon Layi":"MUBI NORTH",
 "Vimtim":"MUBI NORTH",
 "Yelwa":"MUBI NORTH",
-:
+
+//MUBI SOUTH
+
 "Dirbishi/gandira":"MUBI SOUTH",
 "Duvu/ Chaba/ Girburum":"MUBI SOUTH",
 "Gella":"MUBI SOUTH",
@@ -361,7 +428,9 @@
 "Mujara":"MUBI SOUTH",
 "Nassarawo":"MUBI SOUTH",
 "Nduku":"MUBI SOUTH",
-:
+
+//NUMAN
+
 "Bare":"NUMAN",
 "Bolki":"NUMAN",
 "Gamadio":"NUMAN",
@@ -372,7 +441,9 @@
 "Numan Iii":"NUMAN",
 "Sabon Pegi":"NUMAN",
 "Vulpi":"NUMAN",
-:
+
+//SHELLENG
+
 "Bakta":"SHELLENG",
 "Bodwai":"SHELLENG",
 "Gundo":"SHELLENG",
@@ -383,7 +454,9 @@
 "Libbo":"SHELLENG",
 "Shelleng":"SHELLENG",
 "Tallum":"SHELLENG",
-:
+
+//SONG
+
 "Dirma":"SONG",
 "Dumne":"SONG",
 "Gudu Mboi":"SONG",
@@ -394,7 +467,9 @@
 "Song Waje":"SONG",
 "Suktu":"SONG",
 "Waltandi":"SONG",
-:
+
+//TOUNGO
+
 "Dawo I":"TOUNGO",
 "Dawo Ii":"TOUNGO",
 "Gumti":"TOUNGO",
@@ -405,7 +480,9 @@
 "Toungo I":"TOUNGO",
 "Toungo Ii":"TOUNGO",
 "Toungo Iii":"TOUNGO",
-:
+
+//YOLA NORTH
+
 "Ajiya":"YOLA NORTH",
 "Alkalawa":"YOLA NORTH",
 "Doubeli":"YOLA NORTH",
@@ -416,7 +493,9 @@
 "Luggere":"YOLA NORTH",
 "Nassarawo":"YOLA NORTH",
 "Rumde":"YOLA NORTH",
-:
+
+//YOLA SOUTH
+
 "Adarawo":"YOLA SOUTH",
 "Bako":"YOLA SOUTH",
 "Bole Yolde Pate":"YOLA SOUTH",
@@ -427,7 +506,9 @@
 "Namtari":"YOLA SOUTH",
 "Ngurore":"YOLA SOUTH",
 "Toungo":"YOLA SOUTH",
-:
+
+//ABAK
+
 "Abak Urban 11":"ABAK",
 "Abak Urban 111":"ABAK",
 "Abak Urban 1v":"ABAK",
@@ -437,7 +518,9 @@
 "Midim 11":"ABAK",
 "Otoro 1":"ABAK",
 "Otoro 11":"ABAK",
-:
+
+//EASTERN OBOLO
+
 "Eastern Obolo 1":"EASTERN OBOLO",
 "Eastern Obolo 1v":"EASTERN OBOLO",
 "Eastern Obolo Ix":"EASTERN OBOLO",
@@ -446,7 +529,9 @@
 "Eastern Obolo V11":"EASTERN OBOLO",
 "Eastern Obolo V111":"EASTERN OBOLO",
 "Eastern Obolo X":"EASTERN OBOLO",
-:
+
+//EKET
+
 "Central 1":"EKET",
 "Central 11":"EKET",
 "Central 111":"EKET",
@@ -455,7 +540,9 @@
 "Urban 1":"EKET",
 "Urban 11":"EKET",
 "Urban 111":"EKET",
-:
+
+//ESIT EKET (UQUO)
+
 "Akpautong":"ESIT EKET (UQUO)",
 "Ebe Ekpi":"ESIT EKET (UQUO)",
 "Ebighi Okpono":"ESIT EKET (UQUO)",
@@ -464,7 +551,9 @@
 "Ikpa":"ESIT EKET (UQUO)",
 "Ntak Inyang":"ESIT EKET (UQUO)",
 "Uquo":"ESIT EKET (UQUO)",
-:
+
+//ESSIEN UDIM
+
 "Akpautong":"ESSIEN UDIM",
 "Ebe Ekpi":"ESSIEN UDIM",
 "Ebighi Okpono":"ESSIEN UDIM",
@@ -473,7 +562,9 @@
 "Etebi Akwata":"ESSIEN UDIM",
 "Etebi Idung Assan":"ESSIEN UDIM",
 "Uquo":"ESSIEN UDIM",
-:
+
+//ETIM EKPO
+
 "Etim Ekpo 1":"ETIM EKPO",
 "Etim Ekpo 11":"ETIM EKPO",
 "Etim Ekpo 111":"ETIM EKPO",
@@ -493,7 +584,9 @@
 "Southern Iman 1":"ETINAN",
 "Southern Iman 11":"ETINAN",
 "Southern Iman 111":"ETINAN",
-:
+
+//IBENO
+
 "Ibeno 1":"IBENO",
 "Ibeno 11":"IBENO",
 "Ibeno 111":"IBENO",
@@ -504,7 +597,9 @@
 "Ibeno V111":"IBENO",
 "Ibeno Vi":"IBENO",
 "Ibeno X":"IBENO",
-:
+
+//IBESIKPO ASUTAN
+
 "Asutan 1":"IBESIKPO ASUTAN",
 "Asutan 11":"IBESIKPO ASUTAN",
 "Asutan 111":"IBESIKPO ASUTAN",
@@ -515,7 +610,9 @@
 "Ibesikpo 111":"IBESIKPO ASUTAN",
 "Ibesikpo 1v":"IBESIKPO ASUTAN",
 "Ibesikpo V":"IBESIKPO ASUTAN",
-:
+
+//IBIONO IBOM
+
 "Ibiono Central 1":"IBIONO IBOM",
 "Ibiono Central 11":"IBIONO IBOM",
 "Ibiono Eastern 1":"IBIONO IBOM",
@@ -526,7 +623,9 @@
 "Ibiono Southern 11":"IBIONO IBOM",
 "Ibiono Western 1":"IBIONO IBOM",
 "Ibiono Western 11":"IBIONO IBOM",
-:
+
+//IKA
+
 "Achan 11":"IKA",
 "Achan 111":"IKA",
 "Achan Ika":"IKA",
@@ -537,7 +636,9 @@
 "Odoro 11":"IKA",
 "Urban 1":"IKA",
 "Urban 11":"IKA",
-:
+
+//IKONO
+
 "1tak":"IKONO",
 "Ediene 1":"IKONO",
 "Ediene 11":"IKONO",
@@ -549,7 +650,9 @@
 "Ndiya/ikot Idana":"IKONO",
 "Nkwot 1":"IKONO",
 "Nkwot 11":"IKONO",
-:
+
+//IKOT ABASI
+
 "Edemaya 1":"IKOT ABASI",
 "Edemaya 11":"IKOT ABASI",
 "Edemaya 111":"IKOT ABASI",
@@ -560,7 +663,9 @@
 "Ukpum Ete 1":"IKOT ABASI",
 "Ukpum Ete 11":"IKOT ABASI",
 "Ukpum Okon":"IKOT ABASI",
-:
+
+//IKOT EKPENE
+
 "Ikot Ekpene 1":"IKOT EKPENE",
 "Ikot Ekpene 11":"IKOT EKPENE",
 "Ikot Ekpene 111":"IKOT EKPENE",
@@ -572,7 +677,9 @@
 "Ikot Ekpene V111":"IKOT EKPENE",
 "Ikot Ekpene X":"IKOT EKPENE",
 "Ikot Ekpene X1":"IKOT EKPENE",
-:
+
+//INI
+
 "Ikono North 1":"INI",
 "Ikono North 11":"INI",
 "Ikono North 111":"INI",
@@ -583,7 +690,9 @@
 "Nkari":"INI",
 "Odoro Ukwok":"INI",
 "Usuk Ukwok":"INI",
-:
+
+//ITU
+
 "East Itam 1":"ITU",
 "East Itam 11":"ITU",
 "East Itam 111":"ITU",
@@ -594,7 +703,9 @@
 "West Itam 1":"ITU",
 "West Itam 11":"ITU",
 "West Itam 111":"ITU",
-:
+
+//MBO
+
 "Ebughu 1":"MBO",
 "Ebughu 11":"MBO",
 "Efiat 1":"MBO",
@@ -605,7 +716,9 @@
 "Uda 1":"MBO",
 "Uda 11":"MBO",
 "Udesi":"MBO",
-:
+
+//MKPAT ENIN
+
 "Ibiaku 1":"MKPAT ENIN",
 "Ibiaku 11":"MKPAT ENIN",
 "Ibiaku 111":"MKPAT ENIN",
@@ -616,7 +729,9 @@
 "Ikpa Ikono 1":"MKPAT ENIN",
 "Ikpa Ikono 11":"MKPAT ENIN",
 "Ikpa Ikono 111":"MKPAT ENIN",
-:
+
+//NSIT ATAI
+
 "Eastern Nsit 1":"NSIT ATAI",
 "Eastern Nsit 11":"NSIT ATAI",
 "Eastern Nsit 111":"NSIT ATAI",
@@ -627,7 +742,9 @@
 "Eastern Nsit V11":"NSIT ATAI",
 "Eastern Nsit V111":"NSIT ATAI",
 "Eastern Nsit X":"NSIT ATAI",
-:
+
+//NSIT IBOM
+
 "Asang 1":"NSIT IBOM",
 "Asang 11":"NSIT IBOM",
 "Asang 111":"NSIT IBOM",
@@ -638,7 +755,9 @@
 "Mbaiso 111":"NSIT IBOM",
 "Mbaiso 1v":"NSIT IBOM",
 "Mbaiso V":"NSIT IBOM",
-:
+
+//NSIT UBIUM
+
 "Ibiakpan Obotim 1":"NSIT UBIUM",
 "Ibiakpan/obotim 11":"NSIT UBIUM",
 "Itreto":"NSIT UBIUM",
@@ -649,7 +768,9 @@
 "Ubium South 1":"NSIT UBIUM",
 "Ubium South 11":"NSIT UBIUM",
 "Ubium South 111":"NSIT UBIUM",
-:
+
+//OBOT AKARA
+
 "Ikot Abia 1":"OBOT AKARA",
 "Ikot Abia 11":"OBOT AKARA",
 "Ikot Abia 111":"OBOT AKARA",
@@ -660,7 +781,9 @@
 "Obot Akara 1":"OBOT AKARA",
 "Obot Akara 11":"OBOT AKARA",
 "Obot Akara 111":"OBOT AKARA",
-:
+
+//OKOBO
+
 "Akai/mbukpo/udung":"OKOBO",
 "Ekeya":"OKOBO",
 "Eweme 1":"OKOBO",
@@ -671,7 +794,9 @@
 "Offi 11":"OKOBO",
 "Okopedi 1":"OKOBO",
 "Okopedi 11":"OKOBO",
-:
+
+//ONNA
+
 "Awa 1":"ONNA",
 "Awa 11":"ONNA",
 "Awa 111":"ONNA",
@@ -682,7 +807,9 @@
 "Oniong East 11":"ONNA",
 "Oniong East 111":"ONNA",
 "Oniong West 1":"ONNA",
-:
+
+//ORON
+
 "Oron Urban Ix":"ORON",
 "Oron Urban X":"ORON",
 "Oron Urban 1":"ORON",
@@ -693,7 +820,9 @@
 "Oron Urban V1":"ORON",
 "Oron Urban V11":"ORON",
 "Oron Urban V111":"ORON",
-:
+
+//ORUK ANAM
+
 "Abak Midim 1":"ORUK ANAM",
 "Abak Midim 11":"ORUK ANAM",
 "Abak Midim 111":"ORUK ANAM",
@@ -704,7 +833,9 @@
 "Ikot Ibritam 1":"ORUK ANAM",
 "Ikot Ibritam 11":"ORUK ANAM",
 "Ndot/ikot Okoro 1":"ORUK ANAM",
-:
+
+//UDUNG UKO
+
 "Udung Uko 1":"UDUNG UKO",
 "Udung Uko 11":"UDUNG UKO",
 "Udung Uko 111":"UDUNG UKO",
@@ -715,7 +846,9 @@
 "Udung Uko V11":"UDUNG UKO",
 "Udung Uko V111":"UDUNG UKO",
 "Udung Uko X":"UDUNG UKO",
-:
+
+//UKANAFUN
+
 "Northern Afaha 1":"UKANAFUN",
 "Northern Afaha 11":"UKANAFUN",
 "Northern Ukanafun 1":"UKANAFUN",
@@ -726,7 +859,9 @@
 "Southern Afaha, Adat Ifang 1v":"UKANAFUN",
 "Southern Ukanafun 1":"UKANAFUN",
 "Southern Ukanafun 11":"UKANAFUN",
-:
+
+// URUAN
+
 "Central Uruan 11":"URUAN",
 "Centyral Uruan 1":"URUAN",
 "Centyral Uruan 111":"URUAN",
@@ -737,7 +872,9 @@
 "Southern Uruan 111":"URUAN",
 "Southern Uruan Iv":"URUAN",
 "Southern Uruan V":"URUAN",
-:
+
+//URUE OFFONG/ORUKO
+
 "Oruko 1":"URUE OFFONG/ORUKO",
 "Oruko 11":"URUE OFFONG/ORUKO",
 "Oruko 111":"URUE OFFONG/ORUKO",
@@ -748,7 +885,9 @@
 "Urue Offong 111":"URUE OFFONG/ORUKO",
 "Urue Offong 1v":"URUE OFFONG/ORUKO",
 "Urue Offong V":"URUE OFFONG/ORUKO",
-:
+
+//UYO
+
 "Etoi 1":"UYO",
 "Etoi 11":"UYO",
 "Ikono 1":"UYO",
@@ -759,7 +898,9 @@
 "Oku 11":"UYO",
 "Uyo Urban 1":"UYO",
 "Uyo Urban 11":"UYO",
-:
+
+//AGUATA
+
 "Achina I":"AGUATA",
 "Achina Ii":"AGUATA",
 "Agulueze Chukwu":"AGUATA",
@@ -770,7 +911,9 @@
 "Ezinifite I":"AGUATA",
 "Ezinifite Ii":"AGUATA",
 "Igbo - Ukwu Ii":"AGUATA",
-:
+
+//AYAMELUM
+
 "Anaku":"AYAMELUM",
 "Ifite Ogwari I":"AYAMELUM",
 "Ifite Ogwari Ii":"AYAMELUM",
@@ -781,7 +924,9 @@
 "Omor Iii":"AYAMELUM",
 "Ume Rum":"AYAMELUM",
 "Umueje Umueje":"AYAMELUM",
-:
+
+//ANAMBRA EAST
+
 "Aguleri":"ANAMBRA EAST",
 "Aguleri Ii":"ANAMBRA EAST",
 "Enugwu-otu":"ANAMBRA EAST",
@@ -792,7 +937,9 @@
 "Nando Iii":"ANAMBRA EAST",
 "Nsugbe I":"ANAMBRA EAST",
 "Nsugbe Ii":"ANAMBRA EAST",
-:
+
+//ANAMBRA WEST
+
 "Ezi-anam":"ANAMBRA WEST",
 "Ifite-anam":"ANAMBRA WEST",
 "Nzam":"ANAMBRA WEST",
@@ -803,7 +950,9 @@
 "Umueze-anam I":"ANAMBRA WEST",
 "Umueze-anam Ii":"ANAMBRA WEST",
 "Umuoba-anam":"ANAMBRA WEST",
-:
+
+//ANAOCHA
+
 "Adazi Ani I":"ANAOCHA",
 "Adazi Ani Ii":"ANAOCHA",
 "Adazi Enu I":"ANAOCHA",
@@ -814,7 +963,9 @@
 "Agulu I":"ANAOCHA",
 "Agulu Ii":"ANAOCHA",
 "Agulu Iii":"ANAOCHA",
-:
+
+//AWKA NORTH
+
 "Achalla I":"AWKA NORTH",
 "Achalla I1":"AWKA NORTH",
 "Achalla I1i":"AWKA NORTH",
@@ -825,7 +976,9 @@
 "Ebenebe Ii":"AWKA NORTH",
 "Ebenebe Iii":"AWKA NORTH",
 "Isu Aniocha":"AWKA NORTH",
-:
+
+//AWKA SOUTH
+
 "Agu Oka":"AWKA SOUTH",
 "Amawbia I":"AWKA SOUTH",
 "Amawbia Ii":"AWKA SOUTH",
@@ -836,7 +989,9 @@
 "Awka Iv":"AWKA SOUTH",
 "Awka V":"AWKA SOUTH",
 "Awka Vi":"AWKA SOUTH",
-:
+
+//DUNUKOFIA
+
 "Akwa":"DUNUKOFIA",
 "Ifitedunu I":"DUNUKOFIA",
 "Ifitedunu Ii":"DUNUKOFIA",
@@ -847,7 +1002,9 @@
 "Ukpo Iii":"DUNUKOFIA",
 "Ukwulu I":"DUNUKOFIA",
 "Ukwulu Ii":"DUNUKOFIA",
-:
+
+//EKWUSIGO
+
 "Amakwa Ii":"EKWUSIGO",
 "Ichi":"EKWUSIGO",
 "Ihembosi/anaubahu":"EKWUSIGO",
@@ -858,7 +1015,9 @@
 "Ozubulu I":"EKWUSIGO",
 "Ozubulu Ii":"EKWUSIGO",
 "Ozubulu Iii":"EKWUSIGO",
-:
+
+//IDEMILI NORTH
+
 "Abacha":"IDEMILI NORTH",
 "Abatete":"IDEMILI NORTH",
 "Eziowele":"IDEMILI NORTH",
@@ -869,7 +1028,9 @@
 "Ogidi I":"IDEMILI NORTH",
 "Ogidi Ii":"IDEMILI NORTH",
 "Oraukwu":"IDEMILI NORTH",
-:
+
+//IDEMILI-SOUTH
+
 "Akwukwu":"IDEMILI-SOUTH",
 "Alor I":"IDEMILI-SOUTH",
 "Alor Ii":"IDEMILI-SOUTH",
@@ -880,7 +1041,9 @@
 "Nnobi Ii":"IDEMILI-SOUTH",
 "Nnokwa":"IDEMILI-SOUTH",
 "Oba I":"IDEMILI-SOUTH",
-:
+
+//IHIALA
+
 "Amamu I":"IHIALA",
 "Amamu Ii":"IHIALA",
 "Amorka":"IHIALA",
@@ -891,7 +1054,9 @@
 "Mbosi":"IHIALA",
 "Ogbolo":"IHIALA",
 "Okija I":"IHIALA",
-:
+
+//NJIKOKA
+
 "Abagana I":"NJIKOKA",
 "Abagana Ii":"NJIKOKA",
 "Abagana Iii":"NJIKOKA",
@@ -902,7 +1067,9 @@
 "Enugwu Ukwu Ii":"NJIKOKA",
 "Enugwu Ukwu Iii":"NJIKOKA",
 "Enugwu Ukwu Iv":"NJIKOKA",
-:
+
+//NNEWI NORTH
+
 "Nnewi-ichi I":"NNEWI NORTH",
 "Nnewi-ichi Ii":"NNEWI NORTH",
 "Otolo I":"NNEWI NORTH",
@@ -913,7 +1080,9 @@
 "Uruagu I":"NNEWI NORTH",
 "Uruagu Ii":"NNEWI NORTH",
 "Uruagu Iii":"NNEWI NORTH",
-:
+
+//NNEWI SOUTH
+
 "Akwa-ihedi":"NNEWI SOUTH",
 "Amichi I":"NNEWI SOUTH",
 "Amichi Ii":"NNEWI SOUTH",
@@ -924,7 +1093,9 @@
 "Ezinifite":"NNEWI SOUTH",
 "Ezinifite I":"NNEWI SOUTH",
 "Ezinifite Ii":"NNEWI SOUTH",
-:
+
+//OGBARU
+
 "Akili - Ozizor":"OGBARU",
 "Akili Ogidi/obeagwe":"OGBARU",
 "Atani I":"OGBARU",
@@ -941,7 +1112,9 @@
 "Okpoko Vi":"OGBARU",
 "Ossomala":"OGBARU",
 "Umunankwo/mputu":"OGBARU",
-:
+
+//ONITSHA-NORTH
+
 "American Quarters":"ONITSHA-NORTH",
 "G.r.a":"ONITSHA-NORTH",
 "Inland Town I":"ONITSHA-NORTH",
@@ -958,7 +1131,9 @@
 "Water-side Central Ii":"ONITSHA-NORTH",
 "Woluwo Layout":"ONITSHA-NORTH",
 "Umunankwo/mputu":"ONITSHA-NORTH",
-:
+
+//ONITSHA-NORTH
+
 "Bridge Head I":"ONITSHA-NORTH",
 "Bridge Head Ii":"ONITSHA-NORTH",
 "Bridge Head Iii":"ONITSHA-NORTH",
@@ -976,7 +1151,9 @@
 "Odoakpu V":"ONITSHA-NORTH",
 "Odoakpu Vi":"ONITSHA-NORTH",
 "Odoakpu Vii":"ONITSHA-NORTH",
-:
+
+//ONITSHA -SOUTH
+
 "Bridge Head I":"ONITSHA -SOUTH",
 "Bridge Head Ii":"ONITSHA -SOUTH",
 "Bridge Head Iii":"ONITSHA -SOUTH",
@@ -994,7 +1171,8 @@
 "Odoakpu V":"ONITSHA -SOUTH",
 "Odoakpu Vi":"ONITSHA -SOUTH",
 "Odoakpu Vii":"ONITSHA -SOUTH",
-:
+//ORUMBA SOUTH
+
 "Agbudu":"ORUMBA SOUTH",
 "Akpu":"ORUMBA SOUTH",
 "Enugu/umonyia":"ORUMBA SOUTH",
@@ -1013,7 +1191,9 @@
 "Umunze Ii":"ORUMBA SOUTH",
 "Umunze Iii":"ORUMBA SOUTH",
 "Umuomaku":"ORUMBA SOUTH",
-:
+
+//ALKALERI
+
 "Alkaleri":"ALKALERI",
 "Birin/ Gigara/ Yankari":"ALKALERI",
 "Dan Kungibar":"ALKALERI",
@@ -1025,7 +1205,9 @@
 "Pali":"ALKALERI",
 "Yalo":"ALKALERI",
 "Yuli/ Lim":"ALKALERI",
-:
+
+//BAUCHI
+
 "Birshi/miri":"BAUCHI",
 "Dan'iya Hardo":"BAUCHI",
 "Dandango/yamrat":"BAUCHI",
@@ -1038,7 +1220,9 @@
 "Makama/sarki Baki":"BAUCHI",
 "Mun/munsal":"BAUCHI",
 "Zungur/liman Katagum":"BAUCHI",
-:
+
+//BOGORO
+
 ""B O I ""a"""":"BOGORO",
 ""B O I ""b"""":"BOGORO",
 ""B O I ""c"""":"BOGORO",
@@ -1049,7 +1233,9 @@
 ""Lusa ""a"""":"BOGORO",
 ""Lusa ""b"""":"BOGORO",
 ""Lusa ""c"""":"BOGORO",
-:
+
+//DAMBAM
+
 "Dagauda":"DAMBAM",
 "Dambam":"DAMBAM",
 "Gargawa":"DAMBAM",
@@ -1060,7 +1246,9 @@
 "Yame":"DAMBAM",
 "Yanda":"DAMBAM",
 "Zaura":"DAMBAM",
-:
+
+//DARAZO
+
 "Darazo":"DARAZO",
 "Gabarin":"DARAZO",
 "Gabciyari":"DARAZO",
@@ -1072,7 +1260,9 @@
 "Tauya":"DARAZO",
 "Wahu":"DARAZO",
 "Yautare":"DARAZO",
-:
+
+//DASS
+
 "Bagel/bajar":"DASS",
 "Baraza":"DASS",
 "Bundot":"DASS",
@@ -1083,7 +1273,9 @@
 "Polchi":"DASS",
 "Wandi":"DASS",
 "Zumbul/lukshi":"DASS",
-:
+
+//GAMAWA
+
 "Alagarno/jadori":"GAMAWA",
 "Gadiya":"GAMAWA",
 "Gamawa":"GAMAWA",
@@ -1095,7 +1287,9 @@
 "Tumbi":"GAMAWA",
 "Udubo":"GAMAWA",
 "Zindi":"GAMAWA",
-:
+
+//GANJUWA
+
 "Ganjuwa":"GANJUWA",
 "Gungura":"GANJUWA",
 "Kafin Madaki":"GANJUWA",
@@ -1107,7 +1301,9 @@
 "Nasarawa South":"GANJUWA",
 "Nasarawa North":"GANJUWA",
 "Yali":"GANJUWA",
-:
+
+//GIADE
+
 "Chinkani":"GIADE",
 "Doguwa South":"GIADE",
 "Doguwa Central":"GIADE",
@@ -1118,7 +1314,9 @@
 ""Uzum ""b"""":"GIADE",
 "Zabi":"GIADE",
 "Zirrami":"GIADE",
-:
+
+//ITAS/GADAU
+
 "Abdallawa/magarya":"ITAS/GADAU",
 "Bambal":"ITAS/GADAU",
 "Bilkicheri":"ITAS/GADAU",
@@ -1129,7 +1327,9 @@
 "Kashuri":"ITAS/GADAU",
 "Mashema":"ITAS/GADAU",
 "Zubuki":"ITAS/GADAU",
-:
+
+//JAMA'ARE
+
 ""Dogon Jeji ""a"""":"JAMA'ARE",
 ""Dogon Jeji ""b"""":"JAMA'ARE",
 ""Dogon Jeji ""c"""":"JAMA'ARE",
@@ -1140,7 +1340,9 @@
 ""Jama'are ""c"""":"JAMA'ARE",
 ""Jama'are ""d"""":"JAMA'ARE",
 "Jurara":"JAMA'ARE",
-:
+
+//KATAGUM
+
 "Bulkachuwa/dagaro":"KATAGUM",
 "Buskuri":"KATAGUM",
 "Chinade":"KATAGUM",
@@ -1152,7 +1354,9 @@
 "Ragwam/magonshi":"KATAGUM",
 "Tsakuwa Kofar Gabas/ Kofar Kuka":"KATAGUM",
 "Yayu":"KATAGUM",
-:
+
+//KIRFI
+
 "Badara":"KIRFI",
 "Bara":"KIRFI",
 ""Beni ""a"""":"KIRFI",
@@ -1163,7 +1367,9 @@
 "Shango":"KIRFI",
 "Tubule":"KIRFI",
 "Wanka":"KIRFI",
-:
+
+//MISAU
+
 "Ajilin/gugulin":"MISAU",
 "Beti":"MISAU",
 "Gwaram":"MISAU",
@@ -1174,7 +1380,9 @@
 "Sirko":"MISAU",
 "Tofu":"MISAU",
 "Zadawa":"MISAU",
-:
+
+//NINGI
+
 "Balma":"NINGI",
 "Bashe":"NINGI",
 "Burra / Kyata":"NINGI",
@@ -1186,7 +1394,9 @@
 "Ningi":"NINGI",
 "Sama":"NINGI",
 "Tiffi / Guda":"NINGI",
-:
+
+//SHIRA
+
 "Andubun":"SHIRA",
 "Beli/gagidaba":"SHIRA",
 "Bukul/bangire":"SHIRA",
@@ -1198,7 +1408,9 @@
 "Tsafi":"SHIRA",
 "Tumfafi":"SHIRA",
 "Zubo":"SHIRA",
-:
+
+//TAFAWA BALEWA
+
 "Ball":"TAFAWA BALEWA",
 "Bula":"TAFAWA BALEWA",
 "Bununu":"TAFAWA BALEWA",
@@ -1210,7 +1422,9 @@
 "Lere North":"TAFAWA BALEWA",
 "Tapshin":"TAFAWA BALEWA",
 "Wai":"TAFAWA BALEWA",
-:
+
+//TORO
+
 "Jama'a / Zaranda":"TORO",
 "Lame":"TORO",
 "Mara / Palama":"TORO",
@@ -1222,7 +1436,9 @@
 "Toro / Tulai":"TORO",
 "Wonu":"TORO",
 "Zalau / Rishi":"TORO",
-:
+
+//WARJI
+
 "Baima South/east":"WARJI",
 "Baima North / West":"WARJI",
 "Dagu East":"WARJI",
@@ -1233,7 +1449,9 @@
 "Rangan":"WARJI",
 "Tiyin":"WARJI",
 "Tudun Wada West":"WARJI",
-:
+
+//ZAKI
+
 "Alangawari / Kafin / Larabawa":"ZAKI",
 "Bursali":"ZAKI",
 "Gumai":"ZAKI",
@@ -1245,7 +1463,9 @@
 "Murmur North":"ZAKI",
 "Sakwa":"ZAKI",
 "Tashena / Gadai":"ZAKI",
-:
+
+//BRASS
+
 "Brass 1":"BRASS",
 "Brass Ward Ii":"BRASS",
 "Cape Farmosa":"BRASS",
@@ -1256,7 +1476,9 @@
 "Okpoama":"BRASS",
 "Os-inibiri":"BRASS",
 "Sangana":"BRASS",
-:
+
+//EKEREMOR
+
 "Eduwini I":"EKEREMOR",
 "Eduwini Ii":"EKEREMOR",
 "Oporomor I":"EKEREMOR",
@@ -1269,7 +1491,9 @@
 "Oyiakiri Iii":"EKEREMOR",
 "Oyiakiri Iv":"EKEREMOR",
 "Tarakiri":"EKEREMOR",
-:
+
+//KOLOKUMA/OPOKUMA
+
 "Igbedi":"KOLOKUMA/OPOKUMA",
 "Kaiama":"KOLOKUMA/OPOKUMA",
 "Kaiama/olobiri":"KOLOKUMA/OPOKUMA",
@@ -1281,7 +1505,9 @@
 "Opokumasouth":"KOLOKUMA/OPOKUMA",
 "Sampou/kalama":"KOLOKUMA/OPOKUMA",
 "Seibokorogha (sabagreia) 1":"KOLOKUMA/OPOKUMA",
-:
+
+//NEMBE
+
 "Bassambiri 1":"NEMBE",
 "Bassambiri 11":"NEMBE",
 "Bassambiri 111":"NEMBE",
@@ -1295,7 +1521,9 @@
 "Okoroma 1":"NEMBE",
 "Okoroma 11":"NEMBE",
 "Oluasiri":"NEMBE",
-:
+
+//OGBIA
+
 "Anyama":"OGBIA",
 "Emeyal":"OGBIA",
 "Imiringi":"OGBIA",
@@ -1309,7 +1537,9 @@
 "Otuabula":"OGBIA",
 "Otuasega":"OGBIA",
 "Otuokpoti":"OGBIA",
-:
+
+//SAGBAMA
+
 "Anyama":"SAGBAMA",
 "Emeyal":"SAGBAMA",
 "Imiringi":"SAGBAMA",
@@ -1323,7 +1553,9 @@
 "Otuabula":"SAGBAMA",
 "Otuasega":"SAGBAMA",
 "Otuokpoti":"SAGBAMA",
-:
+
+//SOUTHERN IJAW
+
 "Amassoma I":"SOUTHERN IJAW",
 "Amassoma Ii":"SOUTHERN IJAW",
 "Amassoma Iii":"SOUTHERN IJAW",
@@ -1341,7 +1573,9 @@
 "Otuan":"SOUTHERN IJAW",
 "Ukubie":"SOUTHERN IJAW",
 "West Boma":"SOUTHERN IJAW",
-:
+
+//YENAGOA
+
 "Attissa I":"YENAGOA",
 "Attissa Ii":"YENAGOA",
 "Attissa Iii":"YENAGOA",
@@ -1357,7 +1591,9 @@
 "Gbarain Iii":"YENAGOA",
 "Okordia":"YENAGOA",
 "Zarama":"YENAGOA",
-:
+
+//ADO
+
 "Akoge/ogbilolo":"ADO",
 "Apa":"ADO",
 "Ekile":"ADO",
@@ -1368,7 +1604,9 @@
 "Royongo":"ADO",
 "Ukwonyo":"ADO",
 "Ulayi":"ADO",
-:
+
+//AGATU
+
 "Egba":"AGATU",
 "Enungba":"AGATU",
 "Obagaji":"AGATU",
@@ -1379,7 +1617,9 @@
 "Okokolo":"AGATU",
 "Oshigbudu":"AGATU",
 "Usha":"AGATU",
-:
+
+//APA
+
 "Akpete/ojantelle":"APA",
 "Auke":"APA",
 "Edikwu I":"APA",
@@ -1391,7 +1631,9 @@
 "Ofoke":"APA",
 "Oiji":"APA",
 "Ugbokpo":"APA",
-:
+
+//BURUKU
+
 "Binev":"BURUKU",
 "Etulo":"BURUKU",
 "Mbaade":"BURUKU",
@@ -1405,7 +1647,9 @@
 "Mbaya":"BURUKU",
 "Mbayaka":"BURUKU",
 "Shorov":"BURUKU",
-:
+
+//GBOKO
+
 "Gbk/central Market":"GBOKO",
 "Gboko East":"GBOKO",
 "Gboko North West":"GBOKO",
@@ -1423,7 +1667,9 @@
 "Ukpekpe":"GBOKO",
 "Yandev North":"GBOKO",
 "Yandev South":"GBOKO",
-:
+
+//GUMA
+
 "Abinsi":"GUMA",
 "Kaambe":"GUMA",
 "Mbabai":"GUMA",
@@ -1434,7 +1680,9 @@
 "Nzorov":"GUMA",
 "Saghev":"GUMA",
 "Uvir":"GUMA",
-:
+
+//GWER EAST
+
 "Akpach'ayi":"GWER EAST",
 "Aliade Town":"GWER EAST",
 "Gbemacha":"GWER EAST",
@@ -1449,7 +1697,9 @@
 "Mbayom":"GWER EAST",
 "Shough":"GWER EAST",
 "Ugee":"GWER EAST",
-:
+
+//GWER WEST
+
 "Avihijime":"GWER WEST",
 "Gaambe - Ushin":"GWER WEST",
 "Gbaange/tongov":"GWER WEST",
@@ -1465,7 +1715,9 @@
 "Sengev":"GWER WEST",
 "Sengev/yengev":"GWER WEST",
 "Tijime":"GWER WEST",
-:
+
+//KATSINA-ALA
+
 "Ikurav Tiev I":"KATSINA-ALA",
 "Ikurav Tiev Ii":"KATSINA-ALA",
 "Iwar(tongov I)":"KATSINA-ALA",
@@ -1478,7 +1730,8 @@
 "Tiir(tongov Ii)":"KATSINA-ALA",
 "Utange":"KATSINA-ALA",
 "Yooyo":"KATSINA-ALA",
-:
+
+//KONSHISHA
 "Ikyurav/mbatwer":"KONSHISHA",
 "Mbagusa/mbatser":"KONSHISHA",
 "Mbaikyase":"KONSHISHA",
@@ -1490,7 +1743,9 @@
 "Mbawar":"KONSHISHA",
 "Mbayegh/mbaikyer":"KONSHISHA",
 "Tse-agberagba":"KONSHISHA",
-:
+
+//KWANDE
+
 "Adikpo Metropolis":"KWANDE",
 "Kumakwagh":"KWANDE",
 "Liev I":"KWANDE",
@@ -1506,7 +1761,9 @@
 "Tondov Ii":"KWANDE",
 "Usar":"KWANDE",
 "Yaav":"KWANDE",
-:
+
+//LOGO
+
 "Mbadyul":"LOGO",
 "Mbagber":"LOGO",
 "Mbater":"LOGO",
@@ -1517,7 +1774,9 @@
 "Turan":"LOGO",
 "Ukembergya/iswarev":"LOGO",
 "Yonov":"LOGO",
-:
+
+//MAKURDI
+
 "Agan":"MAKURDI",
 "Ankpa/wadata":"MAKURDI",
 "Bar":"MAKURDI",
@@ -1529,7 +1788,9 @@
 "North Bank I":"MAKURDI",
 "North Bank Ii":"MAKURDI",
 "Wailomayo":"MAKURDI",
-:
+
+//OBI
+
 "Adiko":"OBI",
 "Adum West":"OBI",
 "Ikwokwu":"OBI",
@@ -1542,7 +1803,9 @@
 "Okpokwu":"OBI",
 "Okwutungbe":"OBI",
 "Orihi":"OBI",
-:
+
+//OGBADIBO
+
 "Ai-oodo I":"OGBADIBO",
 "Ai-oodo Ii":"OGBADIBO",
 "Ai-oono I":"OGBADIBO",
@@ -1556,7 +1819,9 @@
 "Orokam I":"OGBADIBO",
 "Orokam Ii":"OGBADIBO",
 "Orokam Iii":"OGBADIBO",
-:
+
+//OJU
+
 "Adokpa":"OJU",
 "Ainu":"OJU",
 "Ibilla":"OJU",
@@ -1568,7 +1833,9 @@
 "Okwudu":"OJU",
 "Owo":"OJU",
 "Ukpa/ainu Ette":"OJU",
-:
+
+//OHIMINI
+
 "Agadagba":"OHIMINI",
 "Awume Ehaje":"OHIMINI",
 "Awume Icho":"OHIMINI",
@@ -1579,7 +1846,9 @@
 "Oglewu Icho":"OHIMINI",
 "Onyagede Icho (ogoli)":"OHIMINI",
 "Onyagede-ehaje (alle)":"OHIMINI",
-:
+
+//OKPOKWU
+
 "Amejo":"OKPOKWU",
 "Eke":"OKPOKWU",
 "Ichama Ii":"OKPOKWU",
@@ -1592,7 +1861,9 @@
 "Okpoga South":"OKPOKWU",
 "Okpoga West":"OKPOKWU",
 "Ugbokolo":"OKPOKWU",
-:
+
+//OTUKPO
+
 "Adoka-haje":"OTUKPO",
 "Adoka-icho":"OTUKPO",
 "Allan":"OTUKPO",
@@ -1606,7 +1877,9 @@
 "Ugboju-ehaje":"OTUKPO",
 "Ugboju-icho":"OTUKPO",
 "Ugboju-otahe":"OTUKPO",
-:
+
+//TARKA
+
 "Mbaajir Akaa":"TARKA",
 "Mbaayo":"TARKA",
 "Mbachaver Ikyondo":"TARKA",
@@ -1617,7 +1890,9 @@
 "Mbanyagber":"TARKA",
 "Shitile":"TARKA",
 "Tongov":"TARKA",
-:
+
+//UKUM
+
 "Aterayange":"UKUM",
 "Azendeshi":"UKUM",
 "Borikyo":"UKUM",
@@ -1631,7 +1906,9 @@
 "Tsaav":"UKUM",
 "Ugbaam":"UKUM",
 "Uyam":"UKUM",
-:
+
+//USHONGO
+
 "Atikyese":"USHONGO",
 "Ikyov":"USHONGO",
 "Lessel":"USHONGO",
@@ -1643,7 +1920,9 @@
 "Mbakuha":"USHONGO",
 "Mbayegh":"USHONGO",
 "Utange":"USHONGO",
-:
+
+//VANDEIKYA
+
 "Mbadede":"VANDEIKYA",
 "Mbagbam":"VANDEIKYA",
 "Mbagbera":"VANDEIKYA",
@@ -1656,7 +1935,9 @@
 "Ningev":"VANDEIKYA",
 "Tsambe":"VANDEIKYA",
 "Vandeikya Township":"VANDEIKYA",
-:
+
+//AKOKO EDO
+
 "Arege":"AKOKO EDO",
 "Banowa":"AKOKO EDO",
 "Fuguwa":"AKOKO EDO",
@@ -1667,7 +1948,9 @@
 "Yau":"AKOKO EDO",
 "Yawa Kura":"AKOKO EDO",
 "Yituwa":"AKOKO EDO",
-:
+
+//ASKIRA / UBA
+
 "Askira East":"ASKIRA / UBA",
 "Chul / Rumirgo":"ASKIRA / UBA",
 "Dille / Huyum":"ASKIRA / UBA",
@@ -1681,7 +1964,9 @@
 "Uda / Uvu":"ASKIRA / UBA",
 "Wamdeo / Giwi":"ASKIRA / UBA",
 "Zadawa / Hausari":"ASKIRA / UBA",
-:
+
+//BAMA
+
 "Andara / Ajiri /wulba":"BAMA",
 "Buduwa / Bula Chirabe":"BAMA",
 "Dipchari / Jere / Dar-jamal / Kotembe":"BAMA",
@@ -1696,7 +1981,9 @@
 "Wulbari/ndine/chachile":"BAMA",
 "Yabiri Kura/yabiri Gana/chongolo":"BAMA",
 "Zangeri/kash Kash":"BAMA",
-:
+
+//BAYO
+
 "Balbaya":"BAYO",
 "Briyel":"BAYO",
 "Fikayel":"BAYO",
@@ -1707,7 +1994,9 @@
 "Teli":"BAYO",
 "Wuyo":"BAYO",
 "Zara":"BAYO",
-:
+
+//BIU
+
 "Buratai":"BIU",
 "Dadin Kowa":"BIU",
 "Dugja":"BIU",
@@ -1719,7 +2008,9 @@
 "Sulumthla":"BIU",
 "Yawi":"BIU",
 "Zarawuyaku":"BIU",
-:
+
+//CHIBOK
+
 "Chibok Garu":"CHIBOK",
 "Chibok Likama":"CHIBOK",
 "Chibok Wuntaku":"CHIBOK",
@@ -1731,7 +2022,9 @@
 "Mboa Kura":"CHIBOK",
 "Pemi":"CHIBOK",
 "Shikarkir":"CHIBOK",
-:
+
+//DAMBOA
+
 "Ajign (a)":"DAMBOA",
 "Ajign (b)":"DAMBOA",
 "Azur/multe/forfor":"DAMBOA",
@@ -1742,7 +2035,9 @@
 "Mulgwai / Kopchi":"DAMBOA",
 "Nguda / Wuyaram":"DAMBOA",
 "Wawa / Korede":"DAMBOA",
-:
+
+//DIKWA
+
 "Boboshe":"DIKWA",
 "Dikwa":"DIKWA",
 "Gajibo":"DIKWA",
@@ -1753,7 +2048,9 @@
 "Ngudoram":"DIKWA",
 "Sogoma / Afuye":"DIKWA",
 "Ufaye / Gujile":"DIKWA",
-:
+
+//GUBIO
+
 "Ardimini":"GUBIO",
 "Dabira":"GUBIO",
 "Felo":"GUBIO",
@@ -1764,7 +2061,8 @@
 "Kingowa":"GUBIO",
 "Ngetra":"GUBIO",
 "Zowo":"GUBIO",
-:
+//GUZAMALA
+
 "Aduwa":"GUZAMALA",
 "Gudumbali East":"GUZAMALA",
 "Gudumbali West":"GUZAMALA",
@@ -1775,7 +2073,9 @@
 "Mairari":"GUZAMALA",
 "Moduri":"GUZAMALA",
 "Wamiri":"GUZAMALA",
-:
+
+//GWOZA
+
 "Ashigashiya":"GWOZA",
 "Bita / Izge":"GWOZA",
 "Dure / Wala / Warabe":"GWOZA",
@@ -1789,7 +2089,9 @@
 "Kurana Bassa/ngoshe - Sama'a":"GWOZA",
 "Ngoshe":"GWOZA",
 "Pulka/bokko":"GWOZA",
-:
+
+//HAWUL
+
 "Bilingwi":"HAWUL",
 "Dzar/ Vinadum/ Birni/ Dlandi":"HAWUL",
 "Gwanzang Pusda":"HAWUL",
@@ -1802,7 +2104,9 @@
 "Puba/vidau/lokoja":"HAWUL",
 "Sakwa/hema":"HAWUL",
 "Shaffa":"HAWUL",
-:
+
+//JERE
+
 "Alau":"JERE",
 "Bale Galtimari":"JERE",
 "Dala Lawanti":"JERE",
@@ -1815,7 +2119,9 @@
 "Ngudaa/addamari":"JERE",
 "Old Maiduguri":"JERE",
 "Tuba":"JERE",
-:
+
+//KAGA
+
 "Afa/dig/maudori":"KAGA",
 "Benisheikh":"KAGA",
 "Borgozo":"KAGA",
@@ -1831,7 +2137,9 @@
 "Tobolo":"KAGA",
 "Wajiro / Burgumma":"KAGA",
 "Wassaram":"KAGA",
-:
+
+//KALA BALGE
+
 "Jarawa/sangaya":"KALA BALGE",
 ""Jilbe ""a"""":"KALA BALGE",
 ""Jilbe ""b""/koma Kaudi"":"KALA BALGE",
@@ -1842,7 +2150,9 @@
 ""Rann ""a"""":"KALA BALGE",
 ""Rann ""b''/daima"":"KALA BALGE",
 "Sigal/karche":"KALA BALGE",
-:
+
+//KONDUGA
+
 "Auno / Chabbol":"KONDUGA",
 "Dalori / Wanori":"KONDUGA",
 "Dawa East / Malari / Kangamari":"KONDUGA",
@@ -1854,7 +2164,9 @@
 "Masba / Dalwa West":"KONDUGA",
 "Nyaleri/sandia/yejiwa":"KONDUGA",
 "Sojiri/ Nguro - Nguro":"KONDUGA",
-:
+
+//KUKAWA
+
 "Alagarno":"KUKAWA",
 "Baga":"KUKAWA",
 "Bundur":"KUKAWA",
@@ -1865,7 +2177,9 @@
 "Kukawa":"KUKAWA",
 "Moduari / Barwari":"KUKAWA",
 "Yoyo":"KUKAWA",
-:
+
+//KWAYA / KUSAR
+
 "Gondi":"KWAYA / KUSAR",
 "Gusi / Billa":"KWAYA / KUSAR",
 "Guwal":"KWAYA / KUSAR",
@@ -1876,7 +2190,9 @@
 "Wada":"KWAYA / KUSAR",
 "Wawa":"KWAYA / KUSAR",
 "Yimirthalang":"KWAYA / KUSAR",
-:
+
+//MAFA
+
 "Abbari":"MAFA",
 "Anadua":"MAFA",
 "Gawa":"MAFA",
@@ -1889,7 +2205,9 @@
 "Masu":"MAFA",
 "Mujigine":"MAFA",
 "Tamsu Ngamdua":"MAFA",
-:
+
+//MAGUMERI
+
 "Ardo Ram":"MAGUMERI",
 "Ayi / Yasku":"MAGUMERI",
 "Borno Yesu":"MAGUMERI",
@@ -1903,7 +2221,9 @@
 "Magumeri":"MAGUMERI",
 "Ngamma":"MAGUMERI",
 "Ngubala":"MAGUMERI",
-:
+
+//MAIDUGURI M. C.
+
 "Bolori I":"MAIDUGURI M. C.",
 "Bolori Ii":"MAIDUGURI M. C.",
 "Bulablin":"MAIDUGURI M. C.",
@@ -1919,7 +2239,9 @@
 "Maisandari":"MAIDUGURI M. C.",
 "Shehuri North":"MAIDUGURI M. C.",
 "Shehuri South":"MAIDUGURI M. C.",
-:
+
+//MARTE
+
 "Ala":"MARTE",
 "Alla Lawanti":"MARTE",
 "Borsori":"MARTE",
@@ -1933,7 +2255,9 @@
 "Ngeleiwa":"MARTE",
 "Njine":"MARTE",
 "Zaga":"MARTE",
-:
+
+//MOBBAR
+
 "Asaga":"MOBBAR",
 "Bogum":"MOBBAR",
 "Chamba":"MOBBAR",
@@ -1944,7 +2268,9 @@
 "Layi":"MOBBAR",
 "Zanna Umorti":"MOBBAR",
 "Zari":"MOBBAR",
-:
+
+//MONGUNO
+
 "Damakuli":"MONGUNO",
 "Kaguram":"MONGUNO",
 "Kumalia":"MONGUNO",
@@ -1957,7 +2283,9 @@
 "Wulo":"MONGUNO",
 "Yele":"MONGUNO",
 "Zulum":"MONGUNO",
-:
+
+//NGALA
+
 "Fuye":"NGALA",
 "Gamboru 'b'":"NGALA",
 "Gamboru 'c'":"NGALA",
@@ -1970,7 +2298,9 @@
 "Warshele":"NGALA",
 "Wulgo":"NGALA",
 "Wurge":"NGALA",
-:
+
+//NGANZAI
+
 "Alarge":"NGANZAI",
 "Badu":"NGANZAI",
 "Damaram":"NGANZAI",
@@ -1983,7 +2313,9 @@
 "Miye":"NGANZAI",
 "Sabsabuwa":"NGANZAI",
 "Sugundure":"NGANZAI",
-:
+
+//SHANI
+
 "Bargu / Burashika":"SHANI",
 "Buma":"SHANI",
 "Gasi / Salifawa":"SHANI",
@@ -1995,7 +2327,9 @@
 "Kwaba":"SHANI",
 "Shani":"SHANI",
 "Walama":"SHANI",
-:
+
+//AKOKO EDO
+
 "Adadama":"AKOKO EDO",
 "Afafanyi/igonigoni":"AKOKO EDO",
 "Ebom":"AKOKO EDO",
@@ -2006,7 +2340,9 @@
 "Imabana Ii":"AKOKO EDO",
 "Itigidi":"AKOKO EDO",
 "Usumutong":"AKOKO EDO",
-:
+
+//AKAMKPA
+
 "Akamkpa Urban":"AKAMKPA",
 "Awi":"AKAMKPA",
 "Eku":"AKAMKPA",
@@ -2017,7 +2353,9 @@
 "Ojuk North":"AKAMKPA",
 "Ojuk South":"AKAMKPA",
 "Uyanga":"AKAMKPA",
-:
+
+//AKPABUYO
+
 "Atimbo East":"AKPABUYO",
 "Atimbo West":"AKPABUYO",
 "Eneyo":"AKPABUYO",
@@ -2028,7 +2366,9 @@
 "Ikot Edem Odo":"AKPABUYO",
 "Ikot Eyo":"AKPABUYO",
 "Ikot Nakanda":"AKPABUYO",
-:
+
+//BAKASSI
+
 "Abana":"BAKASSI",
 "Akpankanya":"BAKASSI",
 "Akwa":"BAKASSI",
@@ -2039,7 +2379,9 @@
 "Efut Inwang":"BAKASSI",
 "Ekpot Abia":"BAKASSI",
 "Odiong":"BAKASSI",
-:
+
+//BEKWARRA
+
 "Abuochiche":"BEKWARRA",
 "Afrike Ochagbe":"BEKWARRA",
 "Afrike Okpeche":"BEKWARRA",
@@ -2050,7 +2392,9 @@
 "Otukpuru":"BEKWARRA",
 "Ugboro":"BEKWARRA",
 "Ukpah":"BEKWARRA",
-:
+
+//BIASE
+
 "Abayong":"BIASE",
 "Adim":"BIASE",
 "Agwagune/okurike":"BIASE",
@@ -2062,7 +2406,9 @@
 "Ikun/etono":"BIASE",
 "Umon North":"BIASE",
 "Umon South":"BIASE",
-:
+
+//BOKI
+
 "Abo":"BOKI",
 "Alankwe":"BOKI",
 "Beebo/bumaji":"BOKI",
@@ -2074,7 +2420,9 @@
 "Kakwagom/bawop":"BOKI",
 "Ogep/osokom":"BOKI",
 "Oku/borum/njua":"BOKI",
-:
+
+//CALABAR MUNICIPALITY
+
 "I":"CALABAR MUNICIPALITY",
 "Ii":"CALABAR MUNICIPALITY",
 "Iii":"CALABAR MUNICIPALITY",
@@ -2085,7 +2433,9 @@
 "Vii":"CALABAR MUNICIPALITY",
 "Viii":"CALABAR MUNICIPALITY",
 "X":"CALABAR MUNICIPALITY",
-:
+
+//CALABAR SOUTH
+
 "Eight (8)":"CALABAR SOUTH",
 "Eleven (11)":"CALABAR SOUTH",
 "Five (5)":"CALABAR SOUTH",
@@ -2098,7 +2448,9 @@
 "Three (3)":"CALABAR SOUTH",
 "Twelve (12)":"CALABAR SOUTH",
 "Two (2)":"CALABAR SOUTH",
-:
+
+//ETUNG
+
 "Abia":"ETUNG",
 "Abijang":"ETUNG",
 "Agbokim":"ETUNG",
@@ -2109,7 +2461,9 @@
 "Itaka":"ETUNG",
 "Mkpot/ayuk Aba":"ETUNG",
 "Nsofang":"ETUNG",
-:
+
+//IKOM
+
 "Abanyum":"IKOM",
 "Akparabong":"IKOM",
 "Ikom Urban I":"IKOM",
@@ -2121,7 +2475,9 @@
 "Ofutop Ii":"IKOM",
 "Olulumo":"IKOM",
 "Yala/nkum":"IKOM",
-:
+
+//OBANLIKU
+
 "Basang":"OBANLIKU",
 "Bebi":"OBANLIKU",
 "Becheve":"OBANLIKU",
@@ -2132,7 +2488,9 @@
 "Bisu":"OBANLIKU",
 "Busi":"OBANLIKU",
 "Utanga":"OBANLIKU",
-:
+
+//OBUBRA
+
 "Ababene":"OBUBRA",
 "Apiapum":"OBUBRA",
 "Iyamoyong":"OBUBRA",
@@ -2144,7 +2502,8 @@
 "Osopong I":"OBUBRA",
 "Osopong Ii":"OBUBRA",
 "Ovonum":"OBUBRA",
-:
+
+//OBUDU
 "Alege/ubang":"OBUDU",
 "Angiaba / Begiaka":"OBUDU",
 "Begiading":"OBUDU",
@@ -2155,7 +2514,9 @@
 "Utugwang Central":"OBUDU",
 "Utugwang North":"OBUDU",
 "Utugwang South":"OBUDU",
-:
+
+//ODUKPANI
+
 "Adiabo/efut":"ODUKPANI",
 "Akamkpa":"ODUKPANI",
 "Creek Town I":"ODUKPANI",
@@ -2169,7 +2530,9 @@
 "Odot":"ODUKPANI",
 "Odukpani Central":"ODUKPANI",
 "Oniman-kiong":"ODUKPANI",
-:
+
+//OGOJA
+
 "Ekajuk I":"OGOJA",
 "Ekajuk Ii":"OGOJA",
 "Mbube East I":"OGOJA",
@@ -2180,7 +2543,9 @@
 "Nkum Irede":"OGOJA",
 "Ogoja Urban I":"OGOJA",
 "Ogoja Urban Ii":"OGOJA",
-:
+
+//YAKURR
+
 "Abanakpai":"YAKURR",
 "Afrekpe/ekpenti":"YAKURR",
 "Ajere":"YAKURR",
@@ -2194,7 +2559,9 @@
 "Mkpani/agoi":"YAKURR",
 "Nkpolo/ukpawen":"YAKURR",
 "Ntan":"YAKURR",
-:
+
+//YALA
+
 "Echumofana":"YALA",
 "Gabu":"YALA",
 "Ijiraga":"YALA",
@@ -2206,7 +2573,9 @@
 "Wanikade":"YALA",
 "Yache":"YALA",
 "Yahe":"YALA",
-:
+
+//AKOKO EDO
+
 "Ezi":"AKOKO EDO",
 "Idumuje - Unor":"AKOKO EDO",
 "Issele - Azagba":"AKOKO EDO",
@@ -2217,7 +2586,9 @@
 "Onicha - Olona":"AKOKO EDO",
 "Onicha Ugbo":"AKOKO EDO",
 "Ukwu - Nzu":"AKOKO EDO",
-:
+
+//ANIOCHA - SOUTH
+
 "Aba - Unor":"ANIOCHA - SOUTH",
 "Ejeme":"ANIOCHA - SOUTH",
 "Isheagu-ewulu":"ANIOCHA - SOUTH",
@@ -2229,7 +2600,9 @@
 "Ubulu - Uku Ii":"ANIOCHA - SOUTH",
 "Ubulu - Unor":"ANIOCHA - SOUTH",
 "Ubulu Okiti":"ANIOCHA - SOUTH",
-:
+
+//BOMADI
+
 "Akugbene I":"BOMADI",
 "Akugbene Ii":"BOMADI",
 "Akugbene Iii":"BOMADI",
@@ -2240,7 +2613,9 @@
 "Ogo - Eze":"BOMADI",
 "Ogriagbene":"BOMADI",
 "Syama":"BOMADI",
-:
+
+//BURUTU
+
 "Bulou - Ndoro":"BURUTU",
 "Ngbilebiri I":"BURUTU",
 "Ngbilebiri Ii":"BURUTU",
@@ -2252,7 +2627,9 @@
 "Tamigbe":"BURUTU",
 "Torugbene":"BURUTU",
 "Tuomo":"BURUTU",
-:
+
+//ETHIOPE EAST
+
 "Abraka I":"ETHIOPE EAST",
 "Abraka Ii":"ETHIOPE EAST",
 "Abraka Iii":"ETHIOPE EAST",
@@ -2264,7 +2641,9 @@
 "Agbon Vi":"ETHIOPE EAST",
 "Agbon Vii":"ETHIOPE EAST",
 "Agbon Viii":"ETHIOPE EAST",
-:
+
+//ETHIOPE WEST
+
 "Jesse I":"ETHIOPE WEST",
 "Jesse Ii":"ETHIOPE WEST",
 "Jesse Iii":"ETHIOPE WEST",
@@ -2276,7 +2655,9 @@
 "Oghara Iii":"ETHIOPE WEST",
 "Oghara Iv":"ETHIOPE WEST",
 "Oghara V":"ETHIOPE WEST",
-:
+
+IKA NORTH- EAST
+
 "Akumazi":"IKA NORTH- EAST",
 "Idumuesah":"IKA NORTH- EAST",
 "Igbodo":"IKA NORTH- EAST",
@@ -2291,7 +2672,9 @@
 "Umunede":"IKA NORTH- EAST",
 "Ute - Ogbeje":"IKA NORTH- EAST",
 "Ute - Okpu":"IKA NORTH- EAST",
-:
+
+//IKA - SOUTH
+
 "Abavo I":"IKA - SOUTH",
 "Abavo Ii":"IKA - SOUTH",
 "Abavo Iii":"IKA - SOUTH",
@@ -2304,7 +2687,9 @@
 "Ihiuiyase I":"IKA - SOUTH",
 "Ihuiyase Ii":"IKA - SOUTH",
 "Ihuozomor (ozanogogo Alisimie)":"IKA - SOUTH",
-:
+
+//ISOKO NORTH
+
 "Ellu":"ISOKO NORTH",
 "Emevor":"ISOKO NORTH",
 "Iluelogbo":"ISOKO NORTH",
@@ -2318,7 +2703,9 @@
 "Ozoro I":"ISOKO NORTH",
 "Ozoro Ii":"ISOKO NORTH",
 "Ozoro Iii":"ISOKO NORTH",
-:
+
+//ISOKO SOUTH
+
 "Aviara":"ISOKO SOUTH",
 "Emede":"ISOKO SOUTH",
 "Enhwe/okpolo":"ISOKO SOUTH",
@@ -2330,7 +2717,9 @@
 "Oleh Ii":"ISOKO SOUTH",
 "Olomoro":"ISOKO SOUTH",
 "Uzere":"ISOKO SOUTH",
-:
+
+//NDOKWA EAST
+
 "Abarra/inyi/onuaboh":"NDOKWA EAST",
 "Aboh/akarrai":"NDOKWA EAST",
 "Afor/obikwele":"NDOKWA EAST",
@@ -2341,7 +2730,9 @@
 "Okpai/utchi/beneku":"NDOKWA EAST",
 "Onyia/adiai/otuoku/umuolu":"NDOKWA EAST",
 "Ossissa":"NDOKWA EAST",
-:
+
+//NDOKWA WEST
+
 "Abbi Ii":"NDOKWA WEST",
 "Abbi I":"NDOKWA WEST",
 "Emu":"NDOKWA WEST",
@@ -2352,7 +2743,9 @@
 "Utagba Uno I":"NDOKWA WEST",
 "Utagba Uno Ii":"NDOKWA WEST",
 "Utagba Uno Iii":"NDOKWA WEST",
-:
+
+//OKPE
+
 "Aghalokpe":"OKPE",
 "Aragba Town":"OKPE",
 "Mereje I":"OKPE",
@@ -2363,7 +2756,9 @@
 "Orerokpe":"OKPE",
 "Oviri - Okpe":"OKPE",
 "Ughoton":"OKPE",
-:
+
+//OSHIMILI - NORTH
+
 "Akwukwu":"OSHIMILI - NORTH",
 "Ebu":"OSHIMILI - NORTH",
 "Ibusa I":"OSHIMILI - NORTH",
@@ -2374,7 +2769,9 @@
 "Illah":"OSHIMILI - NORTH",
 "Okpanam":"OSHIMILI - NORTH",
 "Ukala":"OSHIMILI - NORTH",
-:
+
+//OSHIMILI - SOUTH
+
 "Agu":"OSHIMILI - SOUTH",
 "Anala-amakom":"OSHIMILI - SOUTH",
 "Cable Point I":"OSHIMILI - SOUTH",
@@ -2386,7 +2783,9 @@
 "Umuezei":"OSHIMILI - SOUTH",
 "Umuonaje":"OSHIMILI - SOUTH",
 "West End":"OSHIMILI - SOUTH",
-:
+
+//PATANI
+
 "Abari":"PATANI",
 "Agoloma":"PATANI",
 "Bolou - Angiama":"PATANI",
@@ -2397,7 +2796,9 @@
 "Taware/kolowara Aven":"PATANI",
 "Toru-angiama":"PATANI",
 "Uduophori":"PATANI",
-:
+
+//SAPELE
+
 "Amuokpe":"SAPELE",
 "Elume":"SAPELE",
 "Okokporo/ugborhen":"SAPELE",
@@ -2419,7 +2820,9 @@
 "Udu Ii":"UDU",
 "Udu Iii":"UDU",
 "Udu Iv":"UDU",
-:
+
+//UGHELLI NORTH
+
 "Agbarha":"UGHELLI NORTH",
 "Agbarho I":"UGHELLI NORTH",
 "Agbarho Ii":"UGHELLI NORTH",
@@ -2431,7 +2834,9 @@
 "Ughelli Ii":"UGHELLI NORTH",
 "Ughelli Iii":"UGHELLI NORTH",
 "Uwheru":"UGHELLI NORTH",
-:
+
+//UGHELLI SOUTH
+
 "Effurun - Otor":"UGHELLI SOUTH",
 "Ekakpamre":"UGHELLI SOUTH",
 "Ewu I":"UGHELLI SOUTH",
@@ -2443,7 +2848,9 @@
 "Jeremi Iv":"UGHELLI SOUTH",
 "Olomu I":"UGHELLI SOUTH",
 "Olomu Ii":"UGHELLI SOUTH",
-:
+
+//UKWUANI
+
 "Akoku":"UKWUANI",
 "Amai":"UKWUANI",
 "Ebedei":"UKWUANI",
@@ -2454,7 +2861,9 @@
 "Umuebu":"UKWUANI",
 "Umukwata":"UKWUANI",
 "Umutu":"UKWUANI",
-:
+
+//UVWIE
+
 "Army Barracks Area":"UVWIE",
 "Effurun I":"UVWIE",
 "Effurun Ii":"UVWIE",
@@ -2465,7 +2874,9 @@
 "Ugbomro/ugbolokposo":"UVWIE",
 "Ugborikoko":"UVWIE",
 "Ugboroke":"UVWIE",
-:
+
+//WARRI NORTH
+
 "Ebrohimi":"WARRI NORTH",
 "Eghoro":"WARRI NORTH",
 "Gbokoda":"WARRI NORTH",
@@ -2476,7 +2887,9 @@
 "Ogbudugbudu (egbema Iv)":"WARRI NORTH",
 "Ogheye":"WARRI NORTH",
 "Opuama (egbema I)":"WARRI NORTH",
-:
+
+//WARRI SOUTH
+
 "Bowen":"WARRI SOUTH",
 "Edjeba":"WARRI SOUTH",
 "G.r.a.":"WARRI SOUTH",
@@ -2489,7 +2902,9 @@
 "Okumagba Ii":"WARRI SOUTH",
 "Pessu":"WARRI SOUTH",
 "Ugbuwangue/ekurede-itsekiri":"WARRI SOUTH",
-:
+
+//WARRI SOUTH WEST
+
 "Aja - Udaibo":"WARRI SOUTH WEST",
 "Akpikpa":"WARRI SOUTH WEST",
 "Gbaramatu":"WARRI SOUTH WEST",
@@ -2500,7 +2915,9 @@
 "Oporoza":"WARRI SOUTH WEST",
 "Orere":"WARRI SOUTH WEST",
 "Ugborodo":"WARRI SOUTH WEST",
-:
+
+//AKOKO EDO
+
 "Abakpa":"AKOKO EDO",
 "Amachi (ndebo)":"AKOKO EDO",
 "Amachi (ndegu)":"AKOKO EDO",
@@ -2515,7 +2932,9 @@
 "Okpoitumo Ndebor":"AKOKO EDO",
 "Okpoitumo Ndiegu":"AKOKO EDO",
 "Timber Shed":"AKOKO EDO",
-:
+
+//AFIKPO NORTH
+
 "Amata-akpoha":"AFIKPO NORTH",
 "Amogu Akpoha":"AFIKPO NORTH",
 "Ezeke Amasiri":"AFIKPO NORTH",
@@ -2528,7 +2947,9 @@
 "Ugwuegu Afikpo":"AFIKPO NORTH",
 "Uwana Afikpo 1":"AFIKPO NORTH",
 "Uwana Afikpo Ii":"AFIKPO NORTH",
-:
+
+//AFIKPO SOUTH
+
 "Amaeke":"AFIKPO SOUTH",
 "Amangwu Edda":"AFIKPO SOUTH",
 "Amaoso":"AFIKPO SOUTH",
@@ -2540,7 +2961,9 @@
 "Nguzu":"AFIKPO SOUTH",
 "Oso":"AFIKPO SOUTH",
 "Owutu":"AFIKPO SOUTH",
-:
+
+//EBONYI
+
 "(abakpa)":"EBONYI",
 "Abofia":"EBONYI",
 "Agalegu":"EBONYI",
@@ -2554,7 +2977,9 @@
 "Ndiegu":"EBONYI",
 "Onuenyim":"EBONYI",
 "Urban New Layout":
-:
+
+//EZZA NORTH
+
 "Amuda/ama Wula":"EZZA NORTH",
 "Ekka":"EZZA NORTH",
 "Inyere":"EZZA NORTH",
@@ -2566,7 +2991,9 @@
 "Oriuzor":"EZZA NORTH",
 "Oshiegbe Umuez Eokoha":"EZZA NORTH",
 "Umuezeoka":"EZZA NORTH",
-:
+
+//EZZA SOUTH
+
 "Amaeka":"EZZA SOUTH",
 "Amaezekwe":"EZZA SOUTH",
 "Amagu/nsokara":"EZZA SOUTH",
@@ -2578,7 +3005,9 @@
 "Ikwuator/idembia":"EZZA SOUTH",
 "Onueke":"EZZA SOUTH",
 "Umunwagu / Idembia":"EZZA SOUTH",
-:
+
+//IKWO
+
 "Ama Inyima":"IKWO",
 "Echialike":"IKWO",
 "Eka Awoke":"IKWO",
@@ -2599,7 +3028,9 @@
 "Ndufu Awke":"IKWO",
 "Ndufu Echara":"IKWO",
 "Noye Alike":"IKWO",
-:
+
+//ISHIELU
+
 "Agba":"ISHIELU",
 "Amaezu":"ISHIELU",
 ""Azuinyaba ""a"""":"ISHIELU",
@@ -2616,7 +3047,9 @@
 "Ohofia":"ISHIELU",
 "Okpoto":"ISHIELU",
 "Umuhuali":"ISHIELU",
-:
+
+//IVO
+
 "Akaeze Ishiagu":"IVO",
 "Akaeze Ukwu":"IVO",
 "Amagu":"IVO",
@@ -2628,7 +3061,9 @@
 "Obinagu":"IVO",
 "Okue":"IVO",
 "Umobo":"IVO",
-:
+
+//IZZI
+
 "Agbaja Anyanwuigwe":"IZZI",
 "Agbaja Offia Onwe":"IZZI",
 "Agbaja(mgbo)":"IZZI",
@@ -2643,7 +3078,9 @@
 "Mgbalaku Inyimagu Ii":"IZZI",
 "Ndieze Inyimagu 11 Ndiabor Ishiagu":"IZZI",
 "Ndieze Inyimagu Mgbabeluzor":"IZZI",
-:
+
+//OHAOZARA
+
 "Amaechi Okposi":"OHAOZARA",
 "Enena Ezeraku":"OHAOZARA",
 "Mgbom Okposi":"OHAOZARA",
@@ -2655,7 +3092,9 @@
 "Umic Hima":"OHAOZARA",
 "Umunaga":"OHAOZARA",
 "Umuobuna":
-:
+
+//OHAUKWU
+
 "Effium Ii":"OHAUKWU",
 "Effium I":"OHAUKWU",
 "Ezzamgbo":"OHAUKWU",
@@ -2671,7 +3110,9 @@
 "Wigbeke I":"OHAUKWU",
 "Wigbeke Ii":"OHAUKWU",
 "Wigbeke Iii":"OHAUKWU",
-:
+
+//ONICHA
+
 "Abaomege":"ONICHA",
 "Agbabor-isu":"ONICHA",
 "Amanator-isu":"ONICHA",
@@ -2684,7 +3125,9 @@
 "Okuzu-ukawu":"ONICHA",
 "Ugwu-oshiri":"ONICHA",
 "Umudomi-onicha":"ONICHA",
-:
+
+//AKOKO EDO
+
 "Enwan/atte/ikpeshi/egbigele":"AKOKO EDO",
 "Ibillo/ Ekpesa/ Ekor/ Ikiran-ile/ Oke":"AKOKO EDO",
 "Igarra I":"AKOKO EDO",
@@ -2697,7 +3140,8 @@
 "Uneme-nekhua/akpama/ Aiyetoro/ Ekpedo/ Erhurun/ Uneme Osu":"AKOKO EDO",
 :
 :
-:
+//EGOR
+
 "Egor":"EGOR",
 "Evbareke":"EGOR",
 "Ogida/use":"EGOR",
@@ -2710,7 +3154,8 @@
 "Uwelu":"EGOR",
 :
 :
-:
+//ESAN CENTRAL
+
 "Ewu I":"ESAN CENTRAL",
 "Ewu Ii":"ESAN CENTRAL",
 "Ikekato":"ESAN CENTRAL",
@@ -2722,7 +3167,8 @@
 "Uwessan I":"ESAN CENTRAL",
 "Uwessan Ii":"ESAN CENTRAL",
 :
-:
+//ESAN NORTH EAST
+
 "Amedokhian":"ESAN NORTH EAST",
 "Arue":"ESAN NORTH EAST",
 "Efandion":"ESAN NORTH EAST",
@@ -2736,7 +3182,8 @@
 "Uzea":"ESAN NORTH EAST",
 :
 :
-:
+//ESAN SOUTH EAST
+
 "Emu":"ESAN SOUTH EAST",
 "Ewatto":"ESAN SOUTH EAST",
 "Ewohimi I":"ESAN SOUTH EAST",
@@ -2747,7 +3194,9 @@
 "Ubiaja I":"ESAN SOUTH EAST",
 "Ubiaja Ii":"ESAN SOUTH EAST",
 "Ugboha":"ESAN SOUTH EAST",
-:
+
+//ESAN WEST
+
 "Egoro/idoa/ukhun":"ESAN WEST",
 "Emaudo/ Eguare/ Ekpoma":"ESAN WEST",
 "Emuhi/ Ukpenu/ Ujoelen":"ESAN WEST",
@@ -2758,7 +3207,9 @@
 "Uhiele":"ESAN WEST",
 "Ujiogba":"ESAN WEST",
 "Urohi":
-:
+
+//ETSAKO CENTRAL
+
 "Ekperi I":"ETSAKO CENTRAL",
 "Ekperi Ii":"ETSAKO CENTRAL",
 "Ekperi Iii":"ETSAKO CENTRAL",
@@ -2769,7 +3220,9 @@
 "Ogbona":"ETSAKO CENTRAL",
 "South Uneme I":"ETSAKO CENTRAL",
 "South Uneme Ii":"ETSAKO CENTRAL",
-:
+
+//ETSAKO EAST
+
 "Agenebode":"ETSAKO EAST",
 "Okpekpe":"ETSAKO EAST",
 "Okpella I":"ETSAKO EAST",
@@ -2780,7 +3233,9 @@
 "Wanno I":"ETSAKO EAST",
 "Wanno Ii":"ETSAKO EAST",
 "Weppa":"ETSAKO EAST",
-:
+
+//ETSAKO WEST
+
 "Anwain":"ETSAKO WEST",
 "Auchi":"ETSAKO WEST",
 "Auchi Iii":"ETSAKO WEST",
@@ -2794,6 +3249,9 @@
 "Uzairue South East":"ETSAKO WEST",
 "Uzairue South West":"ETSAKO WEST",
 :"ETSAKO WEST",
+
+//IGUEBEN
+
 "Afuda/idumuoka":"IGUEBEN",
 "Amahor/ugun":"IGUEBEN",
 "Ekekhen/idumu/ogo/egbike":"IGUEBEN",
@@ -2805,7 +3263,9 @@
 "Udo":"IGUEBEN",
 "Uhe/idumuogbo/idumueke":"IGUEBEN",
 :"IGUEBEN",
-:
+
+//IKPOBA/OKHA
+
 "Aduwawa / Evbo Modu":"IKPOBA/OKHA",
 "Gorretti":"IKPOBA/OKHA",
 "Idogbo":"IKPOBA/OKHA",
@@ -2816,7 +3276,9 @@
 "Oregbeni":"IKPOBA/OKHA",
 "St. Saviour":"IKPOBA/OKHA",
 "Ugbekun":"IKPOBA/OKHA",
-:
+
+//OREDO
+
 "Gra/etete":"OREDO",
 "Ibiwe/ Iwegie/ Ugbague":"OREDO",
 "Ihogbe/ Isekhere/ Oreoghene/ Ibiwe/ Ice Road":"OREDO",
@@ -2827,7 +3289,9 @@
 "Ogbelaka/ Nekpenekpen":"OREDO",
 "Oredo":"OREDO",
 "Unueru/ogboka":"OREDO",
-:
+
+//ORHIONMWON
+
 "Aibiokula I":"ORHIONMWON",
 "Aibiokula I":"ORHIONMWON",
 "Aibiokula Ii":"ORHIONMWON",
@@ -2838,7 +3302,9 @@
 "Ugbeka":"ORHIONMWON",
 "Ugboko":"ORHIONMWON",
 "Ugu":"ORHIONMWON",
-:
+
+//OVIA NORTH EAST
+
 "Adolor":"OVIA NORTH EAST",
 "Iguoshodin":"OVIA NORTH EAST",
 "Isiuwa":"OVIA NORTH EAST",
@@ -2849,7 +3315,9 @@
 "Okada West":"OVIA NORTH EAST",
 "Okokhuo":"OVIA NORTH EAST",
 "Oluku":"OVIA NORTH EAST",
-:
+
+//OVIA SOUTH WEST
+
 "Iguobazuwa East":"OVIA SOUTH WEST",
 "Iguobazuwa West":"OVIA SOUTH WEST",
 "Nikorogha":"OVIA SOUTH WEST",
@@ -2860,7 +3328,9 @@
 "Ugbogui":"OVIA SOUTH WEST",
 "Umaza":"OVIA SOUTH WEST",
 "Usen":"OVIA SOUTH WEST",
-:
+
+//OWAN EAST
+
 "Emai I":"OWAN EAST",
 "Emai Ii":"OWAN EAST",
 "Igue/ikao":"OWAN EAST",
@@ -2871,7 +3341,9 @@
 "Otuo I":"OWAN EAST",
 "Otuo Ii":"OWAN EAST",
 "Uokha/ake":"OWAN EAST",
-:
+
+//UHUNMWODE
+
 "Egbede":"UHUNMWODE",
 "Ehor":"UHUNMWODE",
 "Igieduma":"UHUNMWODE",
@@ -2882,7 +3354,9 @@
 "Uhi":"UHUNMWODE",
 "Umagbae North":"UHUNMWODE",
 "Umagbae South":"UHUNMWODE",
-:
+
+//ADO EKITI
+
 "Ado 'a' Idofin":"ADO EKITI",
 "Ado 'b' Inisa":"ADO EKITI",
 "Ado 'c' Idolofin":"ADO EKITI",
@@ -2896,7 +3370,9 @@
 "Ado 'k' Irona":"ADO EKITI",
 "Ado 'l' Igbehin":"ADO EKITI",
 "Ado 'm' Farm Settlement":"ADO EKITI",
-:
+
+//EFON
+
 "Efon Iii":"EFON",
 "Efon I":"EFON",
 "Efon Ii":"EFON",
@@ -2907,7 +3383,9 @@
 "Efon X":"EFON",
 "Efon Iv":"EFON",
 "Efon Ix":"EFON",
-:
+
+//EKITI EAST
+
 "Araromi":"EKITI EAST",
 "Ilasa I":"EKITI EAST",
 "Ilasa Ii / Ikun / Araromi / Eda Ile":"EKITI EAST",
@@ -2920,7 +3398,9 @@
 "Obadore Iv":"EKITI EAST",
 "Omuo - Oke I":"EKITI EAST",
 "Omuo Oke Ii":"EKITI EAST",
-:
+
+//EKITI WEST
+
 "Aramoko I":"EKITI WEST",
 "Aramoko Ii":"EKITI WEST",
 "Aramoko Iii / Erio":"EKITI WEST",
@@ -2932,7 +3412,9 @@
 "Okemesi I":"EKITI WEST",
 "Okemesi Ii":"EKITI WEST",
 "Okemesi Iii":"EKITI WEST",
-:
+
+//EKITI SOUTH WEST
+
 "Igbara Odo I":"EKITI SOUTH WEST",
 "Igbara Odo Ii":"EKITI SOUTH WEST",
 "Ilawe Iii":"EKITI SOUTH WEST",
@@ -2944,7 +3426,9 @@
 "Ilawe Vii":"EKITI SOUTH WEST",
 "Ogotun I":"EKITI SOUTH WEST",
 "Ogotun Ii":"EKITI SOUTH WEST",
-:
+
+//EMURE
+
 "Ida Mudu Ii":"EMURE",
 "Idamudu I":"EMURE",
 "Odo - Emure I":"EMURE",
@@ -2955,7 +3439,9 @@
 "Ogbontioro Ii":"EMURE",
 "Oke Emure I":"EMURE",
 "Oke Emure Ii":"EMURE",
-:
+
+//GBONYIN
+
 "Adegba I":"GBONYIN",
 "Adegba Ii":"GBONYIN",
 "Agbado":"GBONYIN",
@@ -2966,7 +3452,9 @@
 "Ode I":"GBONYIN",
 "Ode Ii":"GBONYIN",
 "Ode Iii":"GBONYIN",
-:
+
+//IDO / OSI
+
 "Ayetoro I":"IDO / OSI",
 "Ayetoro Ii":"IDO / OSI",
 "Ido I":"IDO / OSI",
@@ -2978,7 +3466,9 @@
 "Orin / Ora":"IDO / OSI",
 "Osi":"IDO / OSI",
 "Usi":"IDO / OSI",
-:
+
+//IJERO
+
 "Ekamarun Ward 'a'":"IJERO",
 "Ekamarun Ward 'b'":"IJERO",
 ""Ijero Ward ""a"""":"IJERO",
@@ -2991,7 +3481,9 @@
 "Ipoti / Odo Owa Ward 'c'":"IJERO",
 "Ipoti Ward 'a'":"IJERO",
 "Ipoti Ward 'b'":"IJERO",
-:
+
+//IKERE
+
 "Afao / Kajola / Ayetoro":"IKERE",
 "Agbado / Oyo":"IKERE",
 "Are Araromi":"IKERE",
@@ -3003,7 +3495,9 @@
 "Oke - Osun":"IKERE",
 "Okeruku":"IKERE",
 "Ugele / Aroku":"IKERE",
-:
+
+//IKOLE
+
 "Araromi / Bolorunduro":"IKOLE",
 "Ijesa Isu":"IKOLE",
 "Ikole East":"IKOLE",
@@ -3016,7 +3510,9 @@
 "Odo Ayedun I":"IKOLE",
 "Odo Ayedun / Ayebode":"IKOLE",
 "Oke Ayedun / ---":"IKOLE",
-:
+
+//ILEJEMEJE
+
 "Eda Oniyo":"ILEJEMEJE",
 "Ewu":"ILEJEMEJE",
 "Ijesamodu":"ILEJEMEJE",
@@ -3027,7 +3523,9 @@
 "Iye Ii":"ILEJEMEJE",
 "Iye Iii":"ILEJEMEJE",
 "Obada":"ILEJEMEJE",
-:
+
+//IREPODUN / IFELODUN
+
 "Erinwa I":"IREPODUN / IFELODUN",
 "Erinwa Ii":"IREPODUN / IFELODUN",
 "Odo Ise I":"IREPODUN / IFELODUN",
@@ -3039,7 +3537,9 @@
 "Orun I":"IREPODUN / IFELODUN",
 "Orun Ii":"IREPODUN / IFELODUN",
 "Iyin Ii":"IREPODUN / IFELODUN",
-:
+
+//ISE / ORUN
+
 "Afao":"ISE / ORUN",
 "Are":"ISE / ORUN",
 "Awo":"ISE / ORUN",
@@ -3051,7 +3551,9 @@
 "Iworoko":"ISE / ORUN",
 "Iyin I":"ISE / ORUN",
 "Iyin Ii":"ISE / ORUN",
-:
+
+//MOBA
+
 "Erinmope I":"MOBA",
 "Erinmope Ii":"MOBA",
 "Igogo I":"MOBA",
@@ -3063,7 +3565,9 @@
 "Otun I":"MOBA",
 "Otun Ii":"MOBA",
 "Otun Iii":"MOBA",
-:
+
+//OYE
+
 "Erinmope I":"OYE",
 "Erinmope Ii":"OYE",
 "Igogo I":"OYE",
@@ -3075,7 +3579,9 @@
 "Otun I":"OYE",
 "Otun Ii":"OYE",
 "Otun Iii":"OYE",
-:
+
+//ANINRI
+
 "Mpu":"ANINRI",
 "Ndeabo":"ANINRI",
 "Nnenwe I":"ANINRI",
@@ -3086,7 +3592,9 @@
 "Oduma Iii":"ANINRI",
 "Oduma Iv":"ANINRI",
 "Okpanku":"ANINRI",
-:
+
+//AWGU
+
 "Agbogugu":"AWGU",
 "Anikenano/ugwueme":"AWGU",
 "Awgu I":"AWGU",
@@ -3098,7 +3606,9 @@
 "Obeagu":"AWGU",
 "Ogbaku":"AWGU",
 "Owelli/amoli/ugbo/ogugu":"AWGU",
-:
+
+/ENUGU EAST
+
 "Abakpa I":"ENUGU EAST",
 "Abakpa Ii":"ENUGU EAST",
 "Amorji":"ENUGU EAST",
@@ -3111,7 +3621,9 @@
 "Ugwugo Nike":"ENUGU EAST",
 "Umuchigbo":"ENUGU EAST",
 "Umuenwene":"ENUGU EAST",
-:
+
+//ENUGU NORTH
+
 "Asata Township":"ENUGU NORTH",
 "China Town":"ENUGU NORTH",
 "G.r.a":"ENUGU NORTH",
@@ -3126,6 +3638,8 @@
 "Udi Siding/iva Valley":"ENUGU NORTH",
 "Umunevo":"ENUGU NORTH",
 :
+//ENUGU SOUTH
+
 "Achara Layout East":"ENUGU SOUTH",
 "Achara Layout West":"ENUGU SOUTH",
 "Akwuke":"ENUGU SOUTH",
@@ -3140,6 +3654,8 @@
 "Uwani East":"ENUGU SOUTH",
 "Uwani West":"ENUGU SOUTH",
 :
+//ENUGU SOUTH
+
 "Agba Umana":"ENUGU SOUTH",
 "Aguobu (umumba)":"ENUGU SOUTH",
 "Aguobu-owa 1":"ENUGU SOUTH",
@@ -3161,6 +3677,8 @@
 "Umana Ndiagu":"ENUGU SOUTH",
 "Umumba Ndiumo":"ENUGU SOUTH",
 :
+//IGBO ETITI
+
 "Aku I":"IGBO ETITI",
 "Aku Ii":"IGBO ETITI",
 "Aku Iii":"IGBO ETITI",
@@ -3182,6 +3700,8 @@
 "Ukehe Iv":"IGBO ETITI",
 "Ukehe V":"IGBO ETITI",
 :
+//IGBO EZE SOUTH
+
 "Alor Agu":"IGBO EZE SOUTH",
 "Amabo /hausa/ Yoruba":"IGBO EZE SOUTH",
 "Echara":"IGBO EZE SOUTH",
@@ -3199,6 +3719,8 @@
 "Uhunowerre":"IGBO EZE SOUTH",
 "Unadu":"IGBO EZE SOUTH",
 :
+//ISI UZO 
+
 "Alor Agu":"ISI UZO",
 "Amabo /hausa/ Yoruba":"ISI UZO",
 "Echara":"ISI UZO",
@@ -3216,6 +3738,8 @@
 "Uhunowerre":"ISI UZO",
 "Unadu":"ISI UZO",
 :
+//NKANU EAST 
+
 "Akpawfu/isienu/amangunze":"NKANU EAST",
 "Amagunze":"NKANU EAST",
 "Amankanu/ogbahu":"NKANU EAST",
@@ -3231,6 +3755,8 @@
 "Ugbawka I":"NKANU EAST",
 "Ugbawka Ii":"NKANU EAST",
 :
+//NKANU WEST 
+
 "Agbani":"NKANU WEST",
 "Akegbe-ugwu (okwuo)":"NKANU WEST",
 "Akpugo Ii":"NKANU WEST",
@@ -3247,6 +3773,8 @@
 "Ozalla":"NKANU WEST",
 "Umueze":"NKANU WEST",
 :
+//NSUKKA 
+
 "Agbemebe/umabor":"NSUKKA",
 "Akalite":"NSUKKA",
 "Akpa/ozzi":"NSUKKA",
@@ -3268,6 +3796,8 @@
 "Okpuje/okutu/anuka":"NSUKKA",
 "Owerre/umuoyo":"NSUKKA",
 :
+//OJI-RIVER
+
 "Achiagu I":"OJI-RIVER",
 "Achiagu Ii":"OJI-RIVER",
 "Achiagu Iii":"OJI-RIVER",
@@ -3289,6 +3819,8 @@
 "Ugwuoba Ii":"OJI-RIVER",
 "Ugwuoba Iii":"OJI-RIVER",
 :
+//UDENU 
+
 "Amala":"UDENU",
 "Ezimo":"UDENU",
 "Imilike":"UDENU",
@@ -3300,6 +3832,9 @@
 "Orba Ii":"UDENU",
 "Udunedem":"UDENU",
 :
+
+//UDI
+
 "Abia":"UDI",
 "Abor":"UDI",
 "Affa/oghu/ikono":"UDI",
@@ -3321,6 +3856,8 @@
 "Umuaga":"UDI",
 "Umulumgbe":"UDI",
 :
+//UZO-UWANI
+
 "Abbi":"UZO-UWANI",
 "Adaba-nkume":"UZO-UWANI",
 "Adani":"UZO-UWANI",
@@ -3338,6 +3875,8 @@
 "Umulokpa":"UZO-UWANI",
 "Uvuru":"UZO-UWANI",
 :
+//ABAJI
+
 "Abaji Central":"ABAJI",
 "Abaji North East":"ABAJI",
 "Abaji South East":"ABAJI",
@@ -3349,6 +3888,8 @@
 "Rimba Ebagi":"ABAJI",
 "Yaba":"ABAJI",
 :
+
+//BWARI
 "Bwari Central":"BWARI",
 "Byazhin":"BWARI",
 "Dutse Alhaji":"BWARI",
@@ -3360,6 +3901,8 @@
 "Ushafa":"BWARI",
 "Usuma":"BWARI",
 :
+//GWAGWALADA
+
 "Gwako":"GWAGWALADA",
 "Ibwa":"GWAGWALADA",
 "Ikwa":"GWAGWALADA",
@@ -3369,6 +3912,8 @@
 "Tungan Maje":"GWAGWALADA",
 "Zuba":"GWAGWALADA",
 :
+//KUJE
+
 "Chibiri":"KUJE",
 "Gaube":"KUJE",
 "Kabi":"KUJE",
@@ -3378,6 +3923,8 @@
 "Rubochi":"KUJE",
 "Yenche":"KUJE",
 :
+//KWALI
+
 "Ashara":"KWALI",
 "Dafa":"KWALI",
 "Gumbo":"KWALI",
@@ -3389,6 +3936,8 @@
 "Yangoji":"KWALI",
 "Yebu":"KWALI",
 :
+//MUNICIPAL
+
 "City Centre":"MUNICIPAL",
 "Garki":"MUNICIPAL",
 "Gui":"MUNICIPAL",
@@ -3402,6 +3951,8 @@
 "Orozo":"MUNICIPAL",
 "Wuse":"MUNICIPAL",
 :
+//AKKO
+
 "Akko":"AKKO",
 "Garko":"AKKO",
 "Kalshingi":"AKKO",
@@ -3414,6 +3965,8 @@
 "Tukulma":"AKKO",
 "Tumu":"AKKO",
 :
+//BALANGA
+
 "Bambam":"BALANGA",
 "Bangu":"BALANGA",
 "Dadiya":"BALANGA",
@@ -3425,6 +3978,8 @@
 "Swa / Ref / W. Waja":"BALANGA",
 "Talasse / Dong / Reme":"BALANGA",
 :
+//BILLIRI
+
 "Baganje North":"BILLIRI",
 "Baganje South":"BILLIRI",
 "Bare":"BILLIRI",
@@ -3436,6 +3991,8 @@
 "Todi":"BILLIRI",
 "Tudu Kwaya":"BILLIRI",
 :
+//DUKKU
+
 "Gombe Abba":"DUKKU",
 "Hashidu":"DUKKU",
 "Jamari":"DUKKU",
@@ -3448,6 +4005,8 @@
 "Zange":"DUKKU",
 "Zaune":"DUKKU",
 :
+//FUNAKAYE
+
 "Ashaka / Magaba":"FUNAKAYE",
 "Bage":"FUNAKAYE",
 "Bajoga West":"FUNAKAYE",
@@ -3459,6 +4018,8 @@
 "Tongo":"FUNAKAYE",
 "Wawa / Wakkulutu":"FUNAKAYE",
 :
+//GOMBE
+
 "Ajiya":"GOMBE",
 "Bajoga":"GOMBE",
 "Bolari East":"GOMBE",
@@ -3471,6 +4032,8 @@
 "Pantami":"GOMBE",
 "Shamaki":"GOMBE",
 :
+//KALTUNGO
+
 "Awak":"KALTUNGO",
 "Bule / Kaltin":"KALTUNGO",
 "Kaltungo East":"KALTUNGO",
@@ -3483,6 +4046,8 @@
 "Ture":"KALTUNGO",
 :
 :
+//KWAMI
+
 "Bojude":"KWAMI",
 "Daban Fulani":"KWAMI",
 "Doho":"KWAMI",
@@ -3494,6 +4059,8 @@
 "Malam Sidi":"KWAMI",
 "Malleri":"KWAMI",
 :
+//NAFADA
+
 "Barwo / Nasarawo":"NAFADA",
 "Barwo Winde":"NAFADA",
 "Birin Bolewa":"NAFADA",
@@ -3506,6 +4073,8 @@
 "Nafada West":"NAFADA",
 :
 :
+//SHONGOM
+
 "Bangunji":"SHONGOM",
 "Boh":"SHONGOM",
 "Burak":"SHONGOM",
@@ -3517,6 +4086,8 @@
 "Lalaipido":"SHONGOM",
 "Lapan":"SHONGOM",
 :
+//YALMALTU/ DEBA 
+
 "Deba":"YALMALTU/ DEBA",
 "Difa / Lubo / Kinafa":"YALMALTU/ DEBA",
 "Gwani / Shinga / Wade":"YALMALTU/ DEBA",
@@ -3529,6 +4100,8 @@
 "Nono / Kunwal / W. Birdeka":"YALMALTU/ DEBA",
 "Zambul / Kwali":"YALMALTU/ DEBA",
 :
+//ABOH MBAISE
+
 "Amuzu":"ABOH MBAISE",
 "Enyiogugu":"ABOH MBAISE",
 "Ibeku":"ABOH MBAISE",
@@ -3542,6 +4115,8 @@
 "Uvuru 1":"ABOH MBAISE",
 "Uvuru Ii":"ABOH MBAISE",
 :
+//AHIAZU MBAISE 
+
 "Amuzi/ihenworie":"AHIAZU MBAISE",
 "Mpam":"AHIAZU MBAISE",
 "Nnarambia":"AHIAZU MBAISE",
@@ -3555,6 +4130,8 @@
 "Otulu/aguneze":"AHIAZU MBAISE",
 "Umunumo/umuchieze":"AHIAZU MBAISE",
 :
+//EHIME MBANO
+
 "Agbaja":"EHIME MBANO",
 "Nsu 'a' Ikpe":"EHIME MBANO",
 "Nsu 'b' Ihitte":"EHIME MBANO",
@@ -3567,6 +4144,8 @@
 "Umunakanu":"EHIME MBANO",
 "Umunumo":"EHIME MBANO",
 :
+//EZINIHITTE MBAISE
+
 "Amumara":"EZINIHITTE MBAISE",
 "Chokoneze/akpodim/ife":"EZINIHITTE MBAISE",
 "Eziudo":"EZINIHITTE MBAISE",
@@ -3580,6 +4159,8 @@
 "Onicha Iv":"EZINIHITTE MBAISE",
 "Udo-na-obizi":"EZINIHITTE MBAISE",
 :
+//IDEATO NORTH
+
 "Akpulu":"IDEATO NORTH",
 "Akwu Owerre":"IDEATO NORTH",
 "Ezemazu/ozu":"IDEATO NORTH",
@@ -3595,6 +4176,8 @@
 "Umuopia/umukegwu":"IDEATO NORTH",
 "Uzii/umualoma":"IDEATO NORTH",
 :
+//IDEATO SOUTH
+
 "Amanator/umueshi":"IDEATO SOUTH",
 "Dikenafai":"IDEATO SOUTH",
 "Isiekenesi I":"IDEATO SOUTH",
@@ -3609,6 +4192,8 @@
 "Umuma Isiaku":"IDEATO SOUTH",
 "Umuobom":"IDEATO SOUTH",
 :
+//IHITTE/UBOMA (ISINWEKE)
+
 "Abueke":"IHITTE/UBOMA (ISINWEKE)",
 "Amainyi":"IHITTE/UBOMA (ISINWEKE)",
 "Amakohia":"IHITTE/UBOMA (ISINWEKE)",
@@ -3620,6 +4205,8 @@
 "Umuezegwu":"IHITTE/UBOMA (ISINWEKE)",
 "Umuihi":"IHITTE/UBOMA (ISINWEKE)",
 :
+//IKEDURU (IHO)
+
 "Akabo":"IKEDURU (IHO)",
 "Amaimo":"IKEDURU (IHO)",
 "Amakohia":"IKEDURU (IHO)",
@@ -3633,6 +4220,8 @@
 "Ugirike / Okwu / Eziama":"IKEDURU (IHO)",
 "Uzoagba":"IKEDURU (IHO)",
 :
+//ISIALA MBANO (UMUELEMAI)
+
 "Amaraku":"ISIALA MBANO (UMUELEMAI)",
 "Amauzari":"ISIALA MBANO (UMUELEMAI)",
 "Ibeme":"ISIALA MBANO (UMUELEMAI)",
@@ -3646,6 +4235,9 @@
 "Umunkwo":"ISIALA MBANO (UMUELEMAI)",
 "Umuozu":"ISIALA MBANO (UMUELEMAI)",
 :
+
+//ISU (UMUNDUGBA)
+
 "Amandugba I":"ISU (UMUNDUGBA)",
 "Amandugba Ii":"ISU (UMUNDUGBA)",
 "Amurie Omanze I":"ISU (UMUNDUGBA)",
@@ -3658,6 +4250,8 @@
 "Umundugba I":"ISU (UMUNDUGBA)",
 "Umundugba Ii":"ISU (UMUNDUGBA)",
 :
+//MBAITOLI (NWAORIEUBI)
+
 "Afara/eziama":"MBAITOLI (NWAORIEUBI)",
 "Amaike Mbieri":"MBAITOLI (NWAORIEUBI)",
 "Ezinihitie Mbieri":"MBAITOLI (NWAORIEUBI)",
@@ -3671,6 +4265,8 @@
 "Umunoha/azara":"MBAITOLI (NWAORIEUBI)",
 "Umunwoha/mbieri/umuawu":"MBAITOLI (NWAORIEUBI)",
 :
+//NGOR OKPALA (UMUNEKE)
+
 "Eziama/okpala":"NGOR OKPALA (UMUNEKE)",
 "Imerienwe":"NGOR OKPALA (UMUNEKE)",
 "Logara/umuohiagu":"NGOR OKPALA (UMUNEKE)",
@@ -3681,6 +4277,8 @@
 "Ozuzu":"NGOR OKPALA (UMUNEKE)",
 "Umuhu":"NGOR OKPALA (UMUNEKE)",
 :
+//NJABA (NNENASA)
+
 "Amucha I":"NJABA (NNENASA)",
 "Amucha Ii":"NJABA (NNENASA)",
 "Atta Iii":"NJABA (NNENASA)",
@@ -3691,6 +4289,8 @@
 "Umuaka Iii":"NJABA (NNENASA)",
 "Umuaka Iv":"NJABA (NNENASA)",
 :
+//Amaokpara":"NKWERRE
+
 "Amaokpara":"NKWERRE",
 "Eziama Obaire":"NKWERRE",
 "Nkwerre Iv (umunubo/umunachi)":"NKWERRE",
@@ -3700,6 +4300,8 @@
 "Umudi/umuwala":"NKWERRE",
 "Umukor (nkwerre Iii)":"NKWERRE",
 :
+//NWANGELE (ONU-NWANGELE AMAIGBO)
+
 "Abajah Ward I":"NWANGELE (ONU-NWANGELE AMAIGBO)",
 "Abajah Ward Ii":"NWANGELE (ONU-NWANGELE AMAIGBO)",
 "Abba Ward":"NWANGELE (ONU-NWANGELE AMAIGBO)",
@@ -3710,6 +4312,8 @@
 "Umuanu Community Ward (amaigbo Ii)":"NWANGELE (ONU-NWANGELE AMAIGBO)",
 "Umuozu Ward":"NWANGELE (ONU-NWANGELE AMAIGBO)",
 :
+//OBOWO (OTOKO)
+
 "Alike":"OBOWO (OTOKO)",
 "Amanze/umungwa":"OBOWO (OTOKO)",
 "Amuzi":"OBOWO (OTOKO)",
@@ -3720,6 +4324,8 @@
 "Okwuohia":"OBOWO (OTOKO)",
 "Umunachi":"OBOWO (OTOKO)",
 :
+//OGUTA (OGUTA)
+
 "Awa":"OGUTA (OGUTA)",
 "Egwe/egbuoma":"OGUTA (OGUTA)",
 "Izombe":"OGUTA (OGUTA)",
@@ -3730,6 +4336,8 @@
 "Oguta 'b'":"OGUTA (OGUTA)",
 "Oru":"OGUTA (OGUTA)",
 :
+//OHAJI/EGBEMA (MMAHU-EGBEMA)
+
 "Egbema 'a'":"OHAJI/EGBEMA (MMAHU-EGBEMA)",
 "Egbema 'b'":"OHAJI/EGBEMA (MMAHU-EGBEMA)",
 "Egbema 'c'":"OHAJI/EGBEMA (MMAHU-EGBEMA)",
@@ -3741,6 +4349,8 @@
 "Umuagwo":"OHAJI/EGBEMA (MMAHU-EGBEMA)",
 "Umuapu":"OHAJI/EGBEMA (MMAHU-EGBEMA)",
 :
+//OKIGWE (OKIGWE)
+
 "Ihube":"OKIGWE (OKIGWE)",
 "Ndimoko Ofeimo/ibinta/okanachi/umuowa Ibu":"OKIGWE (OKIGWE)",
 "Ogii":"OKIGWE (OKIGWE)",
@@ -3750,12 +4360,16 @@
 "Umulolo":"OKIGWE (OKIGWE)",
 :
 :
+//ONUIMO (OKWE)
+
 "Aboh/okohia":"ONUIMO (OKWE)",
 "Ezelu":"ONUIMO (OKWE)",
 "Eziama":"ONUIMO (OKWE)",
 "Ofeahia / Umuanumeze":"ONUIMO (OKWE)",
 "Umuna":"ONUIMO (OKWE)",
 :
+//ORLU
+
 "Amaifeke":"ORLU",
 "Ebenese/umueze/nnachi Ihioma":"ORLU",
 "Eziachi/amike":"ORLU",
@@ -3777,6 +4391,8 @@
 "Orsu Ihiteukwa":"ORSU (AWO IDEMILI)",
 "Umuhu Okabia":"ORSU (AWO IDEMILI)",
 :
+//ORU-EAST
+
 "Akata":"ORU-EAST",
 "Amiri I":"ORU-EAST",
 "Amiri Ii":"ORU-EAST",
@@ -3786,6 +4402,8 @@
 "Awo-omamma Iv":"ORU-EAST",
 "Omuma":"ORU-EAST",
 :
+//ORU WEST (MGBIDI)
+
 "Aji":"ORU WEST (MGBIDI)",
 "Amafuo":"ORU WEST (MGBIDI)",
 "Ibiaso Egbe":"ORU WEST (MGBIDI)",
@@ -3797,6 +4415,8 @@
 "Ozara":"ORU WEST (MGBIDI)",
 "Ubulu":"ORU WEST (MGBIDI)",
 :
+//OWERRI MUNICIPAL
+
 "Amakohia-ubi/ndegwu Ohii":"OWERRI MUNICIPAL",
 "Avu/oforola":"OWERRI MUNICIPAL",
 "Emeabiam/okolochi":"OWERRI MUNICIPAL",
@@ -3808,6 +4428,8 @@
 "Okuku":"OWERRI MUNICIPAL",
 "Umuguma":"OWERRI MUNICIPAL",
 :
+//OWERRI NORTH (ORIE URATTA)
+
 "Agbala/obube/ulakwo":"OWERRI NORTH (ORIE URATTA)",
 "Awaka/ihitte-ogada":"OWERRI NORTH (ORIE URATTA)",
 "Egbu":"OWERRI NORTH (ORIE URATTA)",
@@ -3821,6 +4443,8 @@
 "Obibiezena":"OWERRI NORTH (ORIE URATTA)",
 "Orji":"OWERRI NORTH (ORIE URATTA)",
 :
+//OWERRI WEST (UMUGUMA)
+
 "Amakohia-ubi/ndegwu Ohii":"OWERRI WEST (UMUGUMA)",
 "Avu/oforola":"OWERRI WEST (UMUGUMA)",
 "Emeabiam/okolochi":"OWERRI WEST (UMUGUMA)",
@@ -3832,6 +4456,8 @@
 "Okuku":"OWERRI WEST (UMUGUMA)",
 "Umuguma":"OWERRI WEST (UMUGUMA)",
 :
+//AUYO
+
 "Auyakayi":"AUYO",
 "Auyo":"AUYO",
 "Ayama":"AUYO",
@@ -3843,6 +4469,8 @@
 "Tsidir":"AUYO",
 "Unik":"AUYO",
 :
+//BABURA
+
 "Babura":"BABURA",
 "Batali":"BABURA",
 "Dorawa":"BABURA",
@@ -3855,6 +4483,8 @@
 "Kyambo":"BABURA",
 "Takwasa":"BABURA",
 :
+
+//BIRNIN KUDU
 "Birnin Kudu":"BIRNIN KUDU",
 "Kangire":"BIRNIN KUDU",
 "Kantoga":"BIRNIN KUDU",
@@ -3867,6 +4497,8 @@
 "Wurno":"BIRNIN KUDU",
 "Yalwan Damai":"BIRNIN KUDU",
 :
+//BIRNIWA
+
 "Batu":"BIRNIWA",
 "Birniwa":"BIRNIWA",
 "Dangwaleri":"BIRNIWA",
@@ -3879,6 +4511,8 @@
 "Matamu":"BIRNIWA",
 "Nguwa":"BIRNIWA",
 :
+//BUJI
+
 "Ahoto":"BUJI",
 "Buji":"BUJI",
 "Churbun":"BUJI",
@@ -3890,6 +4524,8 @@
 "Madabe":"BUJI",
 "Y/tukur":"BUJI",
 :
+//DUTSE
+
 "Abaya":"DUTSE",
 "Chamo":"DUTSE",
 "Dundubus":"DUTSE",
@@ -3901,7 +4537,9 @@
 "Limawa":"DUTSE",
 "Madobi":"DUTSE",
 "Sakwaya":"DUTSE",
-:
+
+//GARKI
+
 "Buduru":"GARKI",
 "Doko":"GARKI",
 "Garki":"GARKI",
@@ -3913,7 +4551,9 @@
 "Muku":"GARKI",
 "Rafin Marke":"GARKI",
 "Siyori":"GARKI",
-:
+
+//GAGARAWA
+
 "Gagarawa Gari":"GAGARAWA",
 "Gagarawa Tasha":"GAGARAWA",
 "Garin Chiroma":"GAGARAWA",
@@ -3924,7 +4564,9 @@
 "Medu":"GAGARAWA",
 "Yalawa":"GAGARAWA",
 "Zarada":"GAGARAWA",
-:
+
+//GUMEL
+
 "Baikarya":"GUMEL",
 "Danama":"GUMEL",
 "Dantanoma":"GUMEL",
@@ -3936,7 +4578,9 @@
 "Kofar Arewa":"GUMEL",
 "Kofar Yamma":"GUMEL",
 "Zango":"GUMEL",
-:
+
+//GURI
+
 "Abunabo":"GURI",
 "Adiyani":"GURI",
 "Dawa":"GURI",
@@ -3947,7 +4591,9 @@
 "Margadu":"GURI",
 "Matara Baba":"GURI",
 "Musari":"GURI",
-:
+
+//GWARAM
+
 "Basirka":"GWARAM",
 "Dingaya":"GWARAM",
 "Fagam":"GWARAM",
@@ -3959,7 +4605,9 @@
 "Sara":"GWARAM",
 "Tsangarwa":"GWARAM",
 "Zandan Nagogo":"GWARAM",
-:
+
+//GWIWA
+
 "Buntusu":"GWIWA",
 "Dabi":"GWIWA",
 "Darina":"GWIWA",
@@ -3971,7 +4619,9 @@
 "Shafe":"GWIWA",
 "Yola":"GWIWA",
 "Zaumar Sainawa":"GWIWA",
-:
+
+//HADEJIA
+
 "Atafi":"HADEJIA",
 "Dubantu":"HADEJIA",
 "Gagulmari":"HADEJIA",
@@ -3983,7 +4633,9 @@
 "Sabon Garu":"HADEJIA",
 "Yankoli":"HADEJIA",
 "Yayari":"HADEJIA",
-:
+
+//JAHUN
+
 "Aujara":"JAHUN",
 "Gangawa":"JAHUN",
 "Gauza Tazara":"JAHUN",
@@ -3995,7 +4647,9 @@
 "Jahun":"JAHUN",
 "Kale":"JAHUN",
 "Kanwa":"JAHUN",
-:
+
+//KAFIN HAUSA
+
 "Balangu":"KAFIN HAUSA",
 "Dumadumin Toka":"KAFIN HAUSA",
 "Gafaya":"KAFIN HAUSA",
@@ -4009,7 +4663,8 @@
 "Zago":"KAFIN HAUSA",
 :
 :
-:
+//KAUGAMA
+
 "Arbus":"KAUGAMA",
 "Askandu":"KAUGAMA",
 "Dabuwaran":"KAUGAMA",
@@ -4021,7 +4676,9 @@
 "Marke":"KAUGAMA",
 "Unguwar Jibrin":"KAUGAMA",
 "Yalo":"KAUGAMA",
-:
+
+//KAZAURE
+
 "Ba'auzini":"KAZAURE",
 "Daba":"KAZAURE",
 "Dabaza":"KAZAURE",
@@ -4033,7 +4690,9 @@
 "Unguwar Arewa":"KAZAURE",
 "Unguwar Gabas":"KAZAURE",
 "Unguwar Yamma":"KAZAURE",
-:
+
+//KIRIKA SAMMA
+
 "Baturiya":"KIRIKA SAMMA",
 "Bulunchai":"KIRIKA SAMMA",
 "Doleri":"KIRIKA SAMMA",
@@ -4044,7 +4703,9 @@
 "Marma":"KIRIKA SAMMA",
 "Tarabu":"KIRIKA SAMMA",
 "Tsheguwa":"KIRIKA SAMMA",
-:
+
+//KIYAWA
+
 "Abalago":"KIYAWA",
 "Andaza":"KIYAWA",
 "Fake":"KIYAWA",
@@ -4056,7 +4717,9 @@
 "Kwanda":"KIYAWA",
 "Maje":"KIYAWA",
 "Tsurma":"KIYAWA",
-:
+
+//MAIGATARI
+
 "Balarabe":"MAIGATARI",
 "Dankumbo":"MAIGATARI",
 "Fulata":"MAIGATARI",
@@ -4068,7 +4731,9 @@
 "Maigatari Kudu":"MAIGATARI",
 "Matoya":"MAIGATARI",
 "Turbus":"MAIGATARI",
-:
+
+//MALAM MADORI
+
 "Arki":"MALAM MADORI",
 "Dunari":"MALAM MADORI",
 "Fateka Akurya":"MALAM MADORI",
@@ -4080,7 +4745,9 @@
 "Tagwaro":"MALAM MADORI",
 "Tashena":"MALAM MADORI",
 "Tonikutara":"MALAM MADORI",
-:
+
+//MIGA
+
 "Dangyatin":"MIGA",
 "Hantsu":"MIGA",
 "Harbo":"MIGA",
@@ -4091,7 +4758,9 @@
 "Tsakuwawa":"MIGA",
 "Yanduna":"MIGA",
 "Zareku":"MIGA",
-:
+
+//RINGIM
+
 "Chai-chai":"RINGIM",
 "Dabi":"RINGIM",
 "Kafin Babushe":"RINGIM",
@@ -4102,7 +4771,9 @@
 "Sintilmawa":"RINGIM",
 "Tofa":"RINGIM",
 "Yandutse":"RINGIM",
-:
+
+//RONI
+
 "Amaryawa":"RONI",
 "Baragumi":"RONI",
 "Dansure":"RONI",
@@ -4114,7 +4785,9 @@
 "Tunas":"RONI",
 "Yanzaki":"RONI",
 "Zugai":"RONI",
-:
+
+//SULE-TANKARKAR
+
 "Amanga":"SULE-TANKARKAR",
 "Dangwanki":"SULE-TANKARKAR",
 "Danladi":"SULE-TANKARKAR",
@@ -4124,7 +4797,9 @@
 "Sule-tankarkar":"SULE-TANKARKAR",
 "Takatsaba":"SULE-TANKARKAR",
 "Yandamo":"SULE-TANKARKAR",
-:
+
+//SULE-TANKARKAR
+
 "Ajaura":"TAURA",
 "Chakwaikwaiwa":"TAURA",
 "Chukuto":"TAURA",
@@ -4135,7 +4810,9 @@
 "Majiya":"TAURA",
 "S/garin Yaya":"TAURA",
 "Taura":"TAURA",
-:
+
+// YANKWASHI
+
 "Achilafiya":"YANKWASHI",
 "Belas":"YANKWASHI",
 "Dawan-gawo":"YANKWASHI",
@@ -4146,7 +4823,9 @@
 "Ringim":"YANKWASHI",
 "Yankwashi":"YANKWASHI",
 "Zunbumba":"YANKWASHI",
-:
+
+//BIRNIN GWARI
+
 "Dogon Dawa":"BIRNIN GWARI",
 "Gayam":"BIRNIN GWARI",
 "Kakangi":"BIRNIN GWARI",
@@ -4158,7 +4837,9 @@
 "Magajin Gari Iii":"BIRNIN GWARI",
 "Randagi":"BIRNIN GWARI",
 "Tabanni":"BIRNIN GWARI",
-:
+
+//CHIKUN
+
 "Chikun":"CHIKUN",
 "Gwagwada":"CHIKUN",
 "Kakau":"CHIKUN",
@@ -4171,7 +4852,9 @@
 "S/ggarin Arewa Tirkaniya":"CHIKUN",
 "Sabon Tasha":"CHIKUN",
 "Ung. Yelwa":"CHIKUN",
-:
+
+//GIWA
+
 "Danmahawayi":"GIWA",
 "Galadimawa":"GIWA",
 "Gangara":"GIWA",
@@ -4183,7 +4866,9 @@
 "Pan Hauya":"GIWA",
 "Shika":"GIWA",
 "Yakawada":"GIWA",
-:
+
+//IGABI
+
 "Afaka":"IGABI",
 "Birnin Yero":"IGABI",
 "Gadan Gayan":"IGABI",
@@ -4196,7 +4881,9 @@
 "Sabon Birnin Daji":"IGABI",
 "Turunku":"IGABI",
 "Zangon Aya":"IGABI",
-:
+
+//IKARA
+
 "Auchan":"IKARA",
 "Ikara":"IKARA",
 "Janfala":"IKARA",
@@ -4207,7 +4894,9 @@
 "Rumi":"IKARA",
 "Saulawa":"IKARA",
 "Saya-saya":"IKARA",
-:
+
+//JABA
+
 "Chori":"JABA",
 "Daddu":"JABA",
 "Dura/bitaro":"JABA",
@@ -4218,7 +4907,9 @@
 "Sabchem":"JABA",
 "Sabzuro":"JABA",
 "Sambam":"JABA",
-:
+
+//JEMA'A
+
 "Asso":"JEMA'A",
 "Atuku":"JEMA'A",
 "Bedde":"JEMA'A",
@@ -4231,7 +4922,9 @@
 "Kaninkon":"JEMA'A",
 "Maigizo 'a'":"JEMA'A",
 "Takau 'b'":"JEMA'A",
-:
+
+//KACHIA
+
 "Agunu":"KACHIA",
 "Ankwa":"KACHIA",
 "Awon":"KACHIA",
@@ -4244,7 +4937,9 @@
 "Kurmin Musa":"KACHIA",
 "Kwaturu":"KACHIA",
 "Sabon Sarki":"KACHIA",
-:
+
+//KADUNA NORTH
+
 "Badarawa":"KADUNA NORTH",
 "Gabasawa":"KADUNA NORTH",
 "Gaji":"KADUNA NORTH",
@@ -4257,7 +4952,9 @@
 "Unguwan Liman":"KADUNA NORTH",
 "Unguwan Sarki":"KADUNA NORTH",
 "Unguwan Shanu":"KADUNA NORTH",
-:
+
+//KADUNA SOUTH
+
 "Badiko":"KADUNA SOUTH",
 "Barnawa":"KADUNA SOUTH",
 "Kakuri Gwari":"KADUNA SOUTH",
@@ -4271,7 +4968,9 @@
 "Tudun Wada South":"KADUNA SOUTH",
 "Tudun Wada West":"KADUNA SOUTH",
 "Ung. Sanusi":"KADUNA SOUTH",
-:
+
+//KAGARKO
+
 "Aribi":"KAGARKO",
 "Iddah":"KAGARKO",
 "Jere North":"KAGARKO",
@@ -4282,7 +4981,10 @@
 "Kukui":"KAGARKO",
 "Kurmin Jibrin":"KAGARKO",
 "Kushe":"KAGARKO",
-:
+
+
+//KAJURU
+
 "Afogo":"KAJURU",
 "Buda":"KAJURU",
 "Idon":"KAJURU",
@@ -4293,7 +4995,9 @@
 "Maro":"KAJURU",
 "Rimau":"KAJURU",
 "Tantatu":"KAJURU",
-:
+
+//KAURA
+
 "Agban":"KAURA",
 "Bondon":"KAURA",
 "Fada":"KAURA",
@@ -4304,7 +5008,9 @@
 "Mallagum":"KAURA",
 "Manchok":"KAURA",
 "Zankan":"KAURA",
-:
+
+//KAURU
+
 "Badurum Sama":"KAURU",
 "Bital":"KAURU",
 "Damakasuwa":"KAURU",
@@ -4316,7 +5022,9 @@
 "Kwassam":"KAURU",
 "Makami":"KAURU",
 "Pari":"KAURU",
-:
+
+//KUBAU
+
 "Anchau":"KUBAU",
 "Damau":"KUBAU",
 "Dutsen Wai":"KUBAU",
@@ -4328,7 +5036,9 @@
 "Pambegua":"KUBAU",
 "Zabi":"KUBAU",
 "Zuntu":"KUBAU",
-:
+
+//KUDAN
+
 "Doka":"KUDAN",
 "Garu":"KUDAN",
 "Hunkuyi":"KUDAN",
@@ -4339,7 +5049,9 @@
 "Sabon Gari Hunkuyi":"KUDAN",
 "Taban Sani":"KUDAN",
 "Zabi":"KUDAN",
-:
+
+//LERE
+
 "Abadawa":"LERE",
 "Dan Alhaji":"LERE",
 "Garu":"LERE",
@@ -4351,7 +5063,9 @@
 "Sabon Birnin":"LERE",
 "Saminaka":"LERE",
 "Yar Kasuwa":"LERE",
-:
+
+//MAKARFI
+
 "Dandamisa":"MAKARFI",
 "Danguziri":"MAKARFI",
 "Gazara":"MAKARFI",
@@ -4362,7 +5076,9 @@
 "Mayere":"MAKARFI",
 "Nassarwan Doya":"MAKARFI",
 "Tudun Wada":"MAKARFI",
-:
+
+//SABON GARI
+
 "Basawa":"SABON GARI",
 "Bomo":"SABON GARI",
 "Chikaji":"SABON GARI",
@@ -4374,7 +5090,9 @@
 "Samaru":"SABON GARI",
 "Unguwan Gabas":"SABON GARI",
 "Zabi":"SABON GARI",
-:
+
+//SANGA
+
 "Aboro":"SANGA",
 "Arak":"SANGA",
 "Ayu":"SANGA",
@@ -4386,7 +5104,9 @@
 "Ninzam South":"SANGA",
 "Ninzam West":"SANGA",
 "Wasa Station":"SANGA",
-:
+
+//SOBA
+
 "Dan Wata":"SOBA",
 "Gamagira":"SOBA",
 "Garun Gwanki":"SOBA",
@@ -4398,7 +5118,9 @@
 "Richifa":"SOBA",
 "Soba":"SOBA",
 "Turawa":"SOBA",
-:
+
+//ZANGON KATAF
+
 "Gidan Jatau":"ZANGON KATAF",
 "Gora":"ZANGON KATAF",
 "Kamantan":"ZANGON KATAF",
@@ -4410,7 +5132,9 @@
 "Zango Urban":"ZANGON KATAF",
 "Zonkwa":"ZANGON KATAF",
 "Zonzon":"ZANGON KATAF",
-:
+
+//ZARIA
+
 "Dambo":"ZARIA",
 "Dutsen Abba":"ZARIA",
 "Gyallesu":"ZARIA",
@@ -4424,7 +5148,9 @@
 "Ung. Fatika":"ZARIA",
 "Ung. Juma":"ZARIA",
 "Wucicciri":"ZARIA",
-:
+
+//AJINGI
+
 "AJINGI":"AJINGI",
 "BALARE":"AJINGI",
 "CHULA":"AJINGI",
@@ -4435,7 +5161,9 @@
 "KUNKURAWA":"AJINGI",
 "TORANKE":"AJINGI",
 "UNGAWAR BAI":"AJINGI",
-:
+
+//ALBASU
+
 "Albasu Central":"ALBASU",
 "Bataiya":"ALBASU",
 "Chamarana":"ALBASU",
@@ -4446,7 +5174,9 @@
 "Hungu":"ALBASU",
 "Saya-saya":"ALBASU",
 "Tsangaya":"ALBASU",
-:
+
+//BAGWAI
+
 "Bagwai":"BAGWAI",
 "Dangada":"BAGWAI",
 "Gadanya":"BAGWAI",
@@ -4457,7 +5187,9 @@
 "Romo":"BAGWAI",
 "Sare-sare":"BAGWAI",
 "Wuro Bagga":"BAGWAI",
-:
+
+//BEBEJI
+
 "Anadariya":"BEBEJI",
 "Baguda":"BEBEJI",
 "Bebeji":"BEBEJI",
@@ -4472,7 +5204,9 @@
 "Rantan":"BEBEJI",
 "Tariwa":"BEBEJI",
 "Wak":"BEBEJI",
-:
+
+//BICHI
+
 "Badume":"BICHI",
 "Bichi":"BICHI",
 "Danzabuwa":"BICHI",
@@ -4484,7 +5218,9 @@
 "Saye":"BICHI",
 "Waire":"BICHI",
 "Yallami":"BICHI",
-:
+
+//BUNKURE
+
 "Barkum":"BUNKURE",
 "Bono":"BUNKURE",
 "Bunkure":"BUNKURE",
@@ -4495,7 +5231,9 @@
 "Kulluwa":"BUNKURE",
 "Kumurya":"BUNKURE",
 "Sanda":"BUNKURE",
-:
+
+//DALA
+
 "Adakawa":"DALA",
 "Bakin Ruwa":"DALA",
 "Dala":"DALA",
@@ -4508,7 +5246,9 @@
 "Kofar Ruwa":"DALA",
 "Madigawa":"DALA",
 "Yalwa":"DALA",
-:
+
+
+//DANBATA
 "Ajumawa":"DANBATA",
 "Danbatta East":"DANBATA",
 "Danbatta West":"DANBATA",
@@ -4519,7 +5259,9 @@
 "Kore":"DANBATA",
 "Saidawa":"DANBATA",
 "Sansan":"DANBATA",
-:
+
+//DAWAKI KUDU
+
 "Dabar Kwari":"DAWAKI KUDU",
 "Danbagiwa":"DAWAKI KUDU",
 "Dawaki":"DAWAKI KUDU",
@@ -4535,7 +5277,9 @@
 "Yankatsari":"DAWAKI KUDU",
 "Yargaya":"DAWAKI KUDU",
 "Zogarawa":"DAWAKI KUDU",
-:
+
+//DAWAKI TOFA
+
 "Dindere":"DAWAKI TOFA",
 "Doka":"DAWAKI TOFA",
 "Gajida":"DAWAKI TOFA",
@@ -4551,7 +5295,9 @@
 "Yalwa Karama":"DAWAKI TOFA",
 "Yanoko":"DAWAKI TOFA",
 "Yarimawa":"DAWAKI TOFA",
-:
+
+//DOGUWA
+
 "Dariya":"DOGUWA",
 "Dogon Kawo":"DOGUWA",
 "Duguwa":"DOGUWA",
@@ -4562,7 +5308,9 @@
 "Tagwaye":"DOGUWA",
 "Unguwar Natsohuwa":"DOGUWA",
 "Zainabi":"DOGUWA",
-:
+
+//FAGGE
+
 "Fagge A":"FAGGE",
 "Fagge B":"FAGGE",
 "Fagge C":"FAGGE",
@@ -4573,7 +5321,9 @@
 "Sabongari East":"FAGGE",
 "Sabongari West":"FAGGE",
 "Yammata":"FAGGE",
-:
+
+//GABASAWA
+
 "Gabasawa":"GABASAWA",
 "Garun Danga":"GABASAWA",
 "Joda":"GABASAWA",
@@ -4585,7 +5335,9 @@
 "Yumbu":"GABASAWA",
 "Zakirai":"GABASAWA",
 "Zugachi":"GABASAWA",
-:
+
+//GARKO
+
 "Dal":"GARKO",
 "Garin Ali":"GARKO",
 "Garko":"GARKO",
@@ -4596,7 +5348,9 @@
 "Raba":"GARKO",
 "Sarina":"GARKO",
 "Zakarawa":"GARKO",
-:
+
+//GARUN MALAM
+
 "Chiromawa":"GARUN MALAM",
 "Dorawar-sallau":"GARUN MALAM",
 "Fankurun":"GARUN MALAM",
@@ -4607,7 +5361,9 @@
 "Makwaro":"GARUN MALAM",
 "Yad Akwari":"GARUN MALAM",
 "Yalwan Yadakwari":"GARUN MALAM",
-:
+
+//GAYA
+
 "Balan":"GAYA",
 "Gamarya":"GAYA",
 "Gamoji":"GAYA",
@@ -4618,7 +5374,9 @@
 "Maimakawa":"GAYA",
 "Shagogo":"GAYA",
 "Wudilawa":"GAYA",
-:
+
+//GEZAWA
+
 "Babawa":"GEZAWA",
 "Gawo":"GEZAWA",
 "Gezawa":"GEZAWA",
@@ -4630,7 +5388,9 @@
 "Tumbau":"GEZAWA",
 "Wangara":"GEZAWA",
 "Zango":"GEZAWA",
-:
+
+//GWALE
+
 "Dandago":"GWALE",
 "Diso":"GWALE",
 "Dorayi":"GWALE",
@@ -4641,7 +5401,9 @@
 "Kabuga":"GWALE",
 "Mandawari":"GWALE",
 "Sani Mai Magge":"GWALE",
-:
+
+//GWARZO
+
 "Getso":"GWARZO",
 "Gwarzo":"GWARZO",
 "Jama' A":"GWARZO",
@@ -4652,7 +5414,9 @@
 "Mainika":"GWARZO",
 "Sabon Birni":"GWARZO",
 "Unguwar Tudu":"GWARZO",
-:
+
+//KABO
+
 "Dugabau":"KABO",
 "Durun":"KABO",
 "Gammo":"KABO",
@@ -4663,7 +5427,9 @@
 "Kabo":"KABO",
 "Kanwa":"KABO",
 "Masanawa":"KABO",
-:
+
+//KANO MUNICIPAL
+
 "Chedi":"KANO MUNICIPAL",
 "Dan'agundi":"KANO MUNICIPAL",
 "Gandun Albasa":"KANO MUNICIPAL",
@@ -4677,7 +5443,9 @@
 "Yakasai":"KANO MUNICIPAL",
 "Zaitawa":"KANO MUNICIPAL",
 "Zango":"KANO MUNICIPAL",
-:
+
+//KARAYE
+
 "Daura":"KARAYE",
 "Kafin Dafga":"KARAYE",
 "Karaye":"KARAYE",
@@ -4688,7 +5456,9 @@
 "Unguwar Hajji":"KARAYE",
 "Yammedi":"KARAYE",
 "Yola":"KARAYE",
-:
+
+//KIBIYA
+
 "Durba":"KIBIYA",
 "Fammar":"KIBIYA",
 "Fassi":"KIBIYA",
@@ -4699,7 +5469,9 @@
 "Nariya":"KIBIYA",
 "Tarai":"KIBIYA",
 "Unguwar Gai":"KIBIYA",
-:
+
+//KIRU
+
 "Ba'awa":"KIRU",
 "Badafi":"KIRU",
 "Bargoni":"KIRU",
@@ -4715,7 +5487,9 @@
 "Yako":"KIRU",
 "Yalwa":"KIRU",
 "Zuwo":"KIRU",
-:
+
+//KUMBOTSO
+
 "Challawa":"KUMBOTSO",
 "Chiranchi":"KUMBOTSO",
 "Danbare":"KUMBOTSO",
@@ -4727,7 +5501,9 @@
 "Na'ibawa":"KUMBOTSO",
 "Panshekara":"KUMBOTSO",
 "Unguwar Rimi":"KUMBOTSO",
-:
+
+//KUNCHI
+
 "Bumai":"KUNCHI",
 "Garin Sheme":"KUNCHI",
 "Gwarmai":"KUNCHI",
@@ -4738,7 +5514,9 @@
 "Shamakawa":"KUNCHI",
 "Shuwaki":"KUNCHI",
 "Yandadi":"KUNCHI",
-:
+
+//KURA
+
 "Dukawa":"KURA",
 "Gundutse":"KURA",
 "Karfi":"KURA",
@@ -4747,7 +5525,9 @@
 "Kurunsumau":"KURA",
 "Rigar Duka":"KURA",
 "Tanawa":"KURA",
-:
+
+//MADOBI
+
 "Burji":"MADOBI",
 "Cinkoso":"MADOBI",
 "Kafin Agur":"MADOBI",
@@ -4758,7 +5538,9 @@
 "Madobi":"MADOBI",
 "Rikadawa":"MADOBI",
 "Yakun":"MADOBI",
-:
+
+//MAKODA
+
 "Babbar Riga":"MAKODA",
 "Durma":"MAKODA",
 "Jibga":"MAKODA",
@@ -4768,7 +5550,9 @@
 "Satame":"MAKODA",
 "Tangaji":"MAKODA",
 "Wailare":"MAKODA",
-:
+
+//MINJIBIR
+
 "Azore":"MINJIBIR",
 "Gandurwawa":"MINJIBIR",
 "Kantama":"MINJIBIR",
@@ -4778,7 +5562,9 @@
 "Tsakiya":"MINJIBIR",
 "Tsakuwa":"MINJIBIR",
 "Wasai":"MINJIBIR",
-:
+
+//NASARAWA
+
 "Akum":"NASARAWA",
 "Ara I":"NASARAWA",
 "Ara Ii":"NASARAWA",
@@ -4792,7 +5578,9 @@
 "Tunga/bakono":"NASARAWA",
 "Udenin":"NASARAWA",
 "Udenin Gida":"NASARAWA",
-:
+
+//RANO
+
 "Dawaki":"RANO",
 "Lausu":"RANO",
 "Madachi":"RANO",
@@ -4803,6 +5591,9 @@
 "Yalwa":"RANO",
 "Zinyau":"RANO",
 "Zurgu":"RANO",
+
+//RIMIN GADO
+
 "Dugurawa":"RIMIN GADO",
 "Gulu":"RIMIN GADO",
 "Jili":"RIMIN GADO",
@@ -4812,14 +5603,18 @@
 "Tamawa":"RIMIN GADO",
 "Yalwan Danziyal":"RIMIN GADO",
 "Zango Dan Abdu":"RIMIN GADO",
-:
+
+//ROGO
+
 "Beli":"ROGO",
 "Rogo Ruma":"ROGO",
 "Rogo Sabon Gari":"ROGO",
 "Ruwan Bago":"ROGO",
 "Zarewa":"ROGO",
 "Zoza":"ROGO",
-:
+
+//SHANONO
+
 "Alajawa":"SHANONO",
 "Dutsen-bakoshi":"SHANONO",
 "Faruruwa":"SHANONO",
@@ -4827,6 +5622,9 @@
 "Leni":"SHANONO",
 "Shakogi":"SHANONO",
 "Shanono":"SHANONO",
+
+//SUMAILA
+
 "Gala":"SUMAILA",
 "Gani":"SUMAILA",
 "Garfa":"SUMAILA",
@@ -4836,14 +5634,18 @@
 "Rumo":"SUMAILA",
 "Sitti":"SUMAILA",
 "Sumaila":"SUMAILA",
-:
+
+//TAKAI
+
 "Bagwaro":"TAKAI",
 "Falali":"TAKAI",
 "Faruruwa":"TAKAI",
 "Kachako":"TAKAI",
 "Karfi":"TAKAI",
 "Kuka":"TAKAI",
-:
+
+//TARAUNI
+
 "Babban Giji":"TARAUNI",
 "Darmanawa":"TARAUNI",
 "Daurawa":"TARAUNI",
@@ -4852,6 +5654,9 @@
 "Tarauni":"TARAUNI",
 "Unguwa Uku":"TARAUNI",
 "Unguwar Gano":"TARAUNI",
+
+//TOFA
+
 "Doka":"TOFA",
 "Gajida":"TOFA",
 "Ginsawa":"TOFA",
@@ -4864,7 +5669,9 @@
 "Yalwa Karama":"TOFA",
 "Yanoko":"TOFA",
 "Yarimawa":"TOFA",
-:
+
+//TSANYAWA
+
 "Daddarawa":"TSANYAWA",
 "Dunbulun":"TSANYAWA",
 "Gozaki":"TSANYAWA",
@@ -4873,7 +5680,9 @@
 "Tatsan":"TSANYAWA",
 "Tsanyawa":"TSANYAWA",
 "Zarogi":"TSANYAWA",
-:
+
+//TUDUN WADA
+
 "Baburi":"TUDUN WADA",
 "Burumburum":"TUDUN WADA",
 "Dalawa":"TUDUN WADA",
@@ -4885,7 +5694,9 @@
 "Shuwaki":"TUDUN WADA",
 "Tsohogari":"TUDUN WADA",
 "Yaryasa":"TUDUN WADA",
-:
+
+//UNGOGO
+
 "Bachirawa":"UNGOGO",
 "Gayawa":"UNGOGO",
 "Kadawa":"UNGOGO",
@@ -4897,7 +5708,9 @@
 "Ungogo":"UNGOGO",
 "Yadakunya":"UNGOGO",
 "Zango":"UNGOGO",
-:
+
+//WARAWA
+
 "Amarawa":"WARAWA",
 "Danlasan":"WARAWA",
 "Garin Dau":"WARAWA",
@@ -4913,7 +5726,9 @@
 "Warawa":"WARAWA",
 "Yan Dalla":"WARAWA",
 "Yangizo":"WARAWA",
-:
+
+//WUDIL
+
 "Achika":"WUDIL",
 "Dagumawa":"WUDIL",
 "Dankaza":"WUDIL",
@@ -4924,7 +5739,9 @@
 "Sabon Gari":"WUDIL",
 "Utai":"WUDIL",
 "Wudil":"WUDIL",
-:
+
+//BAKORI
+
 "Bakori A":"BAKORI",
 "Bakori B":"BAKORI",
 "Barde/kwantakwaran":"BAKORI",
@@ -4936,7 +5753,9 @@
 "Kandarawa":"BAKORI",
 "Kurami/yankwani":"BAKORI",
 "Tsiga":"BAKORI",
-:
+
+//BATAGARAWA
+
 "Ajiwa":"BATAGARAWA",
 "Bakiyawa":"BATAGARAWA",
 "Barawa":"BATAGARAWA",
@@ -4947,7 +5766,6 @@
 "Kayauki":"BATAGARAWA",
 "Tsanni":"BATAGARAWA",
 "Yargamji":"BATAGARAWA",
-:
 "Abadau/kagara":"BATAGARAWA",
 "Batsari":"BATAGARAWA",
 "Dan. Alh/yangaiya":"BATAGARAWA",
@@ -4959,7 +5777,9 @@
 "Ruma":"BATAGARAWA",
 "Wagini":"BATAGARAWA",
 "Yauyau/mallamawa":"BATAGARAWA",
-:
+
+//BAURE
+
 "Agala":"BAURE",
 "Babban Mutum":"BAURE",
 "Baure":"BAURE",
@@ -4972,7 +5792,9 @@
 "Unguwar Rai":"BAURE",
 "Yanduna":"BAURE",
 "Yanmaulu":"BAURE",
-:
+
+//BINDAWA
+
 "Baure":"BINDAWA",
 "Bindawa":"BINDAWA",
 "Doro":"BINDAWA",
@@ -4984,7 +5806,9 @@
 "Shibdawa":"BINDAWA",
 "Tama/daye":"BINDAWA",
 "Yangora":"BINDAWA",
-:
+
+//CHARANCHI
+
 "Banye":"CHARANCHI",
 "Charanchi":"CHARANCHI",
 "Doka":"CHARANCHI",
@@ -4995,7 +5819,9 @@
 "Radda":"CHARANCHI",
 "Safana":"CHARANCHI",
 "Tsakatsa":"CHARANCHI",
-:
+
+//DANDUME
+
 "Dandume A":"DANDUME",
 "Dandume B":"DANDUME",
 "Dantankari":"DANDUME",
@@ -5007,7 +5833,9 @@
 "Nasarawa":"DANDUME",
 "Tumburkai A":"DANDUME",
 "Tumburkai B":"DANDUME",
-:
+
+//DANJA
+
 "Dabai":"DANJA",
 "Danja A":"DANJA",
 "Danja B":"DANJA",
@@ -5018,7 +5846,9 @@
 "Tsangamawa":"DANJA",
 "Yakaji A":"DANJA",
 "Yakaji B":"DANJA",
-:
+
+//DAN MUSA
+
 "Dan Ali":"DAN MUSA",
 "Dan Alkima":"DAN MUSA",
 "Dan Musa A":"DAN MUSA",
@@ -5030,7 +5860,9 @@
 "Mara":"DAN MUSA",
 "Yan-tumaki A":"DAN MUSA",
 "Yan-tumaki B":"DAN MUSA",
-:
+
+//DAURA
+
 "Kusugu":"DAURA",
 "Madobi A":"DAURA",
 "Madobi B":"DAURA",
@@ -5042,7 +5874,9 @@
 "Tudun Wada":"DAURA",
 "Ubandawaki A":"DAURA",
 "Unbadawaki B":"DAURA",
-:
+
+//DUTSI
+
 "Dan Aunai":"DUTSI",
 "Dutsi A":"DUTSI",
 "Dutsi B":"DUTSI",
@@ -5053,7 +5887,9 @@
 "Sirika B":"DUTSI",
 "Yamel A":"DUTSI",
 "Yamel B":"DUTSI",
-:
+
+//DUTSIN-MA
+
 "Bagagadi":"DUTSIN-MA",
 "Dabawa":"DUTSIN-MA",
 "Dutsin-ma A":"DUTSIN-MA",
@@ -5065,7 +5901,9 @@
 "Kutawa":"DUTSIN-MA",
 "Makera":"DUTSIN-MA",
 "Shema":"DUTSIN-MA",
-:
+
+//FASKARI
+
 "Daudawa":"FASKARI",
 "Faskari":"FASKARI",
 "Maigora":"FASKARI",
@@ -5076,7 +5914,9 @@
 "Tafoki":"FASKARI",
 "Yankara":"FASKARI",
 "Yarmalamai":"FASKARI",
-:
+
+//FUNTUA
+
 "Dandutse":"FUNTUA",
 "Dukke":"FUNTUA",
 "Goya":"FUNTUA",
@@ -5088,7 +5928,9 @@
 "Ung Ibrahim":"FUNTUA",
 "Unguwar Musa":"FUNTUA",
 "Unguwar Rabiu":"FUNTUA",
-:
+
+//INGAWA
+
 "Agayawa":"INGAWA",
 "Bareruwa/ruruma":"INGAWA",
 "Bidore/yaya":"INGAWA",
@@ -5100,7 +5942,9 @@
 "Kurfeji/yankaura":"INGAWA",
 "Manomawa/kafi":"INGAWA",
 "Yandoma":"INGAWA",
-:
+
+//JIBIA
+
 "Bugaje":"JIBIA",
 "Farfaru":"JIBIA",
 "Faru":"JIBIA",
@@ -5114,7 +5958,8 @@
 "Yangaiya":"JIBIA",
 :
 :
-:
+//KAFUR
+
 "Dantutture":"KAFUR",
 "Dutsin Kura/kanya":"KAFUR",
 "Gamzago":"KAFUR",
@@ -5128,7 +5973,8 @@
 :
 :
 :
-:
+//KAITA
+
 "Abdallawa":"KAITA",
 "Baawa":"KAITA",
 "Dankaba":"KAITA",
@@ -5139,7 +5985,9 @@
 "Matsai":"KAITA",
 "Yandaki":"KAITA",
 "Yanhoho":"KAITA",
-:
+
+//KANKARA
+
 "Burdugau":"KANKARA",
 "Dan Murabu":"KANKARA",
 "Dan'maidaki":"KANKARA",
@@ -5151,7 +5999,9 @@
 "Pauwa A&b":"KANKARA",
 "Wawar Kaza":"KANKARA",
 "Zango/zabaro":"KANKARA",
-:
+
+//KANKIA
+
 "Gachi":"KANKIA",
 "Galadima 'a'":"KANKIA",
 "Galadima 'b'":"KANKIA",
@@ -5162,7 +6012,9 @@
 "Rimaye":"KANKIA",
 "Sukuntuni":"KANKIA",
 "Tafashiya/nasarawa":"KANKIA",
-:
+
+//KATSINA
+
 "Kangiwa":"KATSINA",
 "Shinkafi 'a":"KATSINA",
 "Shinkafi 'b'":"KATSINA",
@@ -5175,7 +6027,9 @@
 "Wakilin Kudu Ii":"KATSINA",
 "Wakilin Yamma 1":"KATSINA",
 "Wakilin Yamma 1i":"KATSINA",
-:
+
+//KURFI
+
 "Barkiyya":"KURFI",
 "Birchi":"KURFI",
 "Kurfi 'a'":"KURFI",
@@ -5186,7 +6040,9 @@
 "Tsauri 'b'":"KURFI",
 "Wurma 'a'":"KURFI",
 "Wurma 'b'":"KURFI",
-:
+
+//KUSADA
+
 "Bauranya 'a'":"KUSADA",
 "Bauranya 'b'":"KUSADA",
 "Boko":"KUSADA",
@@ -5197,7 +6053,9 @@
 "Mawashi":"KUSADA",
 "Yashe 'a":"KUSADA",
 "Yashe 'b'":"KUSADA",
-:
+
+//MAI'ADUA
+
 "Bumbum 'a'":"MAI'ADUA",
 "Bumbum 'b'":"MAI'ADUA",
 "Danyashe":"MAI'ADUA",
@@ -5208,7 +6066,9 @@
 "Mai'adua 'b'":"MAI'ADUA",
 "Mai'adua 'c'":"MAI'ADUA",
 "Natsalle":"MAI'ADUA",
-:
+
+//MALUFASHI
+
 "Bumbum 'a'":"MALUFASHI",
 "Borin Dawa":"MALUFASHI",
 "Dansarai":"MALUFASHI",
@@ -5221,7 +6081,9 @@
 "Na-alma":"MALUFASHI",
 "Rawan Sanyi":"MALUFASHI",
 "Yaba":"MALUFASHI",
-:
+
+//MANI
+
 "Bagiwa":"MANI",
 "Bujawa/gewayau":"MANI",
 "Duwan/makau":"MANI",
@@ -5233,7 +6095,9 @@
 "Mani":"MANI",
 "Muduru":"MANI",
 "Tsagem/takusheyi":
-:
+
+//MASHI
+
 "Bamble":"MASHI",
 "Doguru 'a'":"MASHI",
 "Doguru 'b'":"MASHI",
@@ -5245,7 +6109,9 @@
 "Sonkaya":"MASHI",
 "Tamilo 'a'":"MASHI",
 "Tamilo 'b'":"MASHI",
-:
+
+//MATAZU
+
 "Dissi":"MATAZU",
 "Gwarjo":"MATAZU",
 "Karaduwa":"MATAZU",
@@ -5256,7 +6122,9 @@
 "Mazoji 'b'":"MATAZU",
 "Rinjin Idi":"MATAZU",
 "Sayaya":"MATAZU",
-:
+
+//MUSAWA
+
 "Dangani":"MUSAWA",
 "Danjanku/karachi":"MUSAWA",
 "Garu":"MUSAWA",
@@ -5268,7 +6136,9 @@
 "Musawa":"MUSAWA",
 "Tuge":"MUSAWA",
 "Yaradau/tabanni":"MUSAWA",
-:
+
+//RIMI
+
 "Abukur":"RIMI",
 "Fardami":"RIMI",
 "Kadandani":"RIMI",
@@ -5279,7 +6149,6 @@
 "Rimi":"RIMI",
 "Sabon Garin/alarain":"RIMI",
 "Tsagero":"RIMI",
-:
 "Damari":"RIMI",
 "Dugun Mu'azu":"RIMI",
 "Gamji":"RIMI",
@@ -5290,7 +6159,9 @@
 "Sabuwa 'a'":"RIMI",
 "Sabuwa 'b'":"RIMI",
 "Sayau":"RIMI",
-:
+
+//SAFANA
+
 "Babban Duhu 'a'":"SAFANA",
 "Babban Duhu 'b'":"SAFANA",
 "Baure 'a'":"SAFANA",
@@ -5301,7 +6172,9 @@
 "Tsaskiya":"SAFANA",
 "Zakka 'a'":"SAFANA",
 "Zakka 'b'":"SAFANA",
-:
+
+//SANDAMU
+
 "Daneji 'a'":"SANDAMU",
 "Daneji 'b'":"SANDAMU",
 "Fago 'a'":"SANDAMU",
@@ -5313,7 +6186,9 @@
 "Rade 'a'":"SANDAMU",
 "Rade 'b'":"SANDAMU",
 "Sandamu":"SANDAMU",
-:
+
+//ZANGO
+
 "Dargage":"ZANGO",
 "Garni":"ZANGO",
 "Gwamba":"ZANGO",
@@ -5324,7 +6199,9 @@
 "Sara":"ZANGO",
 "Yardaje":"ZANGO",
 "Zango":"ZANGO",
-:
+
+//ALIERO
+
 "Aliero Dangaladima I":"ALIERO",
 "Aliero Dangaladima Ii":"ALIERO",
 "Aliero S/fada I":"ALIERO",
@@ -5335,7 +6212,9 @@
 "Kashin Zama":"ALIERO",
 "Rafin Bauna":"ALIERO",
 "Sabiyal":"ALIERO",
-:
+
+//AREWA
+
 "Biu":"AREWA",
 "Chibike":"AREWA",
 "Daura/sakkwabe/jarkuka":"AREWA",
@@ -5347,7 +6226,9 @@
 "Laima/jantullu":"AREWA",
 "Sarka/dantsoho":"AREWA",
 "Yeldu":"AREWA",
-:
+
+//ARGUNGU
+
 "Alwasa/gotomo":"ARGUNGU",
 "Dikko":"ARGUNGU",
 "Felande":"ARGUNGU",
@@ -5359,7 +6240,6 @@
 "Lailaba":"ARGUNGU",
 "Sauwa/kaurar Sani":"ARGUNGU",
 "Tungar Zazzagawa/rumbuki/sarkawa":"ARGUNGU",
-:
 "Augie North":"ARGUNGU",
 "Augie South":"ARGUNGU",
 "Bagaye/mera":"ARGUNGU",
@@ -5370,7 +6250,9 @@
 "Dundaye/kwaido/zagi/illela":"ARGUNGU",
 "Tiggi/awade":"ARGUNGU",
 "Yola":"ARGUNGU",
-:
+
+//BAGUDO
+
 "Bagudo/tuga":"BAGUDO",
 "Bahindi/boki-doma":"BAGUDO",
 "Bani/tsamiya/kali":"BAGUDO",
@@ -5382,7 +6264,9 @@
 "Matsinka/geza":"BAGUDO",
 "Sharabi/kwanguwai":"BAGUDO",
 "Zagga/kwasara":"BAGUDO",
-:
+
+//BIRNIN KEBBI
+
 "Ambursa":"BIRNIN KEBBI",
 "Birnin Kebbi Dangaladima":"BIRNIN KEBBI",
 "Birnin Kebbi Mafara":"BIRNIN KEBBI",
@@ -5398,7 +6282,9 @@
 "Nassarawa Ii":"BIRNIN KEBBI",
 "Ujariyo":"BIRNIN KEBBI",
 "Zauro":"BIRNIN KEBBI",
-:
+
+//BUNZA
+
 "Bunza Dangaladima":"BUNZA",
 "Bunza Marafa":"BUNZA",
 "Gwade":"BUNZA",
@@ -5409,7 +6295,9 @@
 "Tilli/hilema":"BUNZA",
 "Tunga":"BUNZA",
 "Zogrima":"BUNZA",
-:
+
+//DANDI
+
 "Bani Zumbu":"DANDI",
 "Buma":"DANDI",
 "Dolekaina":"DANDI",
@@ -5421,7 +6309,9 @@
 "Maigwaza":"DANDI",
 "Maihausawa":"DANDI",
 "Shiko":"DANDI",
-:
+
+//FAKAI
+
 "Bajida":"FAKAI",
 "Bangu/garinisa":"FAKAI",
 "Birnin Tudu":"FAKAI",
@@ -5432,7 +6322,9 @@
 "Mahuta":"FAKAI",
 "Marafa":"FAKAI",
 "Penin Amana/penin Gaba":"FAKAI",
-:
+
+//GWANDU
+
 "Cheberu/bada":"GWANDU",
 "Dalijan":"GWANDU",
 "Dodoru":"GWANDU",
@@ -5443,7 +6335,9 @@
 "Malisa":"GWANDU",
 "Maruda":"GWANDU",
 "Masama Kwasgara":"GWANDU",
-:
+
+//JEGA
+
 "Alelu/gehuru":"JEGA",
 "Dangamaji":"JEGA",
 "Dunbegu/bausara":"JEGA",
@@ -5455,7 +6349,9 @@
 "Jega Magaji 'b'":"JEGA",
 "Katanga/fagada":"JEGA",
 "Kimba":"JEGA",
-:
+
+//KALGO
+
 "Badariya/magarza":"KALGO",
 "Dangoma/gayi":"KALGO",
 "Diggi":"KALGO",
@@ -5466,7 +6362,9 @@
 "Nayilwa":"KALGO",
 "Wurogauri":"KALGO",
 "Zuguru":"KALGO",
-:
+
+//KOKO/BESSE
+
 "Besse":"KOKO/BESSE",
 "Dada/alelu":"KOKO/BESSE",
 "Dutsin Mari/dulmeru":"KOKO/BESSE",
@@ -5479,7 +6377,9 @@
 "Maikwari/ Karamar/ Damba/ Bakoshi":"KOKO/BESSE",
 "Takware":"KOKO/BESSE",
 "Zariya Kalakala/amiru":"KOKO/BESSE",
-:
+
+//MAIYAMA
+
 "Andarai/ Kurunkwu/ Zongun Liba":"MAIYAMA",
 "Giwa Tazo/zara":"MAIYAMA",
 "Gumbin Kure":"MAIYAMA",
@@ -5491,7 +6391,10 @@
 "Mungadi/botoro":"MAIYAMA",
 "Sambawa/mayalo":"MAIYAMA",
 "Sarandosa/gubba":"MAIYAMA",
-:
+
+
+//NGASKI
+
 "Birnin Yauri":"NGASKI",
 "Gafara Machupa":"NGASKI",
 "Garin Baka/makarin":"NGASKI",
@@ -5502,7 +6405,9 @@
 "Ngaski":"NGASKI",
 "Utono/hoge":"NGASKI",
 "Wara":"NGASKI",
-:
+
+//SAKABA
+
 "Adai":"SAKABA",
 "Dankolo":"SAKABA",
 "Doka/bere":"SAKABA",
@@ -5513,7 +6418,9 @@
 "Maza/maza":"SAKABA",
 "Sakaba":"SAKABA",
 "Tudun Kuka":"SAKABA",
-:
+
+//SHANGA
+
 "Atuwo":"SHANGA",
 "Binuwa/gebe/bunkuji":"SHANGA",
 "Dugu Tsoho/dugu Raha":"SHANGA",
@@ -5524,7 +6431,9 @@
 "Sokage/golongo/hundeji":"SHANGA",
 "Takware":"SHANGA",
 "Yarbesse":"SHANGA",
-:
+
+//SURU
+
 "Aljannare":"SURU",
 "Bakuwai":"SURU",
 "Bandan":"SURU",
@@ -5536,7 +6445,9 @@
 "Giro":"SURU",
 "Kwaifa":"SURU",
 "Suru":"SURU",
-:
+
+//WASAGU/DANKO
+
 "Ayu":"WASAGU/DANKO",
 "Bena":"WASAGU/DANKO",
 "Dan Umaru/mairairai":"WASAGU/DANKO",
@@ -5548,7 +6459,9 @@
 "Waje":"WASAGU/DANKO",
 "Wasagu":"WASAGU/DANKO",
 "Yalmo/shindi":"WASAGU/DANKO",
-:
+
+//YAURI
+
 "Chulu/koma":"YAURI",
 "Gungun Sarki":"YAURI",
 "Jijima":"YAURI",
@@ -5559,7 +6472,9 @@
 "Yelwa South":"YAURI",
 "Yelwa West":"YAURI",
 "Zamare":"YAURI",
-:
+
+//ZURU
+
 "Bedi":"ZURU",
 "Ciroman Dabai":"ZURU",
 "Isgogo /dago":"ZURU",
@@ -5570,7 +6485,9 @@
 "Senchi":"ZURU",
 "Tadurga":"ZURU",
 "Zodi":"ZURU",
-:
+
+//ADAVI
+
 "Adavi-eba":"ADAVI",
 "Ege/iruvochinomi":"ADAVI",
 "Idanuhua":"ADAVI",
@@ -5582,7 +6499,9 @@
 "Nagazi Farm Centre":"ADAVI",
 "Ogaminana":"ADAVI",
 "Okunchi/ozuri/onieka":"ADAVI",
-:
+
+//AJAOKUTA
+
 "Abodi/patesi":"AJAOKUTA",
 "Achagana":"AJAOKUTA",
 "Adogo":"AJAOKUTA",
@@ -5597,7 +6516,9 @@
 "Ogigiri":"AJAOKUTA",
 "Old Ajaokuta":"AJAOKUTA",
 "Omgbo":"AJAOKUTA",
-:
+
+//ANKPA
+
 "Ankpa I":"ANKPA",
 "Ankpa Ii":"ANKPA",
 "Ankpa Suburb I":"ANKPA",
@@ -5611,7 +6532,9 @@
 "Ojoku Iii":"ANKPA",
 "Ojoku Ii":"ANKPA",
 "Ojoku Iv":"ANKPA",
-:
+
+//BASSA
+
 "Akuba I":"BASSA",
 "Akuba Ii":"BASSA",
 "Ayede/akakana":"BASSA",
@@ -5622,7 +6545,9 @@
 "Mozum":"BASSA",
 "Ozongulo/kpanche":"BASSA",
 "Ozugbe":"BASSA",
-:
+
+//DEKINA
+
 "Abocho":"DEKINA",
 "Adumu Egume":"DEKINA",
 "Anyigba":"DEKINA",
@@ -5635,7 +6560,9 @@
 "Ogbabede":"DEKINA",
 "Ojikpadala":"DEKINA",
 "Okura Olafia":"DEKINA",
-:
+
+//IBAJI
+
 "Akpanyo":"IBAJI",
 "Analo":"IBAJI",
 "Ayah":"IBAJI",
@@ -5646,7 +6573,9 @@
 "Onyedega":"IBAJI",
 "Ujeh":"IBAJI",
 "Unale":"IBAJI",
-:
+
+//IDAH
+
 "Ede":"IDAH",
 "Ega":"IDAH",
 "Ichala":"IDAH",
@@ -5657,7 +6586,9 @@
 "Sabon Gari":"IDAH",
 "Ugwoda":"IDAH",
 "Ukwaja":"IDAH",
-:
+
+//IGALAMELA/ODOLU
+
 "Ajaka I":"IGALAMELA/ODOLU",
 "Ajaka Ii":"IGALAMELA/ODOLU",
 "Akpanya":"IGALAMELA/ODOLU",
@@ -5668,7 +6599,9 @@
 "Oforachi Ii":"IGALAMELA/ODOLU",
 "Oji-aji":"IGALAMELA/ODOLU",
 "Ubele":"IGALAMELA/ODOLU",
-:
+
+//IJUMU
+
 "Aiyegunle":"IJUMU",
 "Aiyere/arimah":"IJUMU",
 "Aiyetoro I":"IJUMU",
@@ -5684,7 +6617,9 @@
 "Odokoro":"IJUMU",
 "Ogale/aduge":"IJUMU",
 "Ogidi":"IJUMU",
-:
+
+//KABBA/BUNU
+
 "Aiyeteju":"KABBA/BUNU",
 "Aiyetoro-kiri":"KABBA/BUNU",
 "Aiyewa":"KABBA/BUNU",
@@ -5700,7 +6635,9 @@
 "Okekoko":"KABBA/BUNU",
 "Olle/oke-ofin":"KABBA/BUNU",
 "Otu":"KABBA/BUNU",
-:
+
+//KOGI . K. K.
+
 "CHIKARA NORTH":"KOGI . K. K.",
 "CHIKARA SOUTH":"KOGI . K. K.",
 "GEGU-BEKI NORTH":"KOGI . K. K.",
@@ -5711,7 +6648,8 @@
 "ODAKI-KOTON KARFE":"KOGI . K. K.",
 "TAWARI":"KOGI . K. K.",
 "UKWO-KOTON KARFE":"KOGI . K. K.",
-:
+//LOKOJA
+
 "Eggan":"LOKOJA",
 "Kakanda":"LOKOJA",
 "Kupa North East":"LOKOJA",
@@ -5722,7 +6660,9 @@
 "Lokoja - D":"LOKOJA",
 "Lokoja - E":"LOKOJA",
 "Oworo":"LOKOJA",
-:
+
+//MOPA MORO
+
 "Agbafogun":"MOPA MORO",
 "Aiyedayo/aiyedaro":"MOPA MORO",
 "Aiyede/okagi":"MOPA MORO",
@@ -5733,7 +6673,9 @@
 "Okeagi/ilai":"MOPA MORO",
 "Orokere":"MOPA MORO",
 "Takete Idde/otafun":"MOPA MORO",
-:
+
+//OFU
+
 "Aloji":"OFU",
 "Aloma":"OFU",
 "Ejule Allah":"OFU",
@@ -5745,7 +6687,9 @@
 "Ogbonicha":"OFU",
 "Ugwolawo - 2":"OFU",
 "Ugwolawo - I":"OFU",
-:
+
+//OGORI MANGOGO
+
 "Aiyeromi":"OGORI MANGOGO",
 "Eni":"OGORI MANGOGO",
 "Ileteju":"OGORI MANGOGO",
@@ -5756,7 +6700,9 @@
 "Oshobane":"OGORI MANGOGO",
 "Oturu Opowuroye":"OGORI MANGOGO",
 "Ugugu":"OGORI MANGOGO",
-:
+
+//OKEHI
+
 "Eika / Ohizenyi":"OKEHI",
 "Obaiba I":"OKEHI",
 "Obaiba Ii":"OKEHI",
@@ -5768,7 +6714,9 @@
 "Ohueta":"OKEHI",
 "Okaito / Usungwen":"OKEHI",
 "Okuehu":"OKEHI",
-:
+
+//OKENE
+
 "Abuga/ozuja":"OKENE",
 "Bariki":"OKENE",
 "Idoji":"OKENE",
@@ -5780,7 +6728,9 @@
 "Orietesu":"OKENE",
 "Otutu":"OKENE",
 "Upogoro/odenku":"OKENE",
-:
+
+//OLAMABORO
+
 "Imane I":"OLAMABORO",
 "Imane Ii":"OLAMABORO",
 "Ogugu I":"OLAMABORO",
@@ -5791,7 +6741,9 @@
 "Olamaboro Iii":"OLAMABORO",
 "Olamaboro Iv":"OLAMABORO",
 "Olamaboro V":"OLAMABORO",
-:
+
+//OMALA
+
 "Abejukolo I":"OMALA",
 "Abejukolo Ii":"OMALA",
 "Akpacha":"OMALA",
@@ -5803,7 +6755,9 @@
 "Okpatala":"OMALA",
 "Olla":"OMALA",
 "Opoda/ofejiji":"OMALA",
-:
+
+//YAGBA EAST
+
 "Alu/igbagun/oranre":"YAGBA EAST",
 "Ejuku":"YAGBA EAST",
 "Ife Olukotun I":"YAGBA EAST",
@@ -5814,7 +6768,6 @@
 "Makutu I":"YAGBA EAST",
 "Makutu Ii":"YAGBA EAST",
 "Ponyan":"YAGBA EAST",
-:
 "Ejiba":"YAGBA EAST",
 "Isaulu Esa/okoloke/okunran":"YAGBA EAST",
 "Iyamerin/igbaruku":"YAGBA EAST",
@@ -5829,7 +6782,9 @@
 "Oke Egbe Ii":"YAGBA EAST",
 "Oke Egbe Iii":"YAGBA EAST",
 "Oke Egbe Iv":"YAGBA EAST",
-:
+
+//ASA
+
 "Adigbongbo/awe/orimaro":"ASA",
 "Afon":"ASA",
 "Ago/oja/oshin/sapati/laduba":"ASA",
@@ -5847,7 +6802,9 @@
 "Owode/gbogun":"ASA",
 "Yowere 11/okeweru":"ASA",
 "Yowere/sosoki":"ASA",
-:
+
+//BARUTEN
+
 "Boriya/shiya":"BARUTEN",
 "Gure/gwasoro":"BARUTEN",
 "Gwanara":"BARUTEN",
@@ -5859,7 +6816,9 @@
 "Okuta":"BARUTEN",
 "Shinawu/tunbuyan":"BARUTEN",
 "Yashikira":"BARUTEN",
-:
+
+//EDU
+
 "LAFIAGI 1":"EDU",
 "LAFIAGI 2":"EDU",
 "LAFIAGI 3":"EDU",
@@ -5870,7 +6829,9 @@
 "TSONGA 1":"EDU",
 "TSONGA 2":"EDU",
 "TSONGA 3":"EDU",
-:
+
+//EKITI
+
 "Eruku":"EKITI",
 "Isapa":"EKITI",
 "Koro":"EKITI",
@@ -5881,7 +6842,9 @@
 "Opin":"EKITI",
 "Osi 1":"EKITI",
 "Osi 11":"EKITI",
-:
+
+//IFELODUN
+
 "Agunjin":"IFELODUN",
 "Idofian 1":"IFELODUN",
 "Idofian 11":"IFELODUN",
@@ -5900,7 +6863,9 @@
 "Share 111":"IFELODUN",
 "Share 1v":"IFELODUN",
 "Share V":"IFELODUN",
-:
+
+//ILORIN EAST
+
 "Agbeyangi/gbadamu/osin":"ILORIN EAST",
 "Apado":"ILORIN EAST",
 "Bologun Gambari 11":"ILORIN EAST",
@@ -5913,7 +6878,9 @@
 "Maya/ile-apa":"ILORIN EAST",
 "Oke Oyi/oke Ose/alalubosa":"ILORIN EAST",
 "Zango":
-:
+
+//ILORIN-SOUTH
+
 "Akanbi -1":"ILORIN-SOUTH",
 "Akanbi -11":"ILORIN-SOUTH",
 "Akanbi -111":"ILORIN-SOUTH",
@@ -5925,7 +6892,9 @@
 "Okaka 1":"ILORIN-SOUTH",
 "Okaka 11":"ILORIN-SOUTH",
 "Oke-ogun":"ILORIN-SOUTH",
-:
+
+//ILORIN-WEST
+
 "Adewole":"ILORIN-WEST",
 "Ajikobi":"ILORIN-WEST",
 "Baboko":"ILORIN-WEST",
@@ -5938,7 +6907,9 @@
 "Oloje":"ILORIN-WEST",
 "Ubandawaki":"ILORIN-WEST",
 "Warrah/egbe Jila/oshin":"ILORIN-WEST",
-:
+
+//IREPODUN
+
 "Ajase Ipo 1":"IREPODUN",
 "Ajase Ipo 11":"IREPODUN",
 "Arandun":"IREPODUN",
@@ -5950,7 +6921,9 @@
 "Omu-aran 111 (ifaja)":"IREPODUN",
 "Oro 1":"IREPODUN",
 "Oro 11":"IREPODUN",
-:
+
+//ISIN
+
 "Alla":"ISIN",
 "Edidi":"ISIN",
 "Ijara Isin":"ISIN",
@@ -5962,7 +6935,9 @@
 "Olla":"ISIN",
 "Owu Isin":"ISIN",
 "Sabaja/pamo":"ISIN",
-:
+
+//KAIAMA
+
 "Adena":"KAIAMA",
 "Bani":"KAIAMA",
 "Gwanabe 1":"KAIAMA",
@@ -5973,7 +6948,9 @@
 "Kaiama 111":"KAIAMA",
 "Kemanji":"KAIAMA",
 "Wajibe":"KAIAMA",
-:
+
+//MORO
+
 "Abati/alara":"MORO",
 "Ajanaku":"MORO",
 "Arobadi":"MORO",
@@ -5991,7 +6968,9 @@
 "Pakunmo":"MORO",
 "Shao":"MORO",
 "Womi/ayaki":"MORO",
-:
+
+//OFFA
+
 "Balogun":"OFFA",
 "Essa - A":"OFFA",
 "Essa - B":"OFFA",
@@ -6004,7 +6983,9 @@
 "Shawo Central":"OFFA",
 "Shawo South East":"OFFA",
 "Shawo South West":"OFFA",
-:
+
+//OKE - ERO
+
 "Aiyedun":"OKE - ERO",
 "Ekan":"OKE - ERO",
 "Idofin /odo-ashe":"OKE - ERO",
@@ -6015,7 +6996,9 @@
 "Imoji/ilale/erinmope":"OKE - ERO",
 "Odo-owa 1":"OKE - ERO",
 "Odo-owa 11":"OKE - ERO",
-:
+
+//OYUN
+
 "Erin-ile North":"OYUN",
 "Erin-ile South":"OYUN",
 "Igbona":"OYUN",
@@ -6027,7 +7010,9 @@
 "Ipee":"OYUN",
 "Irra":"OYUN",
 "Ojoku":"OYUN",
-:
+
+//PATIGI
+
 "Kpada 1":"PATIGI",
 "Kpada 11":"PATIGI",
 "Kpada 111":"PATIGI",
@@ -6038,7 +7023,9 @@
 "Patigi 11":"PATIGI",
 "Patigi 111":"PATIGI",
 "Patigi 1v":"PATIGI",
-:
+
+//AGEGE
+
 "Agbotikuyo/dopemu":"AGEGE",
 "Darocha":"AGEGE",
 "Iloro/onipetesi":"AGEGE",
@@ -6050,7 +7037,9 @@
 "Orile Agege/oko Oba":"AGEGE",
 "Oyewole/papa Ashafa":"AGEGE",
 "Tabon Tabon/oko Oba":"AGEGE",
-:
+
+//AJEROMI/IFELODUN
+
 "Ago Hausa":"AJEROMI/IFELODUN",
 "Alaba Oro":"AJEROMI/IFELODUN",
 "Awodi-ora":"AJEROMI/IFELODUN",
@@ -6062,7 +7051,9 @@
 "Temidire Ii":"AJEROMI/IFELODUN",
 "Tolu":"AJEROMI/IFELODUN",
 "Wilmer":"AJEROMI/IFELODUN",
-:
+
+//ALIMOSHO
+
 "Abule-egba/aboru/meiran/alagbado":"ALIMOSHO",
 "Ayobo/ijon Village (camp David)":"ALIMOSHO",
 "Egbe/agodo":"ALIMOSHO",
@@ -6074,7 +7065,9 @@
 "Ipaja South":"ALIMOSHO",
 "Pleasure/oke-odo":"ALIMOSHO",
 "Shasha/akowonjo":"ALIMOSHO",
-:
+
+//AMUWO-ODOFIN
+
 "Amuwo":"AMUWO-ODOFIN",
 "Amuwo-odofin Housing Estate, Mile 2":"AMUWO-ODOFIN",
 "Festac 1":"AMUWO-ODOFIN",
@@ -6087,7 +7080,9 @@
 "Kirikiri":"AMUWO-ODOFIN",
 "Kirikiri":"AMUWO-ODOFIN",
 "Satellite":"AMUWO-ODOFIN",
-:
+
+//APAPA
+
 "Afolabi Alasia Str. And Environs":"APAPA",
 "Apapa I (marine Rd. & Environs)":"APAPA",
 "Apapa Ii (liverpool Rd. And Environs)":"APAPA",
@@ -6098,7 +7093,9 @@
 "Malu Road And Environs":"APAPA",
 "Olodan St. Olojowou St/alh.dogo Olatokunbo St. Iganmu":"APAPA",
 "Sari And Environs":"APAPA",
-:
+
+//BADAGRY
+
 "Ajara":"BADAGRY",
 "Ajido":"BADAGRY",
 "Apa":"BADAGRY",
@@ -6110,7 +7107,9 @@
 "Iya-afin":"BADAGRY",
 "Keta-east":"BADAGRY",
 "Posukoh":"BADAGRY",
-:
+
+//EPE
+
 "Abomiti":"EPE",
 "Agbowa":"EPE",
 "Agbowa Ikosi":"EPE",
@@ -6130,7 +7129,9 @@
 "Orugbo":"EPE",
 "Poka":"EPE",
 "Popo-oba":"EPE",
-:
+
+//ETI-OSA
+
 "Ado/langbasa/badore":"ETI-OSA",
 "Ajah/sangotedo":"ETI-OSA",
 "Ikoyi I":"ETI-OSA",
@@ -6141,7 +7142,9 @@
 "Obalende":"ETI-OSA",
 "Victoria Island I":"ETI-OSA",
 "Victoria Island Ii":"ETI-OSA",
-:
+
+//IBEJU/LEKKI
+
 "02, (orimedu Ii)":"IBEJU/LEKKI",
 "03, (orimedu Iii)":"IBEJU/LEKKI",
 "Ibeju I":"IBEJU/LEKKI",
@@ -6153,7 +7156,9 @@
 "S,2a (siriwon/igbekodo Ii)":"IBEJU/LEKKI",
 "S1, (lekki I)":"IBEJU/LEKKI",
 "S2, (siriwon/igbekodo I)":"IBEJU/LEKKI",
-:
+
+//IFAKO-IJAYE
+
 "Ajegunle/akinde/animashaun":"IFAKO-IJAYE",
 "Alakuko/kollington":"IFAKO-IJAYE",
 "Fagba/akute Road":"IFAKO-IJAYE",
@@ -6165,7 +7170,9 @@
 "New Ifako/oyemekun":"IFAKO-IJAYE",
 "Old Ifako/karaole":"IFAKO-IJAYE",
 "Pamada/abule-egba":"IFAKO-IJAYE",
-:
+
+//IKEJA
+
 "Adekunle Vill./adeniyi Jones/ogba":"IKEJA",
 "Airport/onipetesi/inilekere":"IKEJA",
 "Alausa/oregun/olusosun":"IKEJA",
@@ -6176,7 +7183,8 @@
 "Oke-ira/aguda":"IKEJA",
 "Onigbongbon":"IKEJA",
 "Wasimi/opebi/allen":"IKEJA",
-:
+
+//IKORODU
 "Aga/ijimu":"IKORODU",
 "Agbala":"IKORODU",
 "Agura/iponmi":"IKORODU",
@@ -6196,7 +7204,9 @@
 "Isiu":"IKORODU",
 "Odogunyan":"IKORODU",
 "Olorunda/igbaga":"IKORODU",
-:
+
+//KOSOFE
+
 "Agboyi I":"KOSOFE",
 "Agboyi Ii":"KOSOFE",
 "Anthony/ajao Estate/mende/maryland":"KOSOFE",
@@ -6207,7 +7217,9 @@
 "Ojota/ogudu":"KOSOFE",
 "Owode Onirin/ajegunle/odo-ogun":"KOSOFE",
 "Oworonshoki":"KOSOFE",
-:
+
+//LAGOS ISLAND
+
 "Agarawu/obadina":"LAGOS ISLAND",
 "Anikantamo":"LAGOS ISLAND",
 "Eiyekole":"LAGOS ISLAND",
@@ -6227,7 +7239,9 @@
 "Onikan":"LAGOS ISLAND",
 "Popo-aguda":"LAGOS ISLAND",
 "Sandgrouse":"LAGOS ISLAND",
-:
+
+//LAGOS MAINLAND
+
 "Alagomeji":"LAGOS MAINLAND",
 "Epetedo":"LAGOS MAINLAND",
 "Glover/ebute Metta":"LAGOS MAINLAND",
@@ -6239,7 +7253,9 @@
 "Oyadiran Estate/abule-oja":"LAGOS MAINLAND",
 "Oyingbo Market/ebute Metta":"LAGOS MAINLAND",
 "Yaba/igbobi":"LAGOS MAINLAND",
-:
+
+//MUSHIN
+
 "Alakara":"MUSHIN",
 "Babalosa":"MUSHIN",
 "Babalosa/idi-araba":"MUSHIN",
@@ -6254,7 +7270,9 @@
 "Ojuwoye":"MUSHIN",
 "Olateju":"MUSHIN",
 "Papa-ajao":"MUSHIN",
-:
+
+//OJO
+
 "Ajangbadi":"OJO",
 "Etegbin":"OJO",
 "Iba":"OJO",
@@ -6266,7 +7284,9 @@
 "Okokomaiko":"OJO",
 "Sabo":"OJO",
 "Tafi":"OJO",
-:
+
+//OSHODI/ISOLO
+
 "Ajao Estate":"OSHODI/ISOLO",
 "Ilasamaja":"OSHODI/ISOLO",
 "Ishagatedo":"OSHODI/ISOLO",
@@ -6278,7 +7298,9 @@
 "Oshodi/bolade":"OSHODI/ISOLO",
 "Sogunle":"OSHODI/ISOLO",
 "Sogunle/alasia":"OSHODI/ISOLO",
-:
+
+//SOMOLU
+
 "Abule-okuta/ilaje/bariga":"SOMOLU",
 "Alade":"SOMOLU",
 "Bajulaiye":"SOMOLU",
@@ -6291,7 +7313,9 @@
 "Mafowoku/pedro":"SOMOLU",
 "Onipanu":"SOMOLU",
 "Palmgrove/ijebutedo":"SOMOLU",
-:
+
+//SURULERE
+
 "Adeniran/ogunsanya":"SURULERE",
 "Aguda":"SURULERE",
 "Akinhanmi/cole":"SURULERE",
@@ -6304,7 +7328,9 @@
 "Orile":"SURULERE",
 "Shitta/ogunlana Drive":"SURULERE",
 "Yaba/ojuelegba":"SURULERE",
-:
+
+//AKWANGA
+
 "Agyaga":"AKWANGA",
 "Akwanga East":"AKWANGA",
 "Akwanga West":"AKWANGA",
@@ -6316,7 +7342,9 @@
 "Moroa":"AKWANGA",
 "Ningo / Bohar":"AKWANGA",
 "Nunku":"AKWANGA",
-:
+
+//AWE
+
 "Akiri":"AWE",
 "Azara":"AWE",
 "Galadima":"AWE",
@@ -6327,7 +7355,9 @@
 "Ribi":"AWE",
 "Tunga":"AWE",
 "Wuse":"AWE",
-:
+
+//DOMA
+
 "Agbashi":"DOMA",
 "Akpanaja":"DOMA",
 "Alagye I":"DOMA",
@@ -6338,7 +7368,9 @@
 "Rukubi Ii":"DOMA",
 "Sarkin Dawaki":"DOMA",
 "Ungwan Madaki":"DOMA",
-:
+
+//KARU
+
 "Agada/bagaji":"KARU",
 "Aso / Kodape":"KARU",
 "Gitata":"KARU",
@@ -6350,7 +7382,9 @@
 "Panda / Kare":"KARU",
 "Tattara/kondoro":"KARU",
 "Uke":"KARU",
-:
+
+//KEANA
+
 "Agaza":"KEANA",
 "Aloshi":"KEANA",
 "Amiri":"KEANA",
@@ -6361,7 +7395,9 @@
 "Kwara":"KEANA",
 "Obene":"KEANA",
 "Oki":"KEANA",
-:
+
+//KEFFI
+
 "Ang.rimi":"KEFFI",
 "Angwan Iya I":"KEFFI",
 "Angwan Iya Ii":"KEFFI",
@@ -6372,7 +7408,9 @@
 "Sabon Gari":"KEFFI",
 "Tudun Kofa T.v":"KEFFI",
 "Yara":"KEFFI",
-:
+
+//KOKONA
+
 "Agwada":"KOKONA",
 "Amba":"KOKONA",
 "Bassa":"KOKONA",
@@ -6384,7 +7422,9 @@
 "Koya / Kana":"KOKONA",
 "Ninkoro":"KOKONA",
 "Yelwa":"KOKONA",
-:
+
+//LAFIA
+
 "Adogi":"LAFIA",
 "Agyaragun Tofa":"LAFIA",
 "Arikya":"LAFIA",
@@ -6398,7 +7438,9 @@
 "Shabu/kwandere":"LAFIA",
 "Wakwa":"LAFIA",
 "Zanwa":"LAFIA",
-:
+
+//NASARAWA EGGON
+
 "Agunji":"NASARAWA EGGON",
 "Aloce/ginda":"NASARAWA EGGON",
 "Alogani":"NASARAWA EGGON",
@@ -6413,7 +7455,9 @@
 "Ubbe":"NASARAWA EGGON",
 "Umme":"NASARAWA EGGON",
 "Wakama":"NASARAWA EGGON",
-:
+
+//TOTO
+
 "Bugakarmo":"TOTO",
 "Dausu":"TOTO",
 "Gadagwa":"TOTO",
@@ -6426,7 +7470,9 @@
 "Toto":"TOTO",
 "Ugya":"TOTO",
 "Umaisha":"TOTO",
-:
+
+//WAMBA
+
 "Arum":"WAMBA",
 "Gitta":"WAMBA",
 "Jimiya":"WAMBA",
@@ -6437,7 +7483,9 @@
 "Wamba East":"WAMBA",
 "Wamba West":"WAMBA",
 "Wayo":"WAMBA",
-:
+
+//NASARAWA
+
 "Akum":"NASARAWA",
 "Ara I":"NASARAWA",
 "Ara Ii":"NASARAWA",
@@ -6453,7 +7501,9 @@
 "Tunga/bakono":"NASARAWA",
 "Udenin":"NASARAWA",
 "Udenin Gida":"NASARAWA",
-:
+
+//OBI
+
 "Adudu":"OBI",
 "Agwatashi":"OBI",
 "Deddere/riri":"OBI",
@@ -6464,7 +7514,9 @@
 "Kyakale":"OBI",
 "Obi":"OBI",
 "Tudun Adabu":"OBI",
-:
+
+//AGAIE
+
 "Baro":"AGAIE",
 "Boku":"AGAIE",
 "Dauaci":"AGAIE",
@@ -6476,7 +7528,9 @@
 "Kutiriko":"AGAIE",
 "Magaji":"AGAIE",
 "Tagagi":"AGAIE",
-:
+
+//AGWARA
+
 "Adehe":"AGWARA",
 "Agwata":"AGWARA",
 "Busuru":"AGWARA",
@@ -6487,7 +7541,9 @@
 "Papiri":"AGWARA",
 "Rofia":"AGWARA",
 "Suteku":"AGWARA",
-:
+
+//BIDA
+
 "Bariki":"BIDA",
 "Ceniyan":"BIDA",
 "Dokodza":"BIDA",
@@ -6502,7 +7558,9 @@
 "Umaru Majigi Ii":"BIDA",
 "Umaru/majigi I":"BIDA",
 "Wadata":"BIDA",
-:
+
+//BORGU
+
 "Babanna":"BORGU",
 "Dugga":"BORGU",
 "Kabe/pissa":"BORGU",
@@ -6513,7 +7571,9 @@
 "Riverine":"BORGU",
 "Shagunu":"BORGU",
 "Wawa":"BORGU",
-:
+
+//BOSSO
+
 "Beji":"BOSSO",
 "Bosso Central I":"BOSSO",
 "Bosso Central Ii":"BOSSO",
@@ -6524,7 +7584,9 @@
 "Maikunkele":"BOSSO",
 "Maitumbi":"BOSSO",
 "Shata":"BOSSO",
-:
+
+//CHANCHAGA
+
 "Limawa 'a'":"CHANCHAGA",
 "Limawa 'b'":"CHANCHAGA",
 "Makera":"CHANCHAGA",
@@ -6536,7 +7598,9 @@
 "Sabon Gari":"CHANCHAGA",
 "Tudun Wada North":"CHANCHAGA",
 "Tudun Wada South":"CHANCHAGA",
-:
+
+//EDATTI
+
 "Enagi":"EDATTI",
 "Etsu Tasha":"EDATTI",
 "Fazhi":"EDATTI",
@@ -6547,7 +7611,9 @@
 "Guzan":"EDATTI",
 "Rokota":"EDATTI",
 "Sakpe":"EDATTI",
-:
+
+//GBAKO
+
 "Batagi":"GBAKO",
 "Batako":"GBAKO",
 "Edokota":"GBAKO",
@@ -6558,7 +7624,9 @@
 "Lemu":"GBAKO",
 "Nuwankota":"GBAKO",
 "Sammajiko":"GBAKO",
-:
+
+//GURARA
+
 "Bonu":"GURARA",
 "Diko":"GURARA",
 "Gawu":"GURARA",
@@ -6569,7 +7637,9 @@
 "Lefu":"GURARA",
 "Shako":"GURARA",
 "Tufa":"GURARA",
-:
+
+//KATCHA
+
 "Badeggi":"KATCHA",
 "Bakeko":"KATCHA",
 "Bisanti":"KATCHA",
@@ -6580,7 +7650,9 @@
 "Kataregi":"KATCHA",
 "Katcha":"KATCHA",
 "Sidi Saba":"KATCHA",
-:
+
+//KONTAGORA
+
 "Arewa":"KONTAGORA",
 "Central":"KONTAGORA",
 "Gabas":"KONTAGORA",
@@ -6594,7 +7666,9 @@
 "Tunganwawa":"KONTAGORA",
 "Usalle":"KONTAGORA",
 "Yamma":"KONTAGORA",
-:
+
+//LAPAI
+
 "Arewa/yamma":"LAPAI",
 "Birnin Maza/tashibo":"LAPAI",
 "Ebbo/gbacinku":"LAPAI",
@@ -6605,7 +7679,9 @@
 "Kudu/gabas":"LAPAI",
 "Muye/egba":"LAPAI",
 "Takuti/shaku":"LAPAI",
-:
+
+//LAVUN
+
 "Batati":"LAVUN",
 "Busu/kuchi":"LAVUN",
 "Dabban":"LAVUN",
@@ -6618,7 +7694,9 @@
 "Kutigi":"LAVUN",
 "Lagun":"LAVUN",
 "Mambe":"LAVUN",
-:
+
+//MAGAMA
+
 "Auna Central":"MAGAMA",
 "Auna East":"MAGAMA",
 "Auna East Central":"MAGAMA",
@@ -6630,7 +7708,9 @@
 "Ibelu West":"MAGAMA",
 "Nasko":"MAGAMA",
 "Nassarawa":"MAGAMA",
-:
+
+//MARIGA
+
 "Bangi":"MARIGA",
 "Beri":"MARIGA",
 "Bobi":"MARIGA",
@@ -6642,7 +7722,9 @@
 "Kontokoro":"MARIGA",
 "Kumbashi":"MARIGA",
 "Maburya":"MARIGA",
-:
+
+//MASHEGU
+
 "Babban Rami":"MASHEGU",
 "Dapangi/makera":"MASHEGU",
 "Ibbi":"MASHEGU",
@@ -6653,7 +7735,9 @@
 "Mashegu":"MASHEGU",
 "Mazakuka/likoro":"MASHEGU",
 "Saho-rami":"MASHEGU",
-:
+
+//MOKWA
+
 "Bokani":"MOKWA",
 "Gbajibo/muwo":"MOKWA",
 "Gbara":"MOKWA",
@@ -6665,7 +7749,6 @@
 "Mokwa":"MOKWA",
 "Muregi":"MOKWA",
 "Rabba/ndayako":"MOKWA",
-:
 "Beni":"MOKWA",
 "Dandaudu":"MOKWA",
 "Dangunu":"MOKWA",
@@ -6677,7 +7760,9 @@
 "Kazai":"MOKWA",
 "Kuchi":"MOKWA",
 "Sarkin Pawa":"MOKWA",
-:
+
+//PAIKORO
+
 "Adunu":"PAIKORO",
 "Chimbi":"PAIKORO",
 "Gwam":"PAIKORO",
@@ -6689,7 +7774,9 @@
 "Nikuchi T/mallam":"PAIKORO",
 "Paiko Central":"PAIKORO",
 "Tutungo Jedna":"PAIKORO",
-:
+
+//RAFI
+
 "Kagara Gari":"RAFI",
 "Kakuri":"RAFI",
 "Kongoma Central":"RAFI",
@@ -6701,7 +7788,9 @@
 "Tegina Gari":"RAFI",
 "Tegina West":"RAFI",
 "Yakila":"RAFI",
-:
+
+//RIJAU
+
 "Danrangi":"RIJAU",
 "Dugge":"RIJAU",
 "Dukku":"RIJAU",
@@ -6713,7 +7802,9 @@
 "T/magajiya":"RIJAU",
 "Ushe":"RIJAU",
 "Warari":"RIJAU",
-:
+
+//SHIRORO
+
 "Allawa":"SHIRORO",
 "Bangajiya":"SHIRORO",
 "Bassa/kukoki":"SHIRORO",
@@ -6729,7 +7820,9 @@
 "Pina":"SHIRORO",
 "She":"SHIRORO",
 "Ubandoma":"SHIRORO",
-:
+
+//SULEJA
+
 "Bagama 'b'":"SULEJA",
 "Bagmama 'a'":"SULEJA",
 "Hashimi 'a'":"SULEJA",
@@ -6740,7 +7833,9 @@
 "Magajiya":"SULEJA",
 "Maje North":"SULEJA",
 "Wambai":"SULEJA",
-:
+
+//TAFA
+
 "Dogon Kurmi":"TAFA",
 "Garam":"TAFA",
 "Ija Gwari":"TAFA",
@@ -6751,7 +7846,6 @@
 "Wuse West":"TAFA",
 "Zuma East":"TAFA",
 "Zuma West":"TAFA",
-:
 "Akare":"TAFA",
 "Barwa":"TAFA",
 "Gwarjiko":"TAFA",
@@ -6763,7 +7857,9 @@
 "Sabon Gari":"TAFA",
 "Tukunji/yamigi":"TAFA",
 "Zungeru":"TAFA",
-:
+
+//ABEOKUTA NORTH
+
 "Ago Oko":"ABEOKUTA NORTH",
 "Elega":"ABEOKUTA NORTH",
 "Gbagura":"ABEOKUTA NORTH",
@@ -6780,7 +7876,9 @@
 "Olorunda Ijale":"ABEOKUTA NORTH",
 "Sabo":"ABEOKUTA NORTH",
 "Totoro/sokori":"ABEOKUTA NORTH",
-:
+
+//ABEOKUTA SOUTH
+
 "Ago-egun/ijesa":"ABEOKUTA SOUTH",
 "Ake I":"ABEOKUTA SOUTH",
 "Ake Iii":"ABEOKUTA SOUTH",
@@ -6796,7 +7894,9 @@
 "Keesi/emere":"ABEOKUTA SOUTH",
 "Sodeke/sale-ijeun I":"ABEOKUTA SOUTH",
 "Sodeke/sale-ijeun Ii":"ABEOKUTA SOUTH",
-:
+
+//ADO ODO-OTA
+
 "Ado Odo I":"ADO ODO-OTA",
 "Ado Odo Ii":"ADO ODO-OTA",
 "Agbara I":"ADO ODO-OTA",
@@ -6813,7 +7913,9 @@
 "Ota Ii":"ADO ODO-OTA",
 "Ota Iii":"ADO ODO-OTA",
 "Sango":"ADO ODO-OTA",
-:
+
+//EGBADO NORTH
+
 "Aye Toro I":"EGBADO NORTH",
 "Aye Toro Ii":"EGBADO NORTH",
 "Ebute Igbooro":"EGBADO NORTH",
@@ -6825,7 +7927,9 @@
 "Imasai":"EGBADO NORTH",
 "Ohunbe":"EGBADO NORTH",
 "Sunwa":"EGBADO NORTH",
-:
+
+//EGBADO SOUTH
+
 "Ajilete":"EGBADO SOUTH",
 "Idogo":"EGBADO SOUTH",
 "Ilaro I":"EGBADO SOUTH",
@@ -6836,7 +7940,9 @@
 "Oke Odan":"EGBADO SOUTH",
 "Owode I":"EGBADO SOUTH",
 "Owode Ii":"EGBADO SOUTH",
-:
+
+//EWEKORO
+
 "Abalabi":"EWEKORO",
 "Arigbajo":"EWEKORO",
 "Asa/yobo":"EWEKORO",
@@ -6847,7 +7953,9 @@
 "Owowo":"EWEKORO",
 "Papalanto":"EWEKORO",
 "Wasimi":"EWEKORO",
-:
+
+//IFO
+
 "Agbado":"IFO",
 "Ajuwon/akute":"IFO",
 "Coker":"IFO",
@@ -6859,7 +7967,9 @@
 "Oke-aro/ibaragun/robiyan":"IFO",
 "Ososun":"IFO",
 "Sunren":"IFO",
-:
+
+//IJEBU EAST
+
 "Ajebandele":"IJEBU EAST",
 "Ijebu Ife I":"IJEBU EAST",
 "Ijebu Ife Ii":"IJEBU EAST",
@@ -6871,7 +7981,9 @@
 "Itele":"IJEBU EAST",
 "Ogbere":"IJEBU EAST",
 "Owu":"IJEBU EAST",
-:
+
+//IJEBU NORTH
+
 "Ago Iwoye I":"IJEBU NORTH",
 "Ago Iwoye Ii":"IJEBU NORTH",
 "Ako-onigbagbo/gelete":"IJEBU NORTH",
@@ -6883,7 +7995,9 @@
 "Omen":"IJEBU NORTH",
 "Oru/awa/ilaporu":"IJEBU NORTH",
 "Osun":"IJEBU NORTH",
-:
+
+//IJEBU NORTH EAST
+
 "Atan/imuku":"IJEBU NORTH EAST",
 "Erunwon":"IJEBU NORTH EAST",
 "Igede/itamarun":"IJEBU NORTH EAST",
@@ -6894,7 +8008,9 @@
 "Odosimadegun/odosebora":"IJEBU NORTH EAST",
 "Oju Ona":"IJEBU NORTH EAST",
 "Oke-eri/ogbogbo":"IJEBU NORTH EAST",
-:
+
+//IJEBU ODE
+
 "Ijade / Imepe I":"IJEBU ODE",
 "Ijade / Imepe Ii":"IJEBU ODE",
 "Ijasi/ Idepo":"IJEBU ODE",
@@ -6906,7 +8022,9 @@
 "Odo-esa":"IJEBU ODE",
 "Porogun I":"IJEBU ODE",
 "Porogun Ii":"IJEBU ODE",
-:
+
+//IKENNE
+
 "Ikenne I":"IKENNE",
 "Ikenne Ii":"IKENNE",
 "Ilisan I":"IKENNE",
@@ -6917,7 +8035,9 @@
 "Iperu Iii":"IKENNE",
 "Ogere I":"IKENNE",
 "Ogere Ii":"IKENNE",
-:
+
+//IMEKO/AFON
+
 "Afon":"IMEKO/AFON",
 "Idi Ayin":"IMEKO/AFON",
 "Idofa":"IMEKO/AFON",
@@ -6928,7 +8048,9 @@
 "Oke Agbede/moriwi/matale":"IMEKO/AFON",
 "Olorunda/gbomo":"IMEKO/AFON",
 "Otapele":"IMEKO/AFON",
-:
+
+//IPOKIA
+
 "Agada":"IPOKIA",
 "Agosasa":"IPOKIA",
 "Ajegunle":"IPOKIA",
@@ -6941,7 +8063,9 @@
 "Mauni I":"IPOKIA",
 "Mauni Ii":"IPOKIA",
 "Tube":"IPOKIA",
-:
+
+//OBAFEMI/OWODE
+
 "Ajebo":"OBAFEMI/OWODE",
 "Ajura":"OBAFEMI/OWODE",
 "Alapako-oni":"OBAFEMI/OWODE",
@@ -6954,7 +8078,9 @@
 "Ofada":"OBAFEMI/OWODE",
 "Onidundu":"OBAFEMI/OWODE",
 "Owode":"OBAFEMI/OWODE",
-:
+
+//ODEDA
+
 "Alabata":"ODEDA",
 "Alagbagba":"ODEDA",
 "Balogun Itesi":"ODEDA",
@@ -6965,7 +8091,6 @@
 "Olodo":"ODEDA",
 "Opeji":"ODEDA",
 "Osiele":"ODEDA",
-:
 "Aiyepe":"ODEDA",
 "Ala/igbile":"ODEDA",
 "Ibefun":"ODEDA",
@@ -6981,7 +8106,9 @@
 "Okun-owa":"ODEDA",
 "Omu":"ODEDA",
 "Ososa":"ODEDA",
-:
+
+//OGUN WATER SIDE
+
 "Abigi":"OGUN WATER SIDE",
 "Ayede/lomiro":"OGUN WATER SIDE",
 "Ayila/itebu":"OGUN WATER SIDE",
@@ -6992,7 +8119,9 @@
 "Makun/irokun":"OGUN WATER SIDE",
 "Ode-omi":"OGUN WATER SIDE",
 "Oni":"OGUN WATER SIDE",
-:
+
+//REMO NORTH
+
 "Akaka":"REMO NORTH",
 "Ayegbami":"REMO NORTH",
 "Igan/ajina":"REMO NORTH",
@@ -7003,7 +8132,9 @@
 "Ode Ii":"REMO NORTH",
 "Odofin/imagbo/petekun/dawara":"REMO NORTH",
 "Orile-oko":"REMO NORTH",
-:
+
+//SAGAMU
+
 "Agbowa":"SAGAMU",
 "Ayegbami/ijokun":"SAGAMU",
 "Ibido/ituwa/alara":"SAGAMU",
@@ -7019,7 +8150,9 @@
 "Sabo Ii":"SAGAMU",
 "Simawa / Iwelepe":"SAGAMU",
 "Surulere":"SAGAMU",
-:
+
+//AKOKO NORTH EAST
+
 "Edo":"AKOKO NORTH EAST",
 "Ekan":"AKOKO NORTH EAST",
 "Ikado I":"AKOKO NORTH EAST",
@@ -7033,7 +8166,9 @@
 "Oorun I":"AKOKO NORTH EAST",
 "Oorun Ii":"AKOKO NORTH EAST",
 "Oyinmo":"AKOKO NORTH EAST",
-:
+
+//AKOKO NORTH WEST
+
 "Ajowa/igasi/eriti/gedegede":"AKOKO NORTH WEST",
 "Arigidi Ii":"AKOKO NORTH WEST",
 "Arigidi/iye I":"AKOKO NORTH WEST",
@@ -7044,7 +8179,9 @@
 "Oke-irun/surulere":"AKOKO NORTH WEST",
 "Okeagbe":"AKOKO NORTH WEST",
 "Oyin/oge":"AKOKO NORTH WEST",
-:
+
+//AKOKO SOUTH EAST
+
 "Epinmi I":"AKOKO SOUTH EAST",
 "Epinmi Ii":"AKOKO SOUTH EAST",
 "Ifira":"AKOKO SOUTH EAST",
@@ -7056,7 +8193,9 @@
 "Isua Iii":"AKOKO SOUTH EAST",
 "Isua Iv":"AKOKO SOUTH EAST",
 "Sosan":"AKOKO SOUTH EAST",
-:
+
+//AKOKO SOUTH WEST
+
 "Akungba I":"AKOKO SOUTH WEST",
 "Akungba Ii":"AKOKO SOUTH WEST",
 "Ikun":"AKOKO SOUTH WEST",
@@ -7072,7 +8211,9 @@
 "Oka V B Oka Odo/okela/bolorunduro":"AKOKO SOUTH WEST",
 "Supare I":"AKOKO SOUTH WEST",
 "Supare Ii":"AKOKO SOUTH WEST",
-:
+
+//AKURE NORTH
+
 "Agamo/oke-oore/akomowa":"AKURE NORTH",
 "Ayede/ogbese":"AKURE NORTH",
 "Ayetoro":"AKURE NORTH",
@@ -7085,7 +8226,9 @@
 "Odo-oja/ijigbo":"AKURE NORTH",
 "Oke Iju":"AKURE NORTH",
 "Oke-afa/owode":"AKURE NORTH",
-:
+
+//AKURE SOUTH
+
 "Aponmu":"AKURE SOUTH",
 "Gbogi/isikan I":"AKURE SOUTH",
 "Gbogi/isikan Ii":"AKURE SOUTH",
@@ -7097,7 +8240,10 @@
 "Oke Aro/uro Ii":"AKURE SOUTH",
 "Oshodi/isolo":"AKURE SOUTH",
 "Owode/imuagun":"AKURE SOUTH",
-:
+
+
+//ESE-ODO
+
 "Apoi I":"ESE-ODO",
 "Apoi Ii":"ESE-ODO",
 "Apoi Iii":"ESE-ODO",
@@ -7108,7 +8254,9 @@
 "Arogbo Iii":"ESE-ODO",
 "Ukparama I":"ESE-ODO",
 "Ukparama Ii":"ESE-ODO",
-:
+
+//IDANRE
+
 "Ala-elefosan":"IDANRE",
 "Alade/atosin":"IDANRE",
 "Idale-lemikan":"IDANRE",
@@ -7119,7 +8267,9 @@
 "Isalu Jigbokin":"IDANRE",
 "Ofosu/onisere":"IDANRE",
 "Owena/aponmulona":"IDANRE",
-:
+
+//IFEDORE
+
 "Ero/ibuji/mariwo":"IFEDORE",
 "Igbaka-oke I":"IFEDORE",
 "Igbaka-oke Ii":"IFEDORE",
@@ -7130,7 +8280,9 @@
 "Ipogun/ibule":"IFEDORE",
 "Isarun/ Erigi":"IFEDORE",
 "Obo/ikota/olo-gbo":"IFEDORE",
-:
+
+//ILAJE
+
 "Aheri":"ILAJE",
 "Etikan":"ILAJE",
 "Mahin 1":"ILAJE",
@@ -7143,7 +8295,9 @@
 "Ugbo 1v":"ILAJE",
 "Ugbo V":"ILAJE",
 "Ugbo V1":"ILAJE",
-:
+
+//ILEOLUJI/OKEIGBO
+
 "Ileoluji 1":"ILEOLUJI/OKEIGBO",
 "Ileoluji 11":"ILEOLUJI/OKEIGBO",
 "Ileoluji 1v":"ILEOLUJI/OKEIGBO",
@@ -7154,7 +8308,9 @@
 "Oke-igbo 11":"ILEOLUJI/OKEIGBO",
 "Oke-igbo 111":"ILEOLUJI/OKEIGBO",
 "Oke-igbo 1v":"ILEOLUJI/OKEIGBO",
-:
+
+//IRELE
+
 "Ajagba 1":"IRELE",
 "Ajagba 11":"IRELE",
 "Akotogbo 1":"IRELE",
@@ -7165,7 +8321,9 @@
 "Irele Iii":"IRELE",
 "Irele V":"IRELE",
 "Iyansan/omi":"IRELE",
-:
+
+//ODIGBO
+
 "Agbabu":"ODIGBO",
 "Ago-alaye":"ODIGBO",
 "Ajue":"ODIGBO",
@@ -7177,7 +8335,9 @@
 "Oniparaga":"ODIGBO",
 "Ore 1":"ODIGBO",
 "Ore 11":"ODIGBO",
-:
+
+//OKITIPUPA
+
 "Aye 11":"OKITIPUPA",
 "Ayeka/igbodigo":"OKITIPUPA",
 "Erinje":"OKITIPUPA",
@@ -7191,7 +8351,9 @@
 "Ode Aye 1":"OKITIPUPA",
 "Okitipupa 1":"OKITIPUPA",
 "Okitipupa 11":"OKITIPUPA",
-:
+
+//ONDO EAST
+
 "Asantan Oja":"ONDO EAST",
 "Ateru/otasan/igba":"ONDO EAST",
 "Bolorunduro 1":"ONDO EAST",
@@ -7202,7 +8364,9 @@
 "Orisunmibare":"ONDO EAST",
 "Owena Bridge":"ONDO EAST",
 "Tepo":"ONDO EAST",
-:
+
+//ONDO WEST
+
 "Enuowa/obalalu":"ONDO WEST",
 "Gbaghengha/gbongbo/ajagba Alafia":"ONDO WEST",
 "Ifore/odosida/loro":"ONDO WEST",
@@ -7215,7 +8379,9 @@
 "Okeagunla Okerowo/okekuta":"ONDO WEST",
 "Okelisa Okedoko/ogbodu":"ONDO WEST",
 "Orisunmibare/araromi":"ONDO WEST",
-:
+
+//OSE
+
 "Afo":"OSE",
 "Idoani 1":"OSE",
 "Idoani 11":"OSE",
@@ -7228,7 +8394,9 @@
 "Imoru/arimogija":"OSE",
 "Okeluse":"OSE",
 "Ute":"OSE",
-:
+
+//OWO
+
 "Igboroko 1":"OWO",
 "Igboroko 11":"OWO",
 "Ijebu 1":"OWO",
@@ -7239,7 +8407,9 @@
 "Isuada/ipenmen/idasan/obasooto":"OWO",
 "Iyare":"OWO",
 "Uso/emure Ile":"OWO",
-:
+
+//ATAKUMOSA EAST
+
 "Ajebandele":"ATAKUMOSA EAST",
 "Ayegunle":"ATAKUMOSA EAST",
 "Eti-oni":"ATAKUMOSA EAST",
@@ -7250,7 +8420,9 @@
 "Iperindo":"ATAKUMOSA EAST",
 "Ipole":"ATAKUMOSA EAST",
 "Iwara":"ATAKUMOSA EAST",
-:
+
+//ATAKUMOSA WEST
+
 "Ibodi":"ATAKUMOSA WEST",
 "Ifelodun":"ATAKUMOSA WEST",
 "Ifewara I":"ATAKUMOSA WEST",
@@ -7262,7 +8434,9 @@
 "Osu Iii":"ATAKUMOSA WEST",
 "Osu I":"ATAKUMOSA WEST",
 "Osu Ii":"ATAKUMOSA WEST",
-:
+
+//AYEDAADE
+
 "Anlugbua":"AYEDAADE",
 "Araromi-owu":"AYEDAADE",
 "Balogun":"AYEDAADE",
@@ -7274,7 +8448,9 @@
 "Olufi":"AYEDAADE",
 "Otun Balogun":"AYEDAADE",
 "Otun-olufi":"AYEDAADE",
-:
+
+//AYEDIRE
+
 "Ileogbo I":"AYEDIRE",
 "Ileogbo Ii":"AYEDIRE",
 "Ileogbo Iii":"AYEDIRE",
@@ -7285,7 +8461,9 @@
 "Oluponna 1":"AYEDIRE",
 "Oluponna 1i":"AYEDIRE",
 "Oluponna 1ii":"AYEDIRE",
-:
+
+//BOLUWADURO
+
 "Eripa":"BOLUWADURO",
 "Gbeleru Obaala I":"BOLUWADURO",
 "Gbeleru Obaala Ii":"BOLUWADURO",
@@ -7296,7 +8474,9 @@
 "Oke-irun":"BOLUWADURO",
 "Oke-omi Otan":"BOLUWADURO",
 "Oke-otan":"BOLUWADURO",
-:
+
+//BORIPE
+
 "Ada I":"BORIPE",
 "Ada Ii":"BORIPE",
 "Agba":"BORIPE",
@@ -7308,7 +8488,9 @@
 "Oke Esa/oke Ogi":"BORIPE",
 "Oloti Iragbiji":"BORIPE",
 "Ororuwo":"BORIPE",
-:
+
+//EDE NORTH
+
 "Abogunde/sagba":"EDE NORTH",
 "Alusekere":"EDE NORTH",
 "Apaso":"EDE NORTH",
@@ -7320,7 +8502,9 @@
 "Olusokun":"EDE NORTH",
 "Sabo/agbongbe I":"EDE NORTH",
 "Sabo/agbongbe Ii":"EDE NORTH",
-:
+
+//EDE SOUTH
+
 "Alajue I":"EDE SOUTH",
 "Alajue Ii":"EDE SOUTH",
 "Asunmo":"EDE SOUTH",
@@ -7331,7 +8515,9 @@
 "Olodan":"EDE SOUTH",
 "Oloki/akoda":"EDE SOUTH",
 "Sekona":"EDE SOUTH",
-:
+
+//EGBEDORE
+
 "Ara I":"EGBEDORE",
 "Ara Ii":"EGBEDORE",
 "Awo/abudo":"EGBEDORE",
@@ -7342,7 +8528,9 @@
 "Iwoye/idoo/origo":"EGBEDORE",
 "Ojo/aro":"EGBEDORE",
 "Okin Ni/olorunsogo/ofatedo":"EGBEDORE",
-:
+
+//EJIGBO
+
 "Elejigbo 'a'":"EJIGBO",
 "Elejigbo 'b'/osolo":"EJIGBO",
 "Elejigbo 'c'/mapo":"EJIGBO",
@@ -7354,7 +8542,9 @@
 "Inisa I/aato/igbon":"EJIGBO",
 "Inisa Ii/afaake/ayegunle":"EJIGBO",
 "Ola/aye/agurodo":"EJIGBO",
-:
+
+//IFE CENTRAL
+
 "Akarabata":"IFE CENTRAL",
 "Ilare 1":"IFE CENTRAL",
 "Ilare 1i":"IFE CENTRAL",
@@ -7366,7 +8556,9 @@
 "Iremo V":"IFE CENTRAL",
 "Iremo/ajebandele":"IFE CENTRAL",
 "More Ojaja":"IFE CENTRAL",
-:
+
+//IFEDAYO
+
 "Akesin":"IFEDAYO",
 "Asaoni":"IFEDAYO",
 "Aworo/oke-ila Rural":"IFEDAYO",
@@ -7377,7 +8569,9 @@
 "Obaale":"IFEDAYO",
 "Oyi":"IFEDAYO",
 "Temidire":"IFEDAYO",
-:
+
+//IFE EAST
+
 "Ilode I":"IFE EAST",
 "Ilode Ii":"IFE EAST",
 "Modakeke Ii":"IFE EAST",
@@ -7388,7 +8582,9 @@
 "Okerewe Ii":"IFE EAST",
 "Okerewe Iii":"IFE EAST",
 "Yekemi":"IFE EAST",
-:
+
+//IFE NORTH
+
 "Asipa/akinlalu":"IFE NORTH",
 "Edunabon I":"IFE NORTH",
 "Edunabon Ii":"IFE NORTH",
@@ -7399,7 +8595,9 @@
 "Oyere - Ii":"IFE NORTH",
 "Oyere I":"IFE NORTH",
 "Yakoyo":"IFE NORTH",
-:
+
+//IFE SOUTH
+
 "Aare":"IFE SOUTH",
 "Abiri Ogudu":"IFE SOUTH",
 "Aye":"IFE SOUTH",
@@ -7411,7 +8609,9 @@
 "Oke Owena":"IFE SOUTH",
 "Olode":"IFE SOUTH",
 "Osi":"IFE SOUTH",
-:
+
+//ILA
+
 "Ajaba/edemosi/aba Orangun":"ILA",
 "Ejigbo I":"ILA",
 "Ejigbo Ii":"ILA",
@@ -7423,7 +8623,9 @@
 "Isedo Ii":"ILA",
 "Oke Ede":"ILA",
 "Oke Ola":"ILA",
-:
+
+//ILESA EAST
+
 "Biladu":"ILESA EAST",
 "Bolorunduro":"ILESA EAST",
 "Ifosan/oke-eso":"ILESA EAST",
@@ -7435,7 +8637,9 @@
 "Itisin/ogudu":"ILESA EAST",
 "Okesa":"ILESA EAST",
 "Upper & Lower Ijoka":"ILESA EAST",
-:
+
+//ILESA WEST
+
 "Ayeso":"ILESA WEST",
 "Ereja":"ILESA WEST",
 "Ikoti/araromi":"ILESA WEST",
@@ -8074,7 +9278,7 @@
 "Kabwir/gyangyang":"KANKE",
 "Langshi":"KANKE",
 "Nemel":"KANKE",
-:
+
 "Funyalang":"LANGTANG NORTH",
 "Jat":"LANGTANG NORTH",
 "Keller":"LANGTANG NORTH",
@@ -8089,7 +9293,7 @@
 "Pishe/yashi":"LANGTANG NORTH",
 "Reak":"LANGTANG NORTH",
 "Waroh":"LANGTANG NORTH",
-:
+
 "Dadin Kowa":"LANGTANG SOUTH",
 "Fajul":"LANGTANG SOUTH",
 "Gamakai":"LANGTANG SOUTH",
@@ -8100,7 +9304,7 @@
 "Talgwang":"LANGTANG SOUTH",
 "Timbol":"LANGTANG SOUTH",
 "Turaki":"LANGTANG SOUTH",
-:
+
 "Ampang West":"MANGU",
 "Chanso":"MANGU",
 "Gindiri 1":"MANGU",
@@ -8117,7 +9321,7 @@
 "Mangun":"MANGU",
 "Pan Yam":"MANGU",
 "Pushit":"MANGU",
-:
+
 "Baltep":"MIKANG",
 "Garkawa Central":"MIKANG",
 "Garkawa North":"MIKANG",
@@ -8128,7 +9332,7 @@
 "Piapung 'a'":"MIKANG",
 "Piapung 'b'":"MIKANG",
 "Tunkus":"MIKANG",
-:
+
 "Chip":"PANKSHIN",
 "Dok-pai":"PANKSHIN",
 "Fier":"PANKSHIN",
@@ -8141,7 +9345,7 @@
 "Pankshin Central":"PANKSHIN",
 "Tal":"PANKSHIN",
 "Wokkos":"PANKSHIN",
-:
+
 "Bwall":"QUA'AN PAN",
 "Doemak-goechim":"QUA'AN PAN",
 "Doemak-koplong":"QUA'AN PAN",
@@ -8153,7 +9357,7 @@
 "Kwande":"QUA'AN PAN",
 "Kwang":"QUA'AN PAN",
 "Namu":"QUA'AN PAN",
-:
+
 "Attakar":"RIYOM",
 "Bum":"RIYOM",
 "Danto":"RIYOM",
@@ -8164,7 +9368,7 @@
 "Sharubutu":"RIYOM",
 "Sopp":"RIYOM",
 "Ta-hoss":"RIYOM",
-:
+
 "Derteng":"SHENDAM",
 "Kalong":"SHENDAM",
 "Kurungbau (a)":"SHENDAM",
@@ -8176,7 +9380,7 @@
 "Shendam Central (b)":"SHENDAM",
 "Shimankar":"SHENDAM",
 "Yelwa":"SHENDAM",
-:
+
 "Bashar":"WASE",
 "Danbiram":"WASE",
 "Gudus":"WASE",
@@ -8189,7 +9393,7 @@
 "Saluwe":"WASE",
 "Wase Tofa":"WASE",
 "Yola Wakat":"WASE",
-:
+
 "Akuba I":"WASE",
 "Akuba Ii":"WASE",
 "Ayede/akakana":"WASE",
@@ -8200,7 +9404,7 @@
 "Mozum":"WASE",
 "Ozongulo/kpanche":"WASE",
 "Ozugbe":"WASE",
-:
+
 "Abua Iv":"ABUA-ODUAL",
 "Abua I":"ABUA-ODUAL",
 "Abua Ii":"ABUA-ODUAL",
@@ -8285,20 +9489,20 @@
 "Isia Group I":"ASARI-TORU",
 "Isia Group Ii":"ASARI-TORU",
 "West Cental Group":"ASARI-TORU",
-:
+
 "Ward I Oro-igwe":"BONNY",
 "Ward Ii Court/ Ada Allison":"BONNY",
 "Ward Iii Dan Jumbo/ Beresiri":"BONNY",
 "Ward Iii Orosiriri":"BONNY",
 "Ward Iv New Layout":"BONNY",
-"Ward Ix Nanabie":"BONNY",
+"Ward IX Nanabie":"BONNY",
 "Ward V Finima":"BONNY",
-"Ward Vi Abalamabie":"BONNY",
-"Ward Vii Dema Abbey":"BONNY",
+"Ward VI Abalamabie":"BONNY",
+"Ward VII Dema Abbey":"BONNY",
 "Ward X Oloma Ayaminima":"BONNY",
-"Ward Xi Peterside":"BONNY",
-"Ward Xii Kalaibiama":"BONNY",
-:
+"Ward XI Peterside":"BONNY",
+"Ward XII Kalaibiama":"BONNY",
+
 "Bakana Vi":"DEGEMA",
 "Bakana I":"DEGEMA",
 "Bakana Ii":"DEGEMA",
@@ -10154,4 +11358,4 @@
 "TALATA MAFARA":"ZA",
 "TSAFE":"ZA",
 "ZURMI":"ZA",
-
+}
